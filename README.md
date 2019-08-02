@@ -2,7 +2,7 @@
 
 > This cheat sheet summarize important steps you should follow to promote your open-source project in the best conditions.
 
-## 1. 🎢 Be prepared
+## 1. 🎢 Preparation step
 
 ## 2. 📢 Spread the word about your hard works 
 
