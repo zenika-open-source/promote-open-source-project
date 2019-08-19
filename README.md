@@ -57,7 +57,7 @@ List of availables languages:
 <summary>👌 Insall/Usage must be super easy</summary>
 <p>
 
-> Install/Usage must be as simple as possible. You'll probably lost users if your project is not user friendly.
+> You'll probably lost users if your project is not user friendly.
 
  </p>
 </details>
