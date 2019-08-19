@@ -7,7 +7,11 @@ List of availables languages:
 - [English](./README.md)
 - [Français](./README-fr.md)
 
+<br />
+
 ---
+
+<br />
 
 ## 1. 🎢 Preparation step
 
