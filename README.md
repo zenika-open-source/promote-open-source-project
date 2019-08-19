@@ -50,7 +50,7 @@ List of availables languages:
 
 - ❗ Do not let issues open without answer
 
-- 🙏 Do not hesitate to ask for help
+- 🙏 Invite users to contribute
 
 - 🏆 Reward contributors
 
