@@ -9,8 +9,6 @@ List of availables languages:
 
 ---
 
-# Cheat sheet
-
 ## 1. 🎢 Preparation step
 
 - 😎 Choose a cool name for your project
