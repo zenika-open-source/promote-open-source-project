@@ -17,6 +17,15 @@ List of availables languages:
 
 - 💅 Make your README pretty
 
+    <details>
+    <summary>Details</summary>
+    <p>
+
+  > [List of beautiful readmes](https://github.com/matiassingers/awesome-readme).
+
+    </p>
+    </details>
+
 - ✨ Provide a demo of your project
 
 - 👌 Insall/Usage must be super easy
