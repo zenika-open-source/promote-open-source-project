@@ -38,7 +38,7 @@ List of availables languages:
 
 - ↗️ Share the project on social medias an specialized platforms
 
-- ❓ Make a publication to explain the why and how of the project
+-  📃 Write articles that mention your project
 
 - 🕐 Take care to choose the best time to post and share articles
 
