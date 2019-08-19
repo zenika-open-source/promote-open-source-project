@@ -66,7 +66,7 @@ List of availables languages:
 <summary>📘 Create a clean and well structured documentation</summary>
 <p>
 
-> Create a good documentation is probably the most important step. If your have a small documentation, you can include it in your README. Otherwise, you should probably host it in a diferrent website. Projects like [vuepress](https://v1.vuepress.vuejs.org) helps you creating clean documentations in a simple way.
+> It is probably the most important step. If your have a small documentation, you can include it in your README. Otherwise, you should probably host it in a different website. Projects like [vuepress](https://v1.vuepress.vuejs.org) helps you creating clean documentations in a simple way.
 
  </p>
 </details>
