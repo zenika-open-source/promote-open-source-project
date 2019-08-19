@@ -46,7 +46,7 @@ List of availables languages:
 
 ## 3. 🤝 Keep your users
 
-- ✨ Make update time to time
+- 🆕Try to regularly release new versions of your project
 
 - ❗ Do not let issues open without answer
 
