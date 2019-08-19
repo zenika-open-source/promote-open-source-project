@@ -25,7 +25,7 @@ List of availables languages:
 
 ## 2. 📢 Spread the word about your hard works
 
-- ⭐ Talk about your project to your friends and colleagues to get your first stars before publishing to popular website
+- ⭐ Talk about your project to your friends and colleagues to get your first stars before publishing to social networks
 
     <details>
     <summary>Why ?</summary>
