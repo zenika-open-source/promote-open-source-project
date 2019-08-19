@@ -28,7 +28,7 @@ List of availables languages:
 - ⭐ Talk about your project to your friends and colleagues to get your first stars before publishing to social networks
 
     <details>
-    <summary>Why ?</summary>
+    <summary>Details</summary>
     <p>
 
   > A minimum of stars make your project more trustable then a zero star project.
