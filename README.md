@@ -64,9 +64,3 @@ List of availables languages:
 - 💬 Open a community chat platform
 
 - 🔙 Ask for feedback
-
----
-
-# Useful links
-
-- [List of beautiful readmes](https://github.com/matiassingers/awesome-readme)
