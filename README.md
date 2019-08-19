@@ -11,12 +11,14 @@ List of availables languages:
 
 ## 1. 🎢 Preparation step
 
+<br />
+
 - 😎 Choose a cool name for your project
 
 - 💅 Make your README pretty
 
     <details>
-    <summary>Details</summary>
+    <summary>Show details</summary>
     <p>
 
   > [List of beautiful readmes](https://github.com/matiassingers/awesome-readme).
@@ -30,7 +32,11 @@ List of availables languages:
 
 - 📘 Create a clean and well structured documentation
 
+<br />
+
 ## 2. 📢 Spread the word about your hard works
+
+<br />
 
 - ⭐ Talk about your project to your friends and colleagues to get your first stars before publishing to social networks
 
@@ -45,17 +51,23 @@ List of availables languages:
 
 - ↗️ Share the project on social medias an specialized platforms
 
--  📃 Write articles that mention your project
+- 📃 Write articles that mention your project
 
-- 🕐 Take care to choose the best time to post and share articles
+- 🎤 Present your project at conferences/meetups
 
-- 📘 Manage your communication to make the project be in trending pages
+- 🎥 Record and publish video presenting your project, how it works, etc
+
+- 🕐 Choose the best time to publish on social medias 
+
+<br />
 
 ## 3. 🤝 Keep your users
 
-- 🆕Try to regularly release new versions of your project
+<br />
 
-- ❗ Do not let issues open without answer
+- 🆕 Try to regularly release new versions of your project
+
+- ❗ Do not let issues opened without answer
 
 - 🙏 Invite users to contribute
 
@@ -65,8 +77,4 @@ List of availables languages:
 
 - 🔙 Ask for feedback
 
----
-
-# Useful links
-
-- [List of beautiful readmes](https://github.com/matiassingers/awesome-readme)
+<br />
