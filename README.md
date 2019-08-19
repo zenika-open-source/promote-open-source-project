@@ -52,7 +52,7 @@ List of availables languages:
 
 - 🙏 Do not hesitate to ask for help
 
-- 🤝 Reward contributors
+- 🏆 Reward contributors
 
 - 💬 Open a community chat platform
 
