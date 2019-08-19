@@ -17,7 +17,7 @@ List of availables languages:
 
 - 💅 Make your README pretty
 
-- 👨‍🏫 Provide a demo of your project
+- ✨ Provide a demo of your project
 
 - 👌 Insall/Usage must be super easy
 
