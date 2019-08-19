@@ -26,6 +26,8 @@ List of availables languages:
     </p>
     </details>
 
+- 💪 Highlight strong points of your project 
+
 - ✨ Provide a demo of your project
 
 - 👌 Insall/Usage must be super easy
@@ -59,6 +61,8 @@ List of availables languages:
 
 - 🕐 Choose the best time to publish on social medias 
 
+- 🗑 Don't spam platforms with your promotion
+
 <br />
 
 ## 3. 🤝 Keep your users
@@ -67,7 +71,7 @@ List of availables languages:
 
 - 🆕 Try to regularly release new versions of your project
 
-- ❗ Do not let issues opened without answer
+- ❗ Maintain your project, process opened issues
 
 - 🙏 Invite users to contribute
 
@@ -76,5 +80,7 @@ List of availables languages:
 - 💬 Open a community chat platform
 
 - 🔙 Ask for feedback
+
+- ❤️ Open a use case gallery to show what users built with your project
 
 <br />
