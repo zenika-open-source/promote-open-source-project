@@ -208,7 +208,7 @@ List of availables languages:
 <summary>🔙 Ask for feedback</summary>
 <p>
 
-> User's feedback is the best way to improve your project. They probably have features ideas that can make your project better.
+> User's feedback is the best way to improve your project. They probably have features and ideas that could make your project better.
 
 </p>
 </details>
