@@ -1,6 +1,6 @@
 # Contributing
 
-Contributions, issues and feature requests are very welcome. If you want improve this cheat sheet or translate it in another language, please consider opening an issue ! We will discuss it with out.
+Contributions, issues and feature requests are very welcome. If you want improve this cheat sheet or translate it in another languages, please consider opening an issue ! We will discuss it with you.
 
 If you want to contribute you must read and accept out [Code of Conduct](/code-of-conduct)
 
@@ -9,7 +9,7 @@ If you want to contribute you must read and accept out [Code of Conduct](/code-o
 ### General guidelines
 
 - The master branch is the official document.
-- All new translations / suggestion should be done in dedicated branch from the `master` branch.
+- All new translations / suggestions should be done in dedicated branch from the `master` branch.
 - It's a very nice thing to have multiple small commits as you work on the PR. It's easier to review it. Then we will squash it before merging.
 
 ### Commit messages
