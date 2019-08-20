@@ -107,7 +107,7 @@ List of availables languages:
 <summary>📃 Write articles that mention your project</summary>
 <p>
 
-> Write articles to talk about your project. Purpose can be the technical stack you used, how your project works, problems you encountered, etc. Publish your articles to [medium](https://medium.com/) or [dev.to](https://dev.to/).
+> Write articles about your project. Purpose can be the technical stack you used, how your project works, problems you encountered, etc. Publish your articles to [medium](https://medium.com/) or [dev.to](https://dev.to/).
 
 </p>
 </details>
