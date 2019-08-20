@@ -45,7 +45,7 @@ List of availables languages:
 <p>
 
 > Vistors will want to quickly understand the purpose of your project, how it works and how to use it. Providing a demo is the best way to satisfy users. It could be:
-- An animated GIF demonstratig how your project works
+- An animated GIF demonstrating how your project works
 - A link to a live demo 
 
 </p>
