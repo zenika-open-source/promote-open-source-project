@@ -89,17 +89,18 @@ List of availables languages:
 <p>
 
 > Tell the world about your awesome work! Publish on social medias and specialized platforms:
+>
+> - [Twitter](https://twitter.com)
+> - [Linkedin](https://www.linkedin.com/)
+> - [Facebook](https://www.facebook.com/)
+> - [Reddit](https://www.reddit.com/)
+> - [Dev.to](https://dev.to/)
+> - [Lobsters](https://lobste.rs/)
+> - [Hacker News](https://news.ycombinator.com/)
+> - [Product Hunt](https://www.producthunt.com/)
+> - [Beta page](https://betapage.co/)
+> - [Human Coders](https://news.humancoders.com/)
 
-- [Twitter](https://twitter.com)
-- [Linkedin](https://www.linkedin.com/)
-- [Facebook](https://www.facebook.com/)
-- [Reddit](https://www.reddit.com/)
-- [Dev.to](https://dev.to/)
-- [Lobsters](https://lobste.rs/)
-- [Hacker News](https://news.ycombinator.com/)
-- [Product Hunt](https://www.producthunt.com/)
-- [Beta page](https://betapage.co/)
-- [Human Coders](https://news.humancoders.com/)
 </p>
 </details>
 
