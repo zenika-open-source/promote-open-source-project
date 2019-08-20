@@ -9,10 +9,6 @@ List of availables languages:
 
 <br />
 
----
-
-<br />
-
 ## 1. 🎢 Preparation step
 
 <br />
@@ -30,7 +26,7 @@ List of availables languages:
 <summary>💅 Make your README pretty</summary>
 <p>
 
-> README is the first your user will see. Make it simple, pretty and easy to read. [Here is a list of beautiful READMEs](https://github.com/matiassingers/awesome-readme).
+> README is the first thing your user will see. Make it simple, pretty and easy to read. [Here is a list of beautiful READMEs](https://github.com/matiassingers/awesome-readme).
 
 </p>
 </details>
@@ -39,7 +35,7 @@ List of availables languages:
 <summary>💪 Highlight strong points of your project </summary>
 <p>
 
-> Identify your project strengths and make sure that visitors see them at first.
+> Identify your project strengths and make sure visitors see them at first.
 
 </p>
 </details>
@@ -48,9 +44,11 @@ List of availables languages:
 <summary>✨ Provide a demo of your project</summary>
 <p>
 
-> README is the first your user will see. Make it simple, pretty and easy to read. [Here is a list of beautiful READMEs](https://github.com/matiassingers/awesome-readme).
+> Vistors will want to quickly understand the purpose of your project, how it works and how to use it. Providing a demo is the best way to satisfy users. It could be:
+- An animated GIF demonstrating how your project works
+- A link to a live demo 
 
- </p>
+</p>
 </details>
 
 <details>
@@ -59,14 +57,14 @@ List of availables languages:
 
 > You'll probably lost users if your project is not user friendly.
 
- </p>
+</p>
 </details>
 
 <details>
 <summary>📘 Create a clean and well structured documentation</summary>
 <p>
 
-> It is probably the most important step. If your have a small documentation, you can include it in your README. Otherwise, you should probably host it in a different website. Projects like [vuepress](https://v1.vuepress.vuejs.org) helps you creating clean documentations in a simple way.
+> Creating a good documentation is probably the most important step. If you have a small documentation, you can directly include it in your README. Otherwise, you should probably host it in a separate website. Projects like [vuepress](https://v1.vuepress.vuejs.org) helps you creating clean documentations in a simple way.
 
  </p>
 </details>
@@ -81,7 +79,7 @@ List of availables languages:
 <summary>⭐ Talk about your project to your friends and colleagues to get your first github stars before publishing to social networks</summary>
 <p>
 
-> A minimum stars amount make your project more trustable than a zero star project. Ask people you know to support your project before doing a public annouccement on social medias.
+> A minimum amount of stars make your project more trustable than a project with zero star. Ask people you know to support your project before doing a public announcement on social medias.
 
 </p>
 </details>
@@ -90,7 +88,7 @@ List of availables languages:
 <summary>↗️ Share the project on social medias an specialized platforms</summary>
 <p>
 
-> Tell the world about your awesome project! Publish on social medias and specialized platforms:
+> Tell the world about your awesome work! Publish on social medias and specialized platforms:
 
 - [Twitter](https://twitter.com)
 - [Linkedin](https://www.linkedin.com/)
@@ -109,7 +107,7 @@ List of availables languages:
 <summary>📃 Write articles that mention your project</summary>
 <p>
 
-> Write articles to talk about your project (purpose can be the technical stack you used, how your project works, problems you encountered, etc). Publish your articles to [medium](https://medium.com/) or [dev.to](https://dev.to/).
+> Write articles about your project. Purpose can be the technical stack you used, how your project works, problems you encountered, etc. Publish your articles to [medium](https://medium.com/) or [dev.to](https://dev.to/).
 
 </p>
 </details>
@@ -118,7 +116,7 @@ List of availables languages:
 <summary>🎤 Present your project at conferences/meetups</summary>
 <p>
 
-> Presenting your project at conferences or meetupss is a good way to improve its visibility.
+> Presenting your project at conferences or meetups is a good way to improve its visibility.
 
 </p>
 </details>
@@ -128,7 +126,7 @@ List of availables languages:
 </summary>
 <p>
 
-> Like conferences, recording is not an easy execise, but it's a great way to get your project famous.
+> Recording a video is not an easy execise. However it's probably the most efficient way to make your project famous.
 
 </p>
 </details>
@@ -162,7 +160,7 @@ List of availables languages:
 <summary>🆕 Try to regularly release new versions of your project</summary>
 <p>
 
-> Maintain and improve your project with new releases. Generate changelogs is also a best practice to let your users know about changes.
+> Maintain and improve your project with new releases. Generate changelogs is also a best practice, it allows your users to know about the latest changes.
 
 </p>
 </details>
@@ -171,7 +169,7 @@ List of availables languages:
 <summary>❗ Maintain your project, process opened issues</summary>
 <p>
 
-> Do not let opened issues without response. Be nice with people that took time to open an issue 😉
+> Do not let opened issues without response. Be nice with people that took time to open issues 😉
 
 </p>
 </details>
@@ -180,7 +178,7 @@ List of availables languages:
 <summary>🙏 Invite users to contribute</summary>
 <p>
 
-> A healthy project is a project with a community and contributors. Let your users know that you need helps by tagging some issues with `contribution welcome` or `good first issue` labels.
+> A healthy project is a project with a community and contributors. Let your users know that you need help by tagging some issues with `contribution welcome` or `good first issue` labels.
 
 </p>
 </details>
@@ -189,7 +187,7 @@ List of availables languages:
 <summary>🏆 Reward contributors</summary>
 <p>
 
-> Be nice with people that helped you! Some open-source projects like [gatsby](https://github.com/gatsbyjs/gatsby) reward contributors with goodies. If you can't afford that (which is probably the case), tweet about the contribution and mention the author ([here is an example of tweet](https://twitter.com/FranckAbgrall/status/1139470547492978688)) open a `Contributors` section to your README in order to publicly thanks them (ex: [vuepress contributors section](https://github.com/vuejs/vuepress#code-contributors)). 
+> Be nice with people that helped you! Some open-source projects like [gatsby](https://github.com/gatsbyjs/gatsby) reward contributors with goodies. If you can't afford that, do a public post (on twitter or other platforms) about the contribution and mention the author ([here is an example of tweet](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Open a `Contributors` section in your README to publicly thanks them (ex: [vuepress contributors section](https://github.com/vuejs/vuepress#code-contributors)). 
 
 </p>
 </details>
@@ -210,7 +208,7 @@ List of availables languages:
 <summary>🔙 Ask for feedback</summary>
 <p>
 
-> User's feedback is the best way to improve your project 
+> User's feedback is the best way to improve your project. They probably have features and ideas that could make your project better.
 
 </p>
 </details>
@@ -219,7 +217,7 @@ List of availables languages:
 <summary>❤️ Open a use case gallery to show what users built with your project</summary>
 <p>
 
-> Visitors will trust your project if they see concrete use cases (ex: [vuepress gallery](https://vuepress.gallery/))
+> Visitors will trust your project if they see concrete use case and success stories (ex: [vuepress gallery](https://vuepress.gallery/)).
 
 </p>
 </details>
