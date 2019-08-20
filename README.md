@@ -44,7 +44,7 @@ List of availables languages:
 <summary>✨ Provide a demo of your project</summary>
 <p>
 
-> Vistors will want to quickly understand the purpose of your project, how it works and how to use it. Providing a demo is the best thing to do to satisfy users. It could be:
+> Vistors will want to quickly understand the purpose of your project, how it works and how to use it. Providing a demo is the best way to satisfy users. It could be:
 - An animated GIF demonstratig how your project works
 - A link to a live demo 
 
