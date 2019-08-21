@@ -76,7 +76,7 @@ List of availables languages:
 <br />
 
 <details>
-<summary>⭐ Talk about your project to your friends and colleagues to get your first github stars before publishing to social networks</summary>
+<summary>⭐ Make your project trustable before publishing to social networks</summary>
 <p>
 
 > A minimum amount of stars makes your project more trustable than a project with zero star. Ask people you know to support your project before doing a public announcement on social medias.
