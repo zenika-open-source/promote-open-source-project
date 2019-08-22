@@ -1,8 +1,8 @@
-<h1 align="center">Open source promotion cheat sheet</h1>
-
 <p align="center">
     <img alt="oss image" src="./imgs/zoss-logo.png">
 </p>
+
+<h1 align="center">Open source promotion cheat sheet</h1>
 
 > This cheat sheet summarize important steps you should follow to promote your open-source project in the best conditions.
 
