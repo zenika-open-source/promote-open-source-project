@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="oss image" src="./imgs/zoss-logo.png">
+    <img alt="oss image" src="./imgs/zoss-logo.png" height="200px" width="200px">
 </p>
 
 <h1 align="center">Open source promotion cheat sheet</h1>
