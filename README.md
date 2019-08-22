@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="oss image" src="./imgs/zoss-logo.png" height="200px" width="200px">
+    <img alt="oss image" src="./imgs/zoss-logo.svg" height="200px" width="200px">
 </p>
 
 <h1 align="center">Open source promotion cheat sheet</h1>
@@ -11,7 +11,7 @@ List of availables languages:
 - [English](./README.md)
 - [Français](./README-fr.md)
 
-A language is missing ? Want to improve this cheat sheet ? [Contributors are welcome](./CONTRIBUTING.md) !
+A language is missing ? Want to improve this cheat sheet ? [Contributions are welcome](./CONTRIBUTING.md) !
 
 <br />
 
