@@ -11,7 +11,7 @@ List of availables languages:
 - [English](./README.md)
 - [Français](./README-fr.md)
 
-Your language is not here or you want to improve this document ? Contributors are [welcome](./CONTRIBUTING.md) !
+Your language is not here or you want to improve this document ? [Contributors are welcome](./CONTRIBUTING.md) !
 
 <br />
 
