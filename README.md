@@ -1,4 +1,8 @@
-<h1 align="center">How to promote my open-source? 🚀</h1>
+<p align="center">
+    <img alt="oss image" src="./imgs/zoss-logo.svg" height="200px" width="200px">
+</p>
+
+<h1 align="center">Open source promotion cheat sheet</h1>
 
 > This cheat sheet summarize important steps you should follow to promote your open-source project in the best conditions.
 
@@ -6,6 +10,8 @@ List of availables languages:
 
 - [English](./README.md)
 - [Français](./README-fr.md)
+
+A language is missing ? Want to improve this cheat sheet ? [Contributions are welcome](./CONTRIBUTING.md) !
 
 <br />
 
@@ -17,7 +23,7 @@ List of availables languages:
 <summary>😎 Choose a cool name for your project</summary>
 <p>
 
-> Choose a name users can easily remember. It must not necessarly includes keywords related to the technology you're using within your project (ex: [bento-starter](https://github.com/kefranabg/bento-starter)). 
+> Choose a name users can easily remember. It must not necessarly includes keywords related to the technology you're using within your project (ex: [bento-starter](https://github.com/kefranabg/bento-starter)).
 
 </p>
 </details>
@@ -45,8 +51,9 @@ List of availables languages:
 <p>
 
 > Vistors will want to quickly understand the purpose of your project, how it works and how to use it. Providing a demo is the best way to satisfy users. It could be:
+
 - An animated GIF demonstrating how your project works
-- A link to a live demo 
+- A link to a live demo
 
 </p>
 </details>
@@ -141,12 +148,11 @@ List of availables languages:
 </p>
 </details>
 
-
 <details>
 <summary>🗑 Don't spam platforms with your promotion</summary>
 <p>
 
-> Don't publish twice on the same platform. It will be considered as spam and might cause bad publicity for your project. 
+> Don't publish twice on the same platform. It will be considered as spam and might cause bad publicity for your project.
 
 </p>
 </details>
@@ -188,7 +194,7 @@ List of availables languages:
 <summary>🏆 Reward contributors</summary>
 <p>
 
-> Be nice with people that helped you! Some open-source projects like [gatsby](https://github.com/gatsbyjs/gatsby) reward contributors with goodies. If you can't afford that, do a public post (on twitter or other platforms) about the contribution and mention the author ([here is an example of tweet](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Open a `Contributors` section in your README to publicly thanks them (ex: [vuepress contributors section](https://github.com/vuejs/vuepress#code-contributors)). 
+> Be nice with people that helped you! Some open-source projects like [gatsby](https://github.com/gatsbyjs/gatsby) reward contributors with goodies. If you can't afford that, do a public post (on twitter or other platforms) about the contribution and mention the author ([here is an example of tweet](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Open a `Contributors` section in your README to publicly thanks them (ex: [vuepress contributors section](https://github.com/vuejs/vuepress#code-contributors)).
 
 </p>
 </details>
@@ -198,6 +204,7 @@ List of availables languages:
 <p>
 
 > Github issues are not always the best way to communicate with your users. Use chat platforms to discuss with them:
+
 - [Discord](https://discordapp.com)
 - [Slack](https://slack.com)
 - [Gitter](https://gitter.im/)
