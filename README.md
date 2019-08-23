@@ -2,7 +2,14 @@
     <img alt="oss image" src="./imgs/zoss-logo.svg" height="200px" width="200px">
 </p>
 
-<h1 align="center">Open source promotion cheat sheet</h1>
+<p align="center">
+  <a href="https://twitter.com/intent/tweet?text=How%20to%20promote%20your%20open-source%20projects&url=https://github.com/zenika-open-source/open-source-promotion-cheat-sheet&hashtags=OpenSource,CheatSheet">
+    <img alt="tweet" src="https://img.shields.io/twitter/url/https/twitter?label=Share%20on%20twitter&style=social" target="_blank" />
+  </a>
+</p>
+
+<h1 align="center">Open source promotion cheat sheet </h1>
+
 
 > This cheat sheet summarize important steps you should follow to promote your open-source project in the best conditions. You can click items to expand and get more information from a topic. 
 
@@ -12,7 +19,6 @@ List of availables languages:
 - [Français](./README-fr.md)
 
 A language is missing ? Want to improve this cheat sheet ? [Contributions are welcome](./CONTRIBUTING.md) !
-
 
 ## 1. 🎢 Preparation step
 
