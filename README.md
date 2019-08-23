@@ -4,7 +4,7 @@
 
 <h1 align="center">Open source promotion cheat sheet</h1>
 
-> This cheat sheet summarize important steps you should follow to promote your open-source project in the best conditions.
+> This cheat sheet summarize important steps you should follow to promote your open-source project in the best conditions. You can click items to expand and get more information from a topic. 
 
 List of availables languages:
 
@@ -13,7 +13,6 @@ List of availables languages:
 
 A language is missing ? Want to improve this cheat sheet ? [Contributions are welcome](./CONTRIBUTING.md) !
 
-<br />
 
 ## 1. 🎢 Preparation step
 
@@ -51,9 +50,9 @@ A language is missing ? Want to improve this cheat sheet ? [Contributions are we
 <p>
 
 > Vistors will want to quickly understand the purpose of your project, how it works and how to use it. Providing a demo is the best way to satisfy users. It could be:
-
-- An animated GIF demonstrating how your project works
-- A link to a live demo
+>
+>  - An animated GIF demonstrating how your project works
+>  - A link to a live demo
 
 </p>
 </details>
@@ -204,10 +203,10 @@ A language is missing ? Want to improve this cheat sheet ? [Contributions are we
 <p>
 
 > Github issues are not always the best way to communicate with your users. Use chat platforms to discuss with them:
-
-- [Discord](https://discordapp.com)
-- [Slack](https://slack.com)
-- [Gitter](https://gitter.im/)
+>
+> - [Discord](https://discordapp.com)
+> - [Slack](https://slack.com)
+> - [Gitter](https://gitter.im/)
 
 </p>
 </details>
