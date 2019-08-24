@@ -18,7 +18,7 @@ List of availables languages:
 - [English](./README.md)
 - [Français](./README-fr.md)
 
-A language is missing ? Want to improve this cheat sheet ? [Contributions are welcome](./CONTRIBUTING.md) !
+A language is missing? Want to improve this cheat sheet? [Contributions are welcome](./CONTRIBUTING.md) !
 
 ## 1. 🎢 Preparation step
 
@@ -28,7 +28,7 @@ A language is missing ? Want to improve this cheat sheet ? [Contributions are we
 <summary>😎 Choose a cool name for your project</summary>
 <p>
 
-> Choose a name users can easily remember. It must not necessarly includes keywords related to the technology you're using within your project (ex: [bento-starter](https://github.com/kefranabg/bento-starter)).
+> Choose a short name users can easily remember.
 
 </p>
 </details>
@@ -37,7 +37,7 @@ A language is missing ? Want to improve this cheat sheet ? [Contributions are we
 <summary>💅 Make your README pretty</summary>
 <p>
 
-> README is the first thing your user will see. Make it simple, pretty and easy to read. [Here is a list of beautiful READMEs](https://github.com/matiassingers/awesome-readme).
+> README is the first thing your vistors will see. Make it simple, pretty and easy to read. [Here is a list of beautiful READMEs](https://github.com/matiassingers/awesome-readme).
 
 </p>
 </details>
@@ -67,7 +67,7 @@ A language is missing ? Want to improve this cheat sheet ? [Contributions are we
 <summary>👌 Insall/Usage must be super easy</summary>
 <p>
 
-> You'll probably lost users if your project is not user friendly.
+> You'll probably lost visitors if your project is not user friendly.
 
 </p>
 </details>
@@ -76,7 +76,7 @@ A language is missing ? Want to improve this cheat sheet ? [Contributions are we
 <summary>📘 Create a clean and well structured documentation</summary>
 <p>
 
-> Creating a good documentation is probably the most important step. If you have a small documentation, you can directly include it in your README. Otherwise, you should probably host it in a separate website. Projects like [vuepress](https://v1.vuepress.vuejs.org) helps you creating clean documentations in a simple way.
+> Creating a good documentation is probably the most important step. If you have a small documentation, you can include it within your README. Otherwise, you should probably host it in a separate website. Some open-source projects like [vuepress](https://v1.vuepress.vuejs.org) helps you creating clean documentations in a simple way.
 
  </p>
 </details>
@@ -91,7 +91,7 @@ A language is missing ? Want to improve this cheat sheet ? [Contributions are we
 <summary>⭐ Make your project trustable before publishing to social networks</summary>
 <p>
 
-> A minimum amount of stars makes your project more trustable than a project with zero star. Ask people you know to support your project before doing a public announcement on social medias.
+> Most visitors will check how many stars the project got before considering using it. A minimum amount of stars makes your project more trustable than a project with zero star. This is why you should ask people you know to support your project before doing a public announcement on social medias.
 
 </p>
 </details>
@@ -120,8 +120,10 @@ A language is missing ? Want to improve this cheat sheet ? [Contributions are we
 <summary>📃 Write articles that mention your project</summary>
 <p>
 
-> Write articles about your project. Purpose can be the technical stack you used, how your project works, problems you encountered, etc. Publish your articles to [medium](https://medium.com/) or [dev.to](https://dev.to/).
-
+> Write articles about your project. Purpose can be the technical stack you used, how your project works, problems you encountered, etc. Post to publishing platforms:
+>
+> - [medium](https://medium.com/)
+> - [dev.to](https://dev.to/)
 </p>
 </details>
 
@@ -172,7 +174,7 @@ A language is missing ? Want to improve this cheat sheet ? [Contributions are we
 <summary>🆕 Try to regularly release new versions of your project</summary>
 <p>
 
-> Maintain and improve your project with new releases. Generate changelogs is also a best practice, it allows your users to know about the latest changes.
+> Maintain and improve your project with new releases and generate changelogs.
 
 </p>
 </details>
@@ -190,7 +192,7 @@ A language is missing ? Want to improve this cheat sheet ? [Contributions are we
 <summary>🙏 Invite users to contribute</summary>
 <p>
 
-> A healthy project is a project with a community and contributors. Let your users know that you need help by tagging some issues with `contribution welcome` or `good first issue` labels.
+> A healthy project is a project with a community and contributors. Let your users know that you need help by tagging some issues with `contribution welcome` or `good first issue` labels. [See github labels](https://help.github.com/en/articles/about-labels).
 
 </p>
 </details>
@@ -199,7 +201,7 @@ A language is missing ? Want to improve this cheat sheet ? [Contributions are we
 <summary>🏆 Reward contributors</summary>
 <p>
 
-> Be nice with people that helped you! Some open-source projects like [gatsby](https://github.com/gatsbyjs/gatsby) reward contributors with goodies. If you can't afford that, do a public post (on twitter or other platforms) about the contribution and mention the author ([here is an example of tweet](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Open a `Contributors` section in your README to publicly thanks them (ex: [vuepress contributors section](https://github.com/vuejs/vuepress#code-contributors)).
+> Be nice with people that helped you! Some open-source projects like [gatsby](https://github.com/gatsbyjs/gatsby) reward contributors with goodies. If you can't afford that, do a public post (on twitter or other platforms) about the contribution and mention the author ([here is an example of public thanks](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Open a `Contributors` section in your README to publicly thanks them (ex: [vuepress contributors section](https://github.com/vuejs/vuepress#code-contributors)).
 
 </p>
 </details>
@@ -208,7 +210,7 @@ A language is missing ? Want to improve this cheat sheet ? [Contributions are we
 <summary>💬 Open a community chat platform</summary>
 <p>
 
-> Github issues are not always the best way to communicate with your users. Use chat platforms to discuss with them:
+> Github issues are not always the best way to communicate with your users. If necessary, you can use chat platforms to discuss with them:
 >
 > - [Discord](https://discordapp.com)
 > - [Slack](https://slack.com)
