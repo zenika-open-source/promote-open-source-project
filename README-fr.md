@@ -54,11 +54,6 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 <summary>✨ Fournissez une démo du projet</summary>
 <p>
 
-> Vistors will want to quickly understand the purpose of your project, how it works and how to use it. Providing a demo is the best way to satisfy users. It could be:
->
-> - An animated GIF demonstrating how your project works
-> - A link to a live demo
-
 > Vos visiteurs voudront rapidement comprendre les tenants et aboutissements de votre projet. Comment ça fonctionne et comment l'utiliser. Fournir une démo est une excellente manière de satisfaire vos visiteurs. La démo peut être sous forme :
 >
 > - d'un GIF demontrant comment le projet fonctionne
