@@ -27,7 +27,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 <summary>😎 Choisir un nom cool pour son projet</summary>
 <p>
 
-> Choisissez un nom que les utilisateurs pourront facilement retenir.
+> Choisissez un nom que vos visiteurs pourront facilement retenir.
 
 </p>
 </details>
