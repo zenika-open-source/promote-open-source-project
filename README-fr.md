@@ -72,7 +72,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 </details>
 
 <details>
-<summary>📘 Creer un documentation soigner et bien structurer</summary>
+<summary>📘 Créer une documentation soignée et structurée</summary>
 <p>
 
 > Creating a good documentation is probably the most important step. If you have a small documentation, you can include it within your README. Otherwise, you should probably host it in a separate website. Some open-source projects like [vuepress](https://v1.vuepress.vuejs.org) helps you creating clean documentations in a simple way.
