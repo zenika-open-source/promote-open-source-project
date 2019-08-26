@@ -17,7 +17,7 @@ Liste de langages disponibles :
 - [English](./README.md)
 - [Français](./README-fr.md)
 
-Un langage est manquant ? Vous pensez qu'il est possible d'améliorer ce cheat sheet ? [Les contributions sont les bienvenues](./CONTRIBUTING.md) !
+Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat sheet ? [Les contributions sont les bienvenues](./CONTRIBUTING.md) !
 
 ## 1. 🎢 Etape de préparation
 
