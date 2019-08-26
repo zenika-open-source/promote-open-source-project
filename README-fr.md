@@ -51,7 +51,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 </details>
 
 <details>
-<summary>✨ Fournissez une démo du projet</summary>
+<summary>✨ Mettre une démo du projet à disposition</summary>
 <p>
 
 > Vos visiteurs voudront comprendre rapidement à quel besoin répond votre projet et comment il fonctionne. Mettre une démo à disposition est un excellente moyen de satisfaire vos visiteurs. Le format de la démo peut être :
