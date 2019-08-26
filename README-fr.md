@@ -12,7 +12,7 @@
 
 > Ce cheet sheet résume les étapes importantes à suivre pour promouvoir un projet open-source dans les meilleurs conditions. Il est possible d’afficher des informations supplémentaires pour un élément de la liste en cliquant dessus.
 
-Liste de langages disponibles :
+Langages disponibles :
 
 - [English](./README.md)
 - [Français](./README-fr.md)
