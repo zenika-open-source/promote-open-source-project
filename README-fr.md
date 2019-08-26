@@ -63,7 +63,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 </details>
 
 <details>
-<summary>👌 L'installation doit être simplissime</summary>
+<summary>👌 L'installation et l'utilisation du projet doit être la plus simple possible</summary>
 <p>
 
 > Vous perdrez probablement vos visiteurs si votre projet n'est pas simple à installer.
