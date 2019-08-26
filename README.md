@@ -28,7 +28,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>😎 Choose a cool name for your project</summary>
 <p>
 
-> Choose a short name users can easily remember.
+> Choose a name users can easily remember.
 
 </p>
 </details>
