@@ -54,7 +54,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 <summary>✨ Fournissez une démo du projet</summary>
 <p>
 
-> Vos visiteurs voudront rapidement comprendre les tenants et aboutissements de votre projet. Comment ça fonctionne et comment l'utiliser. Fournir une démo est une excellente manière de satisfaire vos visiteurs. La démo peut être sous forme :
+> Vos visiteurs voudront comprendre rapidement à quel besoin répond votre projet et comment il fonctionne. Mettre une démo à disposition est un excellente moyen de satisfaire vos visiteurs. Le format de la démo peut être :
 >
 > - un GIF animé
 > - un lien vers un démo en ligne
