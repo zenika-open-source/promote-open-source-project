@@ -19,7 +19,7 @@ Langages disponibles :
 
 Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat sheet ? [Les contributions sont les bienvenues](./CONTRIBUTING.md) !
 
-## 1. 🎢 Etape de préparation
+## 1. 🎢 Étape de préparation
 
 <br />
 
