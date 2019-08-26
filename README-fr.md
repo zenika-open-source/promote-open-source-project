@@ -36,7 +36,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 <summary>💅 Soigner la présentation du README</summary>
 <p>
 
-> Le README est la première choses que les visiteurs verront sur la page de votre projet. Soignez la présentation pour qu'elle soit simple, jolie et agreable à lire. [Vous pourrez trouver des bons exemples en cliquant ici.](https://github.com/matiassingers/awesome-readme)
+> Le README est la première choses que les visiteurs verront sur la page de votre projet. Travaillez la présentation pour qu'elle soit simple, jolie et agréable à lire. [Vous trouverez des exemples de README soignés ici.](https://github.com/matiassingers/awesome-readme)
 
 </p>
 </details>
