@@ -57,7 +57,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 > Vos visiteurs voudront rapidement comprendre les tenants et aboutissements de votre projet. Comment ça fonctionne et comment l'utiliser. Fournir une démo est une excellente manière de satisfaire vos visiteurs. La démo peut être sous forme :
 >
 > - un GIF animé
-> - d'un lien vers un démo en ligne
+> - un lien vers un démo en ligne
 
 </p>
 </details>
