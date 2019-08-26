@@ -77,7 +77,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 
 > Creating a good documentation is probably the most important step. If you have a small documentation, you can include it within your README. Otherwise, you should probably host it in a separate website. Some open-source projects like [vuepress](https://v1.vuepress.vuejs.org) helps you creating clean documentations in a simple way.
 
-> Creer un bonne documentation est probablement l'étape la plus importante. Si vous avez une petite documentation il vous sera possible de l'inclure dans votre README. Si celle-ci est volumineuse, le mieux sera de l'extraire vers une application web séparée. Certain projets open source comme [vuepress](https://v1.vuepress.vuejs.org) peuvent vous aider à très vite créer un documentation propre et efficace.
+> Créer un bonne documentation est probablement l'étape la plus importante. Si votre documentation n'est pas longue, vous pouvez l'inclure directement dans votre README. Si celle-ci est volumineuse, le mieux sera de l'héberger sur un site différent. Certains projets open-source comme [vuepress](https://v1.vuepress.vuejs.org) permettent de créer rapidement une jolie documentation.
 
  </p>
 </details>
