@@ -45,7 +45,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 <summary>💪 Mettre en avant les points fort du projet</summary>
 <p>
 
-> Identifiez les points forts de votre projet et mettez les en avant de manière à ce qu'il soit perçu en priorité par vos utilisateurs.
+> Identifiez les points forts de votre projet et mettez les en avant de manière à ce que ce soit la première chose que voient vos visiteurs.
 
 </p>
 </details>
