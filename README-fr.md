@@ -81,3 +81,86 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 </details>
 
 <br />
+
+## 2. 📢 Diffusion du projet
+
+<br />
+
+<details>
+<summary>⭐ Faites en sorte que votre projet soit legitime avant de le publier sur les réseaux sociaux</summary>
+<p>
+
+> La plupart des visiteurs vont regarder le nombre de star que votre projet possède avant de l'utiliser. Un nombre miminum de star permet de rentre votre pojet plus légitime qu'un projet qui n'en a pas. C'est pourquoi, vous devriez demander au personnes que vous connaissez de supporter votre projet avant de faire une annonce publique.
+
+</p>
+</details>
+
+<details>
+<summary>↗️ Partager votre projet sur les réseaux sociaux et les plateformes spécialiées</summary>
+<p>
+
+> Partagez au monde votre travail ! Publiez sur les réseaux sociaux et les plateformes spécialiées :
+>
+> - [Twitter](https://twitter.com)
+> - [Linkedin](https://www.linkedin.com/)
+> - [Facebook](https://www.facebook.com/)
+> - [Reddit](https://www.reddit.com/)
+> - [Dev.to](https://dev.to/)
+> - [Lobsters](https://lobste.rs/)
+> - [Hacker News](https://news.ycombinator.com/)
+> - [Product Hunt](https://www.producthunt.com/)
+> - [Beta page](https://betapage.co/)
+> - [Human Coders](https://news.humancoders.com/)
+
+</p>
+</details>
+
+<details>
+<summary>📃 Ecrire des articles qui mentionnent le projet</summary>
+<p>
+
+> Ecrivez des articles à propos de votre projet. Le sujet peut être la stack technique que vous avez utilisée, les problèmes que vous avez rencontré, etc. Postez sur les plateformes de publication :
+>
+> - [medium](https://medium.com/)
+> - [dev.to](https://dev.to/)
+
+</p>
+</details>
+
+<details>
+<summary>🎤 Présenter le projet à des conferences/meetups</summary>
+<p>
+
+> La présentation de votre projet à des conférences et meetups est un bon moyen d'améliorer sa visibilité.
+
+</p>
+</details>
+
+<details>
+<summary>🎥 Enregistrer et publier des vidéo de présentation du  projet</summary>
+<p>
+
+> Enregistrez une vidéo n'est un exercice facile, cependant c'est l'un des moyens les plus efficaces pour rendre votre projet populaire.
+
+</p>
+</details>
+
+<details>
+<summary>🕐 Choisir le meilleur moment pour publier sur les réseaux sociaux</summary>
+<p>
+
+> Ne publiez pas pendant les vacances ou le week-end. Habituellement, le meilleur moment pour lancer une communication est en milieu de semaine.
+
+</p>
+</details>
+
+<details>
+<summary>🗑 Ne pas spammer les plateforme avec la promotion du projet</summary>
+<p>
+
+> Ne publiez pas deux fois sur la même plateforme. Votre communication pourra être considérée comme du spam et causé de la mauvaise publicité pour votre projet.
+
+</p>
+</details>
+
+<br />
