@@ -137,7 +137,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 </details>
 
 <details>
-<summary>🎥 Enregistrer et publier des vidéo de présentation du  projet</summary>
+<summary>🎥 Enregistrer et publier des vidéo de présentation du projet</summary>
 <p>
 
 > Enregistrez une vidéo n'est un exercice facile, cependant c'est l'un des moyens les plus efficaces pour rendre votre projet populaire.
