@@ -82,7 +82,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 
 <br />
 
-## 2. 📢 Diffusion du projet
+## 2. 📢 Communiquer le projet
 
 <br />
 
