@@ -155,7 +155,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 </details>
 
 <details>
-<summary>🗑 Ne pas spammer les plateforme avec la promotion du projet</summary>
+<summary>🗑 Ne pas spammer les plateformes avec la promotion du projet</summary>
 <p>
 
 > Ne publiez pas deux fois sur la même plateforme. Votre communication pourra être considérée comme du spam et causé de la mauvaise publicité pour votre projet.
