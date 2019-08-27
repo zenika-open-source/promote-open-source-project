@@ -99,7 +99,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 <summary>↗️ Partager votre projet sur les réseaux sociaux et les plateformes spécialisées</summary>
 <p>
 
-> Partagez au monde votre travail ! Publiez sur les réseaux sociaux et les plateformes spécialisées :
+> Partagez votre travail ! Publiez sur les réseaux sociaux et les plateformes spécialisées :
 >
 > - [Twitter](https://twitter.com)
 > - [Linkedin](https://www.linkedin.com/)
