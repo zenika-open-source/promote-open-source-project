@@ -119,7 +119,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 <summary>📃 Ecrire des articles qui mentionnent le projet</summary>
 <p>
 
-> Ecrivez des articles à propos de votre projet. Le sujet peut être la stack technique que vous avez utilisée, les problèmes que vous avez rencontré, etc. Postez sur les plateformes de publication :
+> Écrivez des articles et citez votre projet. Le sujet de l'article peut être lié à la stack technique que vous avez utilisée, les problèmes que vous avez rencontré, etc. Postez sur les plateformes de publication :
 >
 > - [medium](https://medium.com/)
 > - [dev.to](https://dev.to/)
