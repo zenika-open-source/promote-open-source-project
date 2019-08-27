@@ -131,7 +131,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 <summary>🎤 Présenter le projet à des conferences/meetups</summary>
 <p>
 
-> La présentation de votre projet à des conférences et meetups est un bon moyen d'améliorer sa visibilité.
+> La présentation de votre projet à des conférences et meetups est un excellent moyen d'améliorer sa visibilité.
 
 </p>
 </details>
