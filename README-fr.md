@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<h1 align="center">Cheat sheet : Comment promouvoir un projet open-source ?</h1>
+<h1 align="center">Cheat sheet : Promouvoir un projet open-source</h1>
 
 > Ce cheet sheet résume les étapes importantes à suivre pour promouvoir un projet open-source dans les meilleurs conditions. Il est possible d’afficher des informations supplémentaires pour un élément de la liste en cliquant dessus.
 
@@ -78,6 +78,89 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 > Créer un bonne documentation est probablement l'étape la plus importante. Si votre documentation n'est pas longue, vous pouvez l'inclure directement dans votre README. Si celle-ci est volumineuse, le mieux sera de l'héberger sur un site différent. Certains projets open-source comme [vuepress](https://v1.vuepress.vuejs.org) permettent de créer rapidement une jolie documentation.
 
  </p>
+</details>
+
+<br />
+
+## 2. 📢 Communiquer le projet
+
+<br />
+
+<details>
+<summary>⭐ Mettre en confiance les futurs visiteurs avant de publier sur les réseaux sociaux</summary>
+<p>
+
+> La plupart des visiteurs regarderont le nombre de stars du projet avant de l'utiliser. Plus votre projet possède un nombre important stars, plus son indice de fiabilité sera élevé. N'hésitez pas à demander à vos proches, collègues et amis de vous aider à améliorer la crédibilité de votre projet en ajoutant une star.
+
+</p>
+</details>
+
+<details>
+<summary>↗️ Partager le projet sur les réseaux sociaux et les plateformes spécialisées</summary>
+<p>
+
+> Voici quelques plateformes sur lesquelles vous pourriez partager votre travail  :
+>
+> - [Twitter](https://twitter.com)
+> - [Linkedin](https://www.linkedin.com/)
+> - [Facebook](https://www.facebook.com/)
+> - [Reddit](https://www.reddit.com/)
+> - [Dev.to](https://dev.to/)
+> - [Lobsters](https://lobste.rs/)
+> - [Hacker News](https://news.ycombinator.com/)
+> - [Product Hunt](https://www.producthunt.com/)
+> - [Beta page](https://betapage.co/)
+> - [Human Coders](https://news.humancoders.com/)
+
+</p>
+</details>
+
+<details>
+<summary>📃 Ecrire des articles en mentionnant le projet</summary>
+<p>
+
+> Écrivez des articles et citez votre projet. Le sujet de l'article peut être lié à la stack technique que vous avez utilisée, les problèmes que vous avez rencontré, etc. Postez sur les plateformes de publication :
+>
+> - [medium](https://medium.com/)
+> - [dev.to](https://dev.to/)
+
+</p>
+</details>
+
+<details>
+<summary>🎤 Présenter le projet à des conferences/meetups</summary>
+<p>
+
+> La présentation de votre projet à des conférences et meetups est un excellent moyen d'améliorer sa visibilité.
+
+</p>
+</details>
+
+<details>
+<summary>🎥 Enregistrer et publier des vidéo de présentation du projet</summary>
+<p>
+
+> Enregistrez une vidéo n'est un exercice facile, cependant c'est l'un des moyens les plus efficaces pour rendre votre projet populaire.
+
+</p>
+</details>
+
+<details>
+<summary>🕐 Choisir le meilleur moment pour publier sur les réseaux sociaux</summary>
+<p>
+
+> Habituellement, le meilleur moment pour lancer une communication est en milieu de semaine. Ne faites pas de communication pendant les périodes de vacances ou le week-end.
+
+</p>
+</details>
+
+<details>
+<summary>🗑 Ne pas spammer les plateformes avec la promotion du projet</summary>
+<p>
+
+> Ne publiez pas deux fois sur la même plateforme. Votre communication pourra être considérée comme du spam et causer de la mauvaise publicité pour votre projet.
+
+</p>
 </details>
 
 <br />
