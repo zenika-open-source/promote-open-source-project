@@ -171,7 +171,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 <summary>🆕 Mettre à jour régulièrement le projet</summary>
 <p>
 
-> Maitenez et améliorer votre projet avec de nouvelles releases tout en fournissant les changelogs associés.
+> Maintenez et améliorer votre projet avec de nouvelles releases. N'oubliez pas de générer les changelogs associés.
 
 </p>
 </details>
@@ -180,7 +180,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 <summary>❗ Maintenir le projet et traiter les issues ouvertes</summary>
 <p>
 
-> Ne laissez pas les issues de votre projet ouverte sans y répondre. Soyez courtois et sympatique avec les personnes qui ont pris le temps d'ouvrir les issues. 😉
+> Ne laissez pas les issues de votre projet ouverte sans y répondre. Soyez courtois et sympatique avec les personnes qui ont pris le temps d'ouvrir des issues. 😉
 
 </p>
 </details>
@@ -189,7 +189,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 <summary>🙏 Inviter les utilisateurs à contribuer</summary>
 <p>
 
-> Un projet en bonne santé est un projet qui possède une communauté et des contributeurs. Laissez les utilisateur savoir que vous avez besoin d'aide en taggant certaines issues avec les labels `contribution welcome` ou `good first issue`. [Vous trouverez plus d'information sur les labels en cliquant ici.](https://help.github.com/en/articles/about-labels).
+> Un projet en bonne santé est un projet qui possède une communauté et des contributeurs. Montrer à vos utilisateurs que leur aide est la bienvenue en taggant certaines issues avec les labels `contribution welcome` ou `good first issue`. [Vous trouverez plus d'information sur les labels en cliquant ici.](https://help.github.com/en/articles/about-labels).
 
 </p>
 </details>
