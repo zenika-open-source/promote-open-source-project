@@ -164,3 +164,73 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 </details>
 
 <br />
+
+## 3. 🤝 Garder la traction des utilisateurs
+
+<details>
+<summary>🆕 Mettre à jour régulièrement le projet</summary>
+<p>
+
+> Maitenez et améliorer votre projet avec de nouvelles releases tout en fournissant les changelogs associés.
+
+</p>
+</details>
+
+<details>
+<summary>❗ Maintenir le projet et traiter les issues ouvertes</summary>
+<p>
+
+> Ne laissez pas les issues de votre projet ouverte sans y répondre. Soyez courtois et sympatique avec les personnes qui ont pris le temps d'ouvrir les issues. 😉
+
+</p>
+</details>
+
+<details>
+<summary>🙏 Inviter les utilisateurs à contribuer</summary>
+<p>
+
+> Un projet en bonne santé est un projet qui possède une communauté et des contributeurs. Laissez les utilisateur savoir que vous avez besoin d'aide en taggant certaines issues avec les labels `contribution welcome` ou `good first issue`. [Vous trouverez plus d'information sur les labels en cliquant ici.](https://help.github.com/en/articles/about-labels).
+
+</p>
+</details>
+
+<details>
+<summary>🏆 Récompenser vos contributeurs</summary>
+<p>
+
+> Soyez sympatique avec les personnes qui vous ont aidé. Certain projet open-source comme [gatsby](https://github.com/gatsbyjs/gatsby) récompense ses contributeurs avec des goodies. Si vous n'en n'avez pas les moyens, faites une publication (sur twitter ou d'autres plateformes) qui mentionne la contribution et son auteur afin de le remercier (ex: [Post sur twitter](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Vous pouvez aussi ouvrir une section `Contributors` sur votre README afin d'afficher publiquement votre gratitude envers vos contributeurs (ex: [Section contributeurs de vuepress](https://github.com/vuejs/vuepress#code-contributors)).
+
+</p>
+</details>
+
+<details>
+<summary>💬 Ouvrir un chat pour la communauté du projet</summary>
+<p>
+
+> Les issues Github ne sont pas toujours la meilleure manière de communiquer avec vos utilisateurs. Si nécessaire, vous pouvez ouvrir un chat pour discuter avec eux :
+>
+> - [Discord](https://discordapp.com)
+> - [Slack](https://slack.com)
+> - [Gitter](https://gitter.im/)
+
+</p>
+</details>
+
+<details>
+<summary>🔙 Demander des retours</summary>
+<p>
+
+> Les retours des utilisateurs est la meilleure manière d'améliorer votre projet. Vos utilisateurs ont probablement un tas d'idée et de nouvelles fonctionalités qui pourrait rendre votre projet meilleur.
+</p>
+
+<br />
+</details>
+
+<details>
+<summary>❤️ Montrer ce que les autres utilisateurs ont créé avec votre projet</summary>
+<p>
+
+> Les visiteurs auront plus confiance en votre projet si ils voient des cas concrets d'utilisation (ex: [vuepress gallery](https://vuepress.gallery/)).
+
+</p>
+</details>
