@@ -87,7 +87,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 <br />
 
 <details>
-<summary>⭐ Faites en sorte que votre projet soit legitime avant de le publier sur les réseaux sociaux</summary>
+<summary>⭐ Mettre en confiance les futurs visiteurs avant de publier sur les réseaux sociaux</summary>
 <p>
 
 > La plupart des visiteurs vont regarder le nombre de star que votre projet possède avant de l'utiliser. Un nombre miminum de star permet de rentre votre projet plus légitime qu'un projet qui n'en a pas. C'est pourquoi, vous devriez demander aux personnes que vous connaissez de donner leur support à votre projet avant de faire une annonce publique.
