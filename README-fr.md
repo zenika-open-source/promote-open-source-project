@@ -116,7 +116,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 </details>
 
 <details>
-<summary>📃 Ecrire des articles qui mentionnent le projet</summary>
+<summary>📃 Ecrire des articles en mentionnant le projet</summary>
 <p>
 
 > Écrivez des articles et citez votre projet. Le sujet de l'article peut être lié à la stack technique que vous avez utilisée, les problèmes que vous avez rencontré, etc. Postez sur les plateformes de publication :
