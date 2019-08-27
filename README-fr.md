@@ -90,7 +90,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 <summary>⭐ Mettre en confiance les futurs visiteurs avant de publier sur les réseaux sociaux</summary>
 <p>
 
-> La plupart des visiteurs vont regarder le nombre de star que votre projet possède avant de l'utiliser. Un nombre miminum de star permet de rentre votre projet plus légitime qu'un projet qui n'en a pas. C'est pourquoi, vous devriez demander aux personnes que vous connaissez de donner leur support à votre projet avant de faire une annonce publique.
+> La plupart des visiteurs regarderont le nombre de stars du projet avant de l'utiliser. Plus votre projet possède un nombre important stars, plus son indice de fiabilité sera élevé. N'hésitez pas à demander à vos proches, collègues et amis de vous aider à améliorer la crédibilité de votre projet en ajoutant une star.
 
 </p>
 </details>
