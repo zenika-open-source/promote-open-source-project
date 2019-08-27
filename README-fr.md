@@ -149,7 +149,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 <summary>🕐 Choisir le meilleur moment pour publier sur les réseaux sociaux</summary>
 <p>
 
-> Ne réaliser pas de publication pendant les vacances ou le week-end. Habituellement, le meilleur moment pour lancer une communication est en milieu de semaine.
+> Ne réalisez pas de publication pendant les vacances ou le week-end. Habituellement, le meilleur moment pour lancer une communication est en milieu de semaine.
 
 </p>
 </details>
