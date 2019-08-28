@@ -217,7 +217,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 </details>
 
 <details>
-<summary>🔙 Demander des retours</summary>
+<summary>🔙 Demander des retours utilisateurs</summary>
 <p>
 
 > Les retours des utilisateurs est la meilleure manière d'améliorer votre projet. Vos utilisateurs ont probablement un tas d'idée et de nouvelles fonctionalités qui pourrait rendre votre projet meilleur.
