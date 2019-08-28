@@ -195,7 +195,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 </details>
 
 <details>
-<summary>🏆 Récompenser vos contributeurs</summary>
+<summary>🏆 Récompenser les contributeurs</summary>
 <p>
 
 > Soyez sympatique avec les personnes qui vous ont aidé. Certain projet open-source comme [gatsby](https://github.com/gatsbyjs/gatsby) récompense ses contributeurs avec des goodies. Si vous n'en n'avez pas les moyens, faites une publication (sur twitter ou d'autres plateformes) qui mentionne la contribution et son auteur afin de le remercier (ex: [Post sur twitter](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Vous pouvez aussi ouvrir une section `Contributors` sur votre README afin d'afficher publiquement votre gratitude envers vos contributeurs (ex: [Section contributeurs de vuepress](https://github.com/vuejs/vuepress#code-contributors)).
