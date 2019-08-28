@@ -230,7 +230,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 <summary>❤️ Montrer ce que les autres utilisateurs ont créé avec votre projet</summary>
 <p>
 
-> Les visiteurs auront plus confiance en votre projet si ils voient des cas concrets d'utilisation (ex: [vuepress gallery](https://vuepress.gallery/)).
+> Les visiteurs accorderont plus facilement leur confiance si ils voient des cas concrets d'utilisation (ex: [vuepress gallery](https://vuepress.gallery/)).
 
 </p>
 </details>
