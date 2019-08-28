@@ -180,7 +180,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 <summary>❗ Maintenir le projet et traiter les issues ouvertes</summary>
 <p>
 
-> Ne laissez pas les issues de votre projet ouverte sans y répondre. Soyez courtois et sympatique avec les personnes qui ont pris le temps d'ouvrir des issues. 😉
+> Ne laissez pas les issues sans réponses. Soyez courtois et sympathique avec les personnes qui ont pris le temps d'ouvrir des issues. 😉
 
 </p>
 </details>
