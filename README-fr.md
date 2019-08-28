@@ -171,7 +171,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 <summary>🆕 Mettre à jour régulièrement le projet</summary>
 <p>
 
-> Maintenez et améliorer votre projet avec de nouvelles releases. N'oubliez pas de générer les changelogs associés.
+> Maintenez et améliorez votre projet en sortant de nouvelles versions. N'oubliez pas de générer les changelogs associés.
 
 </p>
 </details>
