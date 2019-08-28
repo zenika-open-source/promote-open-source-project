@@ -165,7 +165,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 
 <br />
 
-## 3. 🤝 Garder la traction des utilisateurs
+## 3. 🤝 Garder les utilisateurs
 
 <details>
 <summary>🆕 Mettre régulièrement à jour le projet</summary>
