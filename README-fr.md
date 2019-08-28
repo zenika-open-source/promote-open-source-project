@@ -171,7 +171,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 <summary>🆕 Mettre régulièrement à jour le projet</summary>
 <p>
 
-> Maintenez et améliorez votre projet en sortant de nouvelles versions. N'oubliez pas de générer les changelogs associés.
+> Maintenez et améliorez votre projet en publiant de nouvelles versions. N'oubliez pas de générer les changelogs associés.
 
 </p>
 </details>
@@ -220,7 +220,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 <summary>🔙 Demander des retours utilisateurs</summary>
 <p>
 
-> Les retours des utilisateurs sont un excellent moyen d'améliorer votre projet. Vos utilisateurs ont probablement un tas d'idées qui pourraient rendre améliorer votre projet.
+> Les retours des utilisateurs sont un excellent moyen d'améliorer votre projet. Vos utilisateurs ont probablement un tas d'idées qui pourraient rendre votre projet meilleur.
 </p>
 
 <br />
