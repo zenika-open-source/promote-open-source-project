@@ -64,7 +64,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>👌 Insall/Usage must be super easy</summary>
+<summary>👌 Install/Usage must be super easy</summary>
 <p>
 
 > You'll probably lost visitors if your project is not user friendly.
