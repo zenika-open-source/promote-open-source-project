@@ -189,7 +189,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 <summary>🙏 Inviter les utilisateurs à contribuer</summary>
 <p>
 
-> Un projet en bonne santé est un projet qui possède une communauté et des contributeurs. Montrer à vos utilisateurs que leur aide est la bienvenue en taggant certaines issues avec les labels `contribution welcome` ou `good first issue`. [Vous trouverez plus d'information sur les labels en cliquant ici.](https://help.github.com/en/articles/about-labels).
+> Un projet en bonne santé est un projet qui possède une communauté et des contributeurs. Montrez à vos utilisateurs que leur aide est la bienvenue en taggant certaines issues avec les labels `contribution welcome` ou `good first issue`. [Vous trouverez plus d'information sur les labels en cliquant ici.](https://help.github.com/en/articles/about-labels).
 
 </p>
 </details>
