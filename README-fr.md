@@ -24,6 +24,15 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 <br />
 
 <details>
+<summary>👌 S'assurer que le projet soit assez mature</summary>
+<p>
+
+> Assurez-vous que votre projet soit stable et possède un minimum de fonctionnalités intéressantes pour accrocher les visiteurs.
+
+</p>
+</details>
+
+<details>
 <summary>😎 Choisir un nom cool pour son projet</summary>
 <p>
 
