@@ -13,6 +13,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "tbetous",
+      "name": "Thomas Betous",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/4435536?v=4",
+      "profile": "https://github.com/tbetous",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
