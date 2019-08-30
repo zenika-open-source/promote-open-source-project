@@ -1,5 +1,4 @@
 <p align="center">
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
     <img alt="oss image" src="./imgs/zoss-logo.svg" height="200px" width="200px">
 </p>
 
