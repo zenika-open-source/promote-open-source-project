@@ -28,7 +28,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>👌 Make sure your project is mature enough</summary>
 <p>
 
-> Your project must be stable and mature enough to have features that will keep your user
+> Your project must be stable enough with minimum viables features in order to hook users.
 
 </p>
 </details>
