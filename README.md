@@ -248,7 +248,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 
 <br />
 
-## Contributors ✨
+## ❤️ Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
