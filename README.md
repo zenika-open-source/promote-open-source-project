@@ -33,8 +33,6 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </p>
 </details>
 
-<br />
-
 <details>
 <summary>😎 Choose a cool name for your project</summary>
 <p>
