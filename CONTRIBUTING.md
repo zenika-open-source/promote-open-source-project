@@ -2,7 +2,7 @@
 
 Contributions, issues and feature requests are very welcome. If you want improve this cheat sheet or translate it in another languages, please consider opening an issue ! We will discuss it with you.
 
-If you want to contribute you must read and accept out [Code of Conduct](/code-of-conduct)
+If you want to contribute you must read and accept out [Code of Conduct](./CODE_OF_CONDUCT.md)
 
 ## Guidelines
 
