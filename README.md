@@ -248,6 +248,10 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 
 <br />
 
+## 🙏 Show your support
+
+⭐️ this repository if this cheat sheet helped you!
+
 ## ❤️ Contributors
 
 Thanks goes to these wonderful people:

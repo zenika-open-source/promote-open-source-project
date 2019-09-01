@@ -236,3 +236,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 
 </p>
 </details>
+
+## 🙏 Montrez votre support
+
+N'hésitez pas à mettre une ⭐ si ce projet vous a aidé.
