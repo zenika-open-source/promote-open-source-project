@@ -252,6 +252,8 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 
 ⭐️ this repository if this cheat sheet helped you!
 
+<br />
+
 ## ❤️ Contributors
 
 Thanks goes to these wonderful people:
