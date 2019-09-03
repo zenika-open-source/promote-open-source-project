@@ -55,7 +55,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>💪 Highlight strong points of your project </summary>
 <p>
 
-> Identify your project strengths and make sure visitors see them at first.
+> Identify your project strengths and make sure visitors see them first.
 
 </p>
 </details>
@@ -76,7 +76,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>👌 Install/Usage must be super easy</summary>
 <p>
 
-> You'll probably lost visitors if your project is not user friendly.
+> You'll probably lose visitors if your project is not user friendly.
 
 </p>
 </details>
@@ -85,7 +85,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>📘 Create a clean and well structured documentation</summary>
 <p>
 
-> Creating a good documentation is probably the most important step. If you have a small documentation, you can include it within your README. Otherwise, you should probably host it in a separate website. Some open-source projects like [vuepress](https://v1.vuepress.vuejs.org) helps you creating clean documentations in a simple way.
+> Creating a good documentation is probably the most important step. If you have a small documentation, you can include it within your README. Otherwise, you should probably host it in a separate website. Some open-source projects like [vuepress](https://v1.vuepress.vuejs.org) can help you creating clean documentations in a simple way.
 
  </p>
 </details>
@@ -97,19 +97,19 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <br />
 
 <details>
-<summary>⭐ Make your project trustable before publishing to social networks</summary>
+<summary>⭐ Make your project trustable before publishing it on social networks</summary>
 <p>
 
-> Most visitors will check how many stars the project got before considering using it. A minimum amount of stars makes your project more trustable than a project with zero star. This is why you should ask people you know to support your project before doing a public announcement on social medias.
+> Most visitors will check how many stars the project has before considering using it. A minimum amount of stars makes your project more trustable than a project with zero stars. This is why you should ask people you know to support your project before doing a public announcement on social media.
 
 </p>
 </details>
 
 <details>
-<summary>↗️ Share the project on social medias an specialized platforms</summary>
+<summary>↗️ Share the project on social media and specialized platforms</summary>
 <p>
 
-> Tell the world about your awesome work! Publish on social medias and specialized platforms:
+> Tell the world about your awesome work! Publish on social media and specialized platforms:
 >
 > - [Twitter](https://twitter.com)
 > - [Linkedin](https://www.linkedin.com/)
@@ -150,13 +150,13 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </summary>
 <p>
 
-> Recording a video is not an easy execise. However it's probably the most efficient way to make your project famous.
+> Recording a video is not an easy exercise. However it's probably the most efficient way to make your project famous.
 
 </p>
 </details>
 
 <details>
-<summary>🕐 Choose the best time to publish on social medias</summary>
+<summary>🕐 Choose the best time to publish on social media</summary>
 <p>
 
 > Don't publish during holidays period or weekends. Usually the best time to publish on social networks is mid-week.
@@ -232,7 +232,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>🔙 Ask for feedback</summary>
 <p>
 
-> User's feedback is the best way to improve your project. They probably have features and ideas that could make your project better.
+> User feedback is the best way to improve your project. They probably have features and ideas that could make your project better.
 
 </p>
 </details>
