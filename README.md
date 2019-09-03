@@ -265,6 +265,7 @@ Thanks goes to these wonderful people:
     <td align="center"><a href="https://www.franck-abgrall.me/"><img src="https://avatars3.githubusercontent.com/u/9840435?v=4" width="100px;" alt="Franck Abgrall"/><br /><sub><b>Franck Abgrall</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=kefranabg" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/tbetous"><img src="https://avatars3.githubusercontent.com/u/4435536?v=4" width="100px;" alt="Thomas Betous"/><br /><sub><b>Thomas Betous</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=tbetous" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/ebriand"><img src="https://avatars1.githubusercontent.com/u/1011902?v=4" width="100px;" alt="Eric Briand"/><br /><sub><b>Eric Briand</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=ebriand" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/FofoDev"><img src="https://avatars0.githubusercontent.com/u/27639429?v=4" width="100px;" alt="Faustine Godbillot"/><br /><sub><b>Faustine Godbillot</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=FofoDev" title="Documentation">📖</a></td>
   </tr>
 </table>
 
