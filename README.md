@@ -146,8 +146,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>🎥 Record and publish videos presenting your project, how it works, etc.
-</summary>
+<summary>🎥 Record and publish videos presenting your project, how it works, etc</summary>
 <p>
 
 > Recording a video is not an easy exercise. However it's probably the most efficient way to make your project famous.
