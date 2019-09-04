@@ -210,7 +210,10 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>🏆 Reward contributors</summary>
 <p>
 
-> Be nice with people that helped you! Some open-source projects like [gatsby](https://github.com/gatsbyjs/gatsby) reward contributors with goodies. If you can't afford that, do a public post (on twitter or other platforms) about the contribution and mention the author ([here is an example of public thanks](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Open a `Contributors` section in your README to publicly thanks them (ex: [vuepress contributors section](https://github.com/vuejs/vuepress#code-contributors)).
+> Be nice with people that helped you! Some open-source projects like [gatsby](https://github.com/gatsbyjs/gatsby) reward contributors with goodies. If you can't afford that, do a public post (on twitter or other platforms) about the contribution and mention the author ([here is an example of public thanks](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Open a `Contributors` section in your README to publicly thanks them or showcase them on your project documentation/website. Here some examples :
+>
+> - [vuepress (contributors README section)](https://github.com/vuejs/vuepress#code-contributors)
+> - [Rythm.js (random highlighted contributor on demo page)](https://okazari.github.io/Rythm.js/)
 
 </p>
 </details>
@@ -266,6 +269,7 @@ Thanks goes to these wonderful people:
     <td align="center"><a href="https://github.com/tbetous"><img src="https://avatars3.githubusercontent.com/u/4435536?v=4" width="100px;" alt="Thomas Betous"/><br /><sub><b>Thomas Betous</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=tbetous" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/ebriand"><img src="https://avatars1.githubusercontent.com/u/1011902?v=4" width="100px;" alt="Eric Briand"/><br /><sub><b>Eric Briand</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=ebriand" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/FofoDev"><img src="https://avatars0.githubusercontent.com/u/27639429?v=4" width="100px;" alt="Faustine Godbillot"/><br /><sub><b>Faustine Godbillot</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=FofoDev" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://myvirtualstorybook.com/"><img src="https://avatars1.githubusercontent.com/u/5747538?v=4" width="100px;" alt="Benjamin Plouzennec"/><br /><sub><b>Benjamin Plouzennec</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=Okazari" title="Documentation">📖</a></td>
   </tr>
 </table>
 

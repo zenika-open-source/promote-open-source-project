@@ -40,6 +40,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Okazari",
+      "name": "Benjamin Plouzennec",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/5747538?v=4",
+      "profile": "https://myvirtualstorybook.com/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
