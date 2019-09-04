@@ -25,7 +25,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <br />
 
 <details>
-<summary>👌 Make sure your project is mature enough.</summary>
+<summary>👌 Make sure your project is mature enough</summary>
 <p>
 
 > Your project must be stable enough with minimum viables features in order to hook users.
@@ -34,7 +34,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>😎 Choose a cool name for your project.</summary>
+<summary>😎 Choose a cool name for your project</summary>
 <p>
 
 > Choose a name users can easily remember.
@@ -43,7 +43,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>💅 Make your README pretty.</summary>
+<summary>💅 Make your README pretty</summary>
 <p>
 
 > README is the first thing your vistors will see. Make it simple, pretty and easy to read. [Here is a list of beautiful READMEs](https://github.com/matiassingers/awesome-readme).
@@ -52,7 +52,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>💪 Highlight strong points of your project.</summary>
+<summary>💪 Highlight strong points of your project</summary>
 <p>
 
 > Identify your project strengths and make sure visitors see them first.
@@ -61,7 +61,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>✨ Provide a demo of your project.</summary>
+<summary>✨ Provide a demo of your project</summary>
 <p>
 
 > Vistors will want to quickly understand the purpose of your project, how it works and how to use it. Providing a demo is the best way to satisfy users. It could be:
@@ -73,7 +73,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>👌 Install/Usage must be super easy.</summary>
+<summary>👌 Install/Usage must be super easy</summary>
 <p>
 
 > You'll probably lose visitors if your project is not user-friendly.
@@ -82,7 +82,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>📘 Create a clean and well structured documentation.</summary>
+<summary>📘 Create a clean and well structured documentation</summary>
 <p>
 
 > Creating a good documentation is probably the most important step. If you have a small documentation, you can include it within your README. Otherwise, you should probably host it in a separate website. Some open-source projects like [vuepress](https://v1.vuepress.vuejs.org) can help you creating clean documentations in a simple way.
@@ -97,7 +97,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <br />
 
 <details>
-<summary>⭐ Make your project trustable before publishing it on social networks.</summary>
+<summary>⭐ Make your project trustable before publishing it on social networks</summary>
 <p>
 
 > Most visitors will check how many stars the project has before considering using it. A minimum amount of stars makes your project more trustable than a project with zero star. This is why you should ask people you know to support your project before doing a public announcement on social media.
@@ -106,7 +106,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>↗️ Share the project on social media and specialized platforms.</summary>
+<summary>↗️ Share the project on social media and specialized platforms</summary>
 <p>
 
 > Tell the world about your awesome work! Publish on social media and specialized platforms:
@@ -126,7 +126,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>📃 Write articles that mention your project.</summary>
+<summary>📃 Write articles that mention your project</summary>
 <p>
 
 > Write articles about your project. Purpose can be the technical stack you used, how your project works, problems you encountered, etc. Post to publishing platforms:
@@ -137,7 +137,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>🎤 Present your project at conferences/meetups.</summary>
+<summary>🎤 Present your project at conferences/meetups</summary>
 <p>
 
 > Presenting your project at conferences or meetups is a good way to improve its visibility.
@@ -156,7 +156,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>🕐 Choose the best time to publish on social media.</summary>
+<summary>🕐 Choose the best time to publish on social media</summary>
 <p>
 
 > Don't publish during holidays period or weekends. Usually the best time to publish on social networks is mid-week.
@@ -165,7 +165,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>🗑 Don't spam platforms with your promotion.</summary>
+<summary>🗑 Don't spam platforms with your promotion</summary>
 <p>
 
 > Don't publish twice on the same platform. It will be considered as spam and might cause bad publicity for your project.
@@ -180,7 +180,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <br />
 
 <details>
-<summary>🆕 Try to regularly release new versions of your project.</summary>
+<summary>🆕 Try to regularly release new versions of your project</summary>
 <p>
 
 > Maintain and improve your project with new releases and generate changelogs.
@@ -189,7 +189,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>❗ Maintain your project, process opened issues.</summary>
+<summary>❗ Maintain your project, process opened issues</summary>
 <p>
 
 > Do not let opened issues without response. Be nice with people that took time to open issues. 😉
@@ -198,7 +198,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>🙏 Invite users to contribute.</summary>
+<summary>🙏 Invite users to contribute</summary>
 <p>
 
 > A healthy project is a project with a community and contributors. Let your users know that you need help by tagging some issues with `contribution welcome` or `good first issue` labels. [See github labels](https://help.github.com/en/articles/about-labels).
@@ -207,7 +207,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>🏆 Reward contributors.</summary>
+<summary>🏆 Reward contributors</summary>
 <p>
 
 > Be nice with people that helped you! Some open-source projects like [gatsby](https://github.com/gatsbyjs/gatsby) reward contributors with goodies. If you can't afford that, do a public post (on twitter or other platforms) about the contribution and mention the author ([here is an example of public thanks](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Open a `Contributors` section in your README to publicly thank them or showcase them on your project documentation or website. Here are some examples:
@@ -219,7 +219,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>💬 Open a community chat platform.</summary>
+<summary>💬 Open a community chat platform</summary>
 <p>
 
 > Github issues are not always the best way to communicate with your users. If necessary, you can use chat platforms to discuss with them:
@@ -232,7 +232,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>🔙 Ask for feedback.</summary>
+<summary>🔙 Ask for feedback</summary>
 <p>
 
 > User feedback is the best way to improve your project. They probably have features and ideas that could make your project better.
@@ -241,7 +241,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>❤️ Open a use case gallery to show what users built with your project.</summary>
+<summary>❤️ Open a use case gallery to show what users built with your project</summary>
 <p>
 
 > Visitors will trust your project if they see concrete use cases and success stories, e.g., [the vuepress gallery](https://vuepress.gallery/)).
