@@ -8,17 +8,17 @@
   </a>
 </p>
 
-<h1 align="center">Open source promotion cheat sheet </h1>
+<h1 align="center">Open source promotion cheat sheet</h1>
 
 
-> This cheat sheet summarize important steps you should follow to promote your open-source project in the best conditions. You can click items to expand and get more information from a topic. 
+> This cheat sheet summarizes important steps you should follow to promote your open-source project in the best conditions. You can click items to expand and get more information from a topic. 
 
-List of availables languages:
+List of available languages:
 
 - [English](./README.md)
 - [Français](./README-fr.md)
 
-A language is missing? Want to improve this cheat sheet? [Contributions are welcome](./CONTRIBUTING.md) !
+A language is missing? Want to improve this cheat sheet? [Contributions are welcome](./CONTRIBUTING.md)!
 
 ## 1. 🎢 Preparation step
 
@@ -52,7 +52,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>💪 Highlight strong points of your project </summary>
+<summary>💪 Highlight strong points of your project</summary>
 <p>
 
 > Identify your project strengths and make sure visitors see them first.
@@ -76,7 +76,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>👌 Install/Usage must be super easy</summary>
 <p>
 
-> You'll probably lose visitors if your project is not user friendly.
+> You'll probably lose visitors if your project is not user-friendly.
 
 </p>
 </details>
@@ -100,7 +100,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>⭐ Make your project trustable before publishing it on social networks</summary>
 <p>
 
-> Most visitors will check how many stars the project has before considering using it. A minimum amount of stars makes your project more trustable than a project with zero stars. This is why you should ask people you know to support your project before doing a public announcement on social media.
+> Most visitors will check how many stars the project has before considering using it. A minimum amount of stars makes your project more trustable than a project with zero star. This is why you should ask people you know to support your project before doing a public announcement on social media.
 
 </p>
 </details>
@@ -146,8 +146,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>🎥 Record and publish videos presenting your project, how it works, etc
-</summary>
+<summary>🎥 Record and publish videos presenting your project, how it works, etc</summary>
 <p>
 
 > Recording a video is not an easy exercise. However it's probably the most efficient way to make your project famous.
@@ -192,7 +191,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>❗ Maintain your project, process opened issues</summary>
 <p>
 
-> Do not let opened issues without response. Be nice with people that took time to open issues 😉
+> Do not let opened issues without response. Be nice with people that took time to open issues. 😉
 
 </p>
 </details>
@@ -210,7 +209,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>🏆 Reward contributors</summary>
 <p>
 
-> Be nice with people that helped you! Some open-source projects like [gatsby](https://github.com/gatsbyjs/gatsby) reward contributors with goodies. If you can't afford that, do a public post (on twitter or other platforms) about the contribution and mention the author ([here is an example of public thanks](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Open a `Contributors` section in your README to publicly thanks them or showcase them on your project documentation/website. Here some examples :
+> Be nice with people that helped you! Some open-source projects like [gatsby](https://github.com/gatsbyjs/gatsby) reward contributors with goodies. If you can't afford that, do a public post (on twitter or other platforms) about the contribution and mention the author ([here is an example of public thanks](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Open a `Contributors` section in your README to publicly thank them or showcase them on your project documentation or website. Here are some examples:
 >
 > - [vuepress (contributors README section)](https://github.com/vuejs/vuepress#code-contributors)
 > - [Rythm.js (random highlighted contributor on demo page)](https://okazari.github.io/Rythm.js/)
@@ -244,7 +243,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>❤️ Open a use case gallery to show what users built with your project</summary>
 <p>
 
-> Visitors will trust your project if they see concrete use case and success stories (ex: [vuepress gallery](https://vuepress.gallery/)).
+> Visitors will trust your project if they see concrete use cases and success stories, e.g., [the vuepress gallery](https://vuepress.gallery/)).
 
 </p>
 </details>
@@ -259,7 +258,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 
 ## ❤️ Contributors
 
-Thanks goes to these wonderful people:
+Thanks go to these wonderful people:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
