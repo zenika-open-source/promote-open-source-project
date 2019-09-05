@@ -270,6 +270,7 @@ Thanks go to these wonderful people:
     <td align="center"><a href="https://github.com/FofoDev"><img src="https://avatars0.githubusercontent.com/u/27639429?v=4" width="100px;" alt="Faustine Godbillot"/><br /><sub><b>Faustine Godbillot</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=FofoDev" title="Documentation">📖</a></td>
     <td align="center"><a href="https://myvirtualstorybook.com/"><img src="https://avatars1.githubusercontent.com/u/5747538?v=4" width="100px;" alt="Benjamin Plouzennec"/><br /><sub><b>Benjamin Plouzennec</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=Okazari" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Zenigata"><img src="https://avatars1.githubusercontent.com/u/1022393?v=4" width="100px;" alt="Johan Bonneau"/><br /><sub><b>Johan Bonneau</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=Zenigata" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/bpetetot"><img src="https://avatars3.githubusercontent.com/u/516360?v=4" width="100px;" alt="Benjamin Petetot"/><br /><sub><b>Benjamin Petetot</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=bpetetot" title="Documentation">📖</a></td>
   </tr>
 </table>
 
