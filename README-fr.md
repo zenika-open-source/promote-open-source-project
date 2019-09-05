@@ -10,7 +10,7 @@
 
 <h1 align="center">Cheat sheet : Promouvoir un projet open-source</h1>
 
-> Ce cheet sheet résume les étapes importantes à suivre pour promouvoir un projet open-source dans les meilleures conditions. Il est possible d’afficher des informations supplémentaires pour un élément de la liste en cliquant dessus.
+> Cette antisèche résume les étapes importantes à suivre pour promouvoir un projet open-source dans les meilleures conditions. Il est possible d’afficher des informations supplémentaires pour un élément de la liste en cliquant dessus.
 
 Langages disponibles :
 
