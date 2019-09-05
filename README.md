@@ -11,7 +11,7 @@
 <h1 align="center">Open source promotion cheat sheet</h1>
 
 
-> This cheat sheet summarizes important steps you should follow to promote your open-source project in the best conditions. You can click items to expand and get more information from a topic. 
+> This cheat sheet summarizes important steps you should follow to promote your open source project in the best conditions. You can click items to expand and get more information from a topic. 
 
 List of available languages:
 
@@ -64,7 +64,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>✨ Provide a demo of your project</summary>
 <p>
 
-> Vistors will want to quickly understand the purpose of your project, how it works and how to use it. Providing a demo is the best way to satisfy users. It could be:
+> Visitors will want to quickly understand the purpose of your project, how it works and how to use it. Providing a demo is the best way to satisfy users. It could be:
 >
 >  - An animated GIF demonstrating how your project works
 >  - A link to a live demo
@@ -85,7 +85,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>📘 Create a clean and well structured documentation</summary>
 <p>
 
-> Creating a good documentation is probably the most important step. If you have a small documentation, you can include it within your README. Otherwise, you should probably host it in a separate website. Some open-source projects like [vuepress](https://v1.vuepress.vuejs.org) can help you creating clean documentations in a simple way.
+> Creating a good documentation is probably the most important step. If you have a small documentation, you can include it within your README. Otherwise, you should probably host it in a separate website. Some open source projects like [vuepress](https://v1.vuepress.vuejs.org) can help you creating clean documentation in a simple way.
 
  </p>
 </details>
@@ -109,7 +109,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>↗️ Share the project on social media and specialized platforms</summary>
 <p>
 
-> Tell the world about your awesome work! Publish on social media and specialized platforms:
+> Tell the World about your awesome work! Publish on social media and specialized platforms:
 >
 > - [Twitter](https://twitter.com)
 > - [Linkedin](https://www.linkedin.com/)
@@ -209,7 +209,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>🏆 Reward contributors</summary>
 <p>
 
-> Be nice with people that helped you! Some open-source projects like [gatsby](https://github.com/gatsbyjs/gatsby) reward contributors with goodies. If you can't afford that, do a public post (on twitter or other platforms) about the contribution and mention the author ([here is an example of public thanks](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Open a `Contributors` section in your README to publicly thank them or showcase them on your project documentation or website. Here are some examples:
+> Be nice with people that helped you! Some open source projects like [gatsby](https://github.com/gatsbyjs/gatsby) reward contributors with goodies. If you can't afford that, do a public post (on twitter or other platforms) about the contribution and mention the author ([here is an example of public thanks](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Open a `Contributors` section in your README to publicly thank them or showcase them on your project documentation or website. Here are some examples:
 >
 > - [vuepress (contributors README section)](https://github.com/vuejs/vuepress#code-contributors)
 > - [Rythm.js (random highlighted contributor on demo page)](https://okazari.github.io/Rythm.js/)
