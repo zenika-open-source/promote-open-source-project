@@ -67,6 +67,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "claire",
+      "name": "Claire Martinez",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/5114096?v=4",
+      "profile": "https://github.com/Claire",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
