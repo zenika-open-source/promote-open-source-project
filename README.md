@@ -274,6 +274,7 @@ Thanks go to these wonderful people:
     <td align="center"><a href="https://github.com/bpetetot"><img src="https://avatars3.githubusercontent.com/u/516360?v=4" width="100px;" alt="Benjamin Petetot"/><br /><sub><b>Benjamin Petetot</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=bpetetot" title="Documentation">📖</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://nick-hat-boecker.de"><img src="https://avatars0.githubusercontent.com/u/8366071?v=4" width="100px;" alt="NickHatBoecker"/><br /><sub><b>NickHatBoecker</b></sub></a><br /><a href="#translation-NickHatBoecker" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/Claire"><img src="https://avatars2.githubusercontent.com/u/5114096?v=4" width="100px;" alt="Claire Martinez"/><br /><sub><b>Claire Martinez</b></sub></a><br /><a href="#translation-claire" title="Translation">🌍</a></td>
   </tr>
 </table>
