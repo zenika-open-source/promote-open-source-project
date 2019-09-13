@@ -16,6 +16,7 @@ Langages disponibles :
 
 - [English](./README.md)
 - [Français](./README-fr.md)
+- [Deutsch](./README-de.md)
 
 Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat sheet ? [Les contributions sont les bienvenues](./CONTRIBUTING.md) !
 
