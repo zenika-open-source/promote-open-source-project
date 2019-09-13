@@ -19,7 +19,7 @@ Verfügbare Sprachen:
 - [Français](./README-fr.md)
 - [Deutsch](./README-de.md)
 
-Eine Sprache fehlt? Möchtest du helfen das Cheat Sheet zu verbessern? [Beteiligung ist gern gesehen](./CONTRIBUTING.md)!
+Eine Sprache fehlt und du möchtest helfen das Cheat Sheet zu verbessern? [Beteiligung ist gern gesehen](./CONTRIBUTING.md)!
 
 ## 1. 🎢 Vorbereitung
 
@@ -47,7 +47,7 @@ Eine Sprache fehlt? Möchtest du helfen das Cheat Sheet zu verbessern? [Beteilig
 <summary>💅 Mach deine README schön</summary>
 <p>
 
-> Die README ist das erste, was deine Besucher sehen werden. Mach sie simpel, schön und gut lesbar. [Hier ist eine List mit schönen READMEs](https://github.com/matiassingers/awesome-readme).
+> Die README ist das erste, was deine Besucher sehen werden. Gestalte sie simpel, schön und gut lesbar. [Hier ist eine List mit schönen READMEs](https://github.com/matiassingers/awesome-readme).
 
 </p>
 </details>
@@ -101,7 +101,7 @@ Eine Sprache fehlt? Möchtest du helfen das Cheat Sheet zu verbessern? [Beteilig
 <summary>⭐ Steiger das Vertrauen in dein Projekt, bevor du es auf Social Media Netzwerken veröffentlichst</summary>
 <p>
 
-> Viele Besucher werden die Anzahl der Sterne überprüfen, bevor sie in Erwägung ziehen, das Projekt zu benutzen. Eine kleine Anzahl an Sternen lässt dein Projekt vertrauenswürdiger erscheinen, als gar keine Sterne. Deshalb solltest du Bekannte fragen, ob sie dein Projekt unterstützen und auf ihren Social Media Kanälen bewerben.
+> Viele Besucher werden die Anzahl der Sterne überprüfen, bevor sie in Erwägung ziehen, das Projekt zu benutzen. Eine kleine Anzahl an Sternen wirkt vertrauenswürdiger als gar keine Sterne. Deshalb solltest du Bekannte fragen, ob sie dein Projekt unterstützen und auf ihren Social Media Kanälen bewerben.
 
 </p>
 </details>
@@ -110,7 +110,7 @@ Eine Sprache fehlt? Möchtest du helfen das Cheat Sheet zu verbessern? [Beteilig
 <summary>↗️ Teile dein Projekt auf Social Media Kanälen und passenden Plattformen</summary>
 <p>
 
-> Erzähl der Welt von deiner tollen Arbeit! Veröffentliche auf Social Media Kanälen und passenden Plattformen:
+> Erzähl der Welt von deiner tollen Arbeit! Veröffentliche Sie auf Social Media Kanälen und passenden Plattformen:
 >
 > - [Twitter](https://twitter.com)
 > - [Linkedin](https://www.linkedin.com/)
@@ -165,7 +165,7 @@ Eine Sprache fehlt? Möchtest du helfen das Cheat Sheet zu verbessern? [Beteilig
 </details>
 
 <details>
-<summary>🗑 Spam Plattformen nicht mit deiner Werbung zu</summary>
+<summary>🗑 Spamm Plattformen nicht mit deiner Werbung zu</summary>
 <p>
 
 > Publiziere nicht zwei Mal auf der selben Plattform. Das gilt als Spam und könnte schlechtes Licht auf dein Projekt werfen.
@@ -198,10 +198,10 @@ Eine Sprache fehlt? Möchtest du helfen das Cheat Sheet zu verbessern? [Beteilig
 </details>
 
 <details>
-<summary>🙏 Lade Nutzer ein mit zumachen</summary>
+<summary>🙏 Lade Nutzer ein mitzumachen</summary>
 <p>
 
-> Ein gesundes Projekt ist ein Projekt mit einer Community und Mitwirkenden. Lass deine Nutzer wissen, dass du hilfe brauchst, indem du Tickets mit `contribution welcome` oder `good first issue` betitelst. [Siehe github Labels](https://help.github.com/en/articles/about-labels).
+> Ein gesundes Projekt ist ein Projekt mit einer Community und Mitwirkenden. Lass deine Nutzer wissen, dass du Hilfe brauchst, indem du Tickets mit `contribution welcome` oder `good first issue` betitelst. [Siehe github Labels](https://help.github.com/en/articles/about-labels).
 
 </p>
 </details>
@@ -210,10 +210,10 @@ Eine Sprache fehlt? Möchtest du helfen das Cheat Sheet zu verbessern? [Beteilig
 <summary>🏆 Belohne Mitwirkende</summary>
 <p>
 
-> Sei nett zu Leuten, die dir geholfen haben! Manche Open Source Projekte wie [gatsby](https://github.com/gatsbyjs/gatsby) belohnen Mitwirkende mit Goodies. Wenn du dir das nicht leisten kannst, schreib einen Beitrag (auf Twitter oder anderen Plattformen) und erwähne den Autoren ([hier ist ein Beispiel zu einem öffentlichen Danke](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Eröffne einen `Mitwirkende` Bereich in deiner README, um den Leuten öffentlich zu danken. Du kannst diese Namen auch in deiner Dokumentation oder auf deiner Webseite zeigen. Hier sind ein paar Beispiele:
+> Sei nett zu Leuten, die dir geholfen haben! Manche Open Source Projekte wie [gatsby](https://github.com/gatsbyjs/gatsby) belohnen Mitwirkende mit Goodies. Wenn du dir das nicht leisten kannst, schreib einen Beitrag (auf Twitter oder anderen Plattformen) und erwähne den Autor ([hier ist ein Beispiel zu einem öffentlichen Dankeschön](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Eröffne einen `Mitwirkende` Bereich in deiner README, um den Leuten öffentlich zu danken. Du kannst diese Namen auch in deiner Dokumentation oder auf deiner Webseite zeigen. Hier sind ein paar Beispiele:
 >
-> - [vuepress (contributors README section)](https://github.com/vuejs/vuepress#code-contributors)
-> - [Rythm.js (random highlighted contributor on demo page)](https://okazari.github.io/Rythm.js/)
+> - [vuepress (Mitwirkende in der README)](https://github.com/vuejs/vuepress#code-contributors)
+> - [Rythm.js (Zufälliger Mitwirkender auf der Demo Seite)](https://okazari.github.io/Rythm.js/)
 
 </p>
 </details>
@@ -235,7 +235,7 @@ Eine Sprache fehlt? Möchtest du helfen das Cheat Sheet zu verbessern? [Beteilig
 <summary>🔙 Bitte um Feedback</summary>
 <p>
 
-> Nutzer Feedback ist der beste Weg, um dein Projekt zu verbessern. Jemand hat bestimmt einen Wunsch oder eine Idee, um dein Projekt noch besser zu machen.
+> Nutzer-Feedback ist der beste Weg, um dein Projekt zu verbessern. Jemand hat bestimmt einen Wunsch oder eine Idee, um dein Projekt noch besser zu machen.
 
 </p>
 </details>
