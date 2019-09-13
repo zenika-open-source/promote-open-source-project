@@ -17,6 +17,7 @@ List of available languages:
 
 - [English](./README.md)
 - [Français](./README-fr.md)
+- [Deutsch](./README-de.md)
 
 A language is missing? Want to improve this cheat sheet? [Contributions are welcome](./CONTRIBUTING.md)!
 
@@ -274,6 +275,7 @@ Thanks go to these wonderful people:
   </tr>
   <tr>
     <td align="center"><a href="https://nick-hat-boecker.de"><img src="https://avatars0.githubusercontent.com/u/8366071?v=4" width="100px;" alt="NickHatBoecker"/><br /><sub><b>NickHatBoecker</b></sub></a><br /><a href="#translation-NickHatBoecker" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/Claire"><img src="https://avatars2.githubusercontent.com/u/5114096?v=4" width="100px;" alt="Claire Martinez"/><br /><sub><b>Claire Martinez</b></sub></a><br /><a href="#translation-claire" title="Translation">🌍</a></td>
   </tr>
 </table>
 
