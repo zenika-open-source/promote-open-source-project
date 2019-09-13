@@ -272,6 +272,9 @@ Thanks go to these wonderful people:
     <td align="center"><a href="https://github.com/Zenigata"><img src="https://avatars1.githubusercontent.com/u/1022393?v=4" width="100px;" alt="Johan Bonneau"/><br /><sub><b>Johan Bonneau</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=Zenigata" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/bpetetot"><img src="https://avatars3.githubusercontent.com/u/516360?v=4" width="100px;" alt="Benjamin Petetot"/><br /><sub><b>Benjamin Petetot</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=bpetetot" title="Documentation">📖</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Claire"><img src="https://avatars2.githubusercontent.com/u/5114096?v=4" width="100px;" alt="Claire Martinez"/><br /><sub><b>Claire Martinez</b></sub></a><br /><a href="#translation-claire" title="Translation">🌍</a></td>
+  </tr>
 </table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
