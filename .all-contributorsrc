@@ -73,7 +73,7 @@
       "name": "NickHatBoecker",
       "avatar_url": "https://avatars0.githubusercontent.com/u/8366071?v=4",
       "profile": "https://nick-hat-boecker.de",
-       "contributions": [
+      "contributions": [
         "translation"
       ]
     },
@@ -84,6 +84,15 @@
       "profile": "https://github.com/Claire",
       "contributions": [
         "translation"
+      ]
+    },
+    {
+      "login": "andregamma",
+      "name": "André Gama",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/31011359?v=4",
+      "profile": "https://hazeforum.com/",
+      "contributions": [
+        "doc"
       ]
     }
   ],
