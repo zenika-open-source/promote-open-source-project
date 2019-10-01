@@ -138,10 +138,10 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 </details>
 
 <details>
-<summary>🎤 Présenter le projet à des conférences/meetups</summary>
+<summary>🎤 Présenter le projet à des conférences/rencontres</summary>
 <p>
 
-> La présentation de votre projet à des conférences et meetups est un excellent moyen d'améliorer sa visibilité.
+> La présentation de votre projet à des conférences et rencontres est un excellent moyen d'améliorer sa visibilité.
 
 </p>
 </details>
@@ -222,7 +222,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 <summary>💬 Ouvrir un chat pour la communauté du projet</summary>
 <p>
 
-> Les issues Github ne sont pas toujours la meilleure manière de communiquer avec vos utilisateurs. Si nécessaire, vous pouvez ouvrir un chat pour discuter avec eux :
+> Les problèmes Github ne sont pas toujours la meilleure manière de communiquer avec vos utilisateurs. Si nécessaire, vous pouvez ouvrir un bavarder pour discuter avec eux :
 >
 > - [Discord](https://discordapp.com)
 > - [Slack](https://slack.com)
