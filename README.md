@@ -21,6 +21,8 @@ List of available languages:
 
 A language is missing? Want to improve this cheat sheet? [Contributions are welcome](./CONTRIBUTING.md)!
 
+[A PDF version of this cheat sheet is available here.](./pdf/cheat-sheet.pdf)
+
 ## 1. 🎢 Preparation step
 
 <br />
