@@ -271,6 +271,12 @@ Unser Dank geht an die folgenden wundervollen Leute:
     <td align="center"><a href="https://github.com/FofoDev"><img src="https://avatars0.githubusercontent.com/u/27639429?v=4" width="100px;" alt="Faustine Godbillot"/><br /><sub><b>Faustine Godbillot</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=FofoDev" title="Documentation">📖</a></td>
     <td align="center"><a href="https://myvirtualstorybook.com/"><img src="https://avatars1.githubusercontent.com/u/5747538?v=4" width="100px;" alt="Benjamin Plouzennec"/><br /><sub><b>Benjamin Plouzennec</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=Okazari" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Zenigata"><img src="https://avatars1.githubusercontent.com/u/1022393?v=4" width="100px;" alt="Johan Bonneau"/><br /><sub><b>Johan Bonneau</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=Zenigata" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/bpetetot"><img src="https://avatars3.githubusercontent.com/u/516360?v=4" width="100px;" alt="Benjamin Petetot"/><br /><sub><b>Benjamin Petetot</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=bpetetot" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://nick-hat-boecker.de"><img src="https://avatars0.githubusercontent.com/u/8366071?v=4" width="100px;" alt="NickHatBoecker"/><br /><sub><b>NickHatBoecker</b></sub></a><br /><a href="#translation-NickHatBoecker" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/Claire"><img src="https://avatars2.githubusercontent.com/u/5114096?v=4" width="100px;" alt="Claire Martinez"/><br /><sub><b>Claire Martinez</b></sub></a><br /><a href="#translation-claire" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://hazeforum.com/"><img src="https://avatars2.githubusercontent.com/u/31011359?v=4" width="100px;" alt="André Gama"/><br /><sub><b>André Gama</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=andregamma" title="Documentation">📖</a></td>
   </tr>
 </table>
 
