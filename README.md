@@ -20,6 +20,7 @@ List of available languages:
 - [Español](./README-es.md)
 - [简体中文](./README-zh-cn.md)
 - [繁體中文](./README-zh-tw.md)
+- [پارسی](./README-fa.md)
 
 A language is missing? Want to improve this cheat sheet? [Contributions are welcome](./CONTRIBUTING.md)!
 
@@ -71,8 +72,8 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 
 > Visitors will want to quickly understand the purpose of your project, how it works and how to use it. Providing a demo is the best way to satisfy users. It could be:
 >
->  - An animated GIF demonstrating how your project works
->  - A link to a live demo
+> - An animated GIF demonstrating how your project works
+> - A link to a live demo
 
 </p>
 </details>
@@ -138,6 +139,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 >
 > - [medium](https://medium.com/)
 > - [dev.to](https://dev.to/)
+
 </p>
 </details>
 

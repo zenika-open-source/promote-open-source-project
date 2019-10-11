@@ -3,9 +3,13 @@
     "README.md",
     "README-fr.md",
     "README-de.md",
+<<<<<<< HEAD
     "README-es.md",
     "README-zh-cn.md",
     "README-zh-tw.md"
+=======
+    "README-fa.md",
+>>>>>>> Add persian language
   ],
   "imageSize": 100,
   "commit": false,
