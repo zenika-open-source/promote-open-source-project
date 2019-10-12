@@ -21,7 +21,7 @@
 - [简体中文](./README-zh-cn.md)
 - [繁體中文](./README-zh-tw.md)
 
-没有您需要的语言？希望帮忙改进这份备忘单？[欢迎您的贡献](./CONTRIBUTING.md)!
+没有您需要的语言？希望帮忙改进这份备忘单？[欢迎您的贡献](./CONTRIBUTING.md)！
 
 [我们也提供这份清单的PDF版本](./pdf/cheat-sheet.pdf)
 
@@ -51,7 +51,7 @@
 <summary>💅 把您的README文档写得干净漂亮</summary>
 <p>
 
-> 您的访客们的第一件事就是阅读您的README文档，所以您得确保它干净漂亮、易于阅读。[这些优秀的README文档可以为您提供参考](https://github.com/matiassingers/awesome-readme).
+> 您的访客们的第一件事就是阅读您的README文档，所以您得确保它干净漂亮、易于阅读。[这些优秀的README文档可以为您提供参考](https://github.com/matiassingers/awesome-readme)。
 
 </p>
 </details>
@@ -205,7 +205,7 @@
 <summary>🙏 邀请用户们为项目贡献</summary>
 <p>
 
-> 一个健康的项目通常拥有一个社区和许多贡献者们。在一些issue上标注`contribution welcome`标签或者`good first issue`标签来让您的用户们知道您需要帮助。[关于github标签](https://help.github.com/en/articles/about-labels).
+> 一个健康的项目通常拥有一个社区和许多贡献者们。在一些issue上标注`contribution welcome`标签或者`good first issue`标签来让您的用户们知道您需要帮助。[关于github标签](https://help.github.com/en/articles/about-labels)。
 
 </p>
 </details>
@@ -248,7 +248,7 @@
 <summary>❤️ 建造一个用例库来展示您的用户是如何使用您的项目的</summary>
 <p>
 
-> 如果访问者们能够见到具体的用例和成功案例的话，他们会更加信任您的项目，比如 [the vuepress gallery](https://vuepress.gallery/).
+> 如果访问者们能够见到具体的用例和成功案例的话，他们会更加信任您的项目，比如 [the vuepress gallery](https://vuepress.gallery/)。
 
 </p>
 </details>
