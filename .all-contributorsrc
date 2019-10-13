@@ -96,6 +96,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "mbernardeau",
+      "name": "Mathias Bernardeau",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/7049049?v=4",
+      "profile": "https://github.com/mbernardeau",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
