@@ -23,7 +23,7 @@
 
 没有您需要的语言？希望帮忙改进这份备忘单？[欢迎您的贡献](./CONTRIBUTING.md)！
 
-[我们也提供这份清单的PDF版本](./pdf/cheat-sheet.pdf)
+[我们也提供这份备忘单的 PDF 版本](./pdf/cheat-sheet.pdf)
 
 ## 1. 🎢 准备阶段
 
@@ -51,7 +51,7 @@
 <summary>💅 把您的README文档写得干净漂亮</summary>
 <p>
 
-> 您的访客们的第一件事就是阅读您的README文档，所以您得确保它干净漂亮、易于阅读。[这些优秀的README文档可以为您提供参考](https://github.com/matiassingers/awesome-readme)。
+> 您的访客们的第一件事就是阅读您的 README 文档，所以您得确保它干净漂亮、易于阅读。[这些优秀的 README 文档可以为您提供参考](https://github.com/matiassingers/awesome-readme)。
 
 </p>
 </details>
@@ -71,8 +71,8 @@
 
 > 访客们通常希望迅速了解您的项目的目标，它的工作原理以及应该如何使用它。为您的项目提供一个演示或者示例可以很好地满足访客们的需求，比如说：
 >
->  - 利用GIF动画来展示您项目的工作原理
->  - 提供一个在线演示的网页连接
+> - 利用 GIF 动画来展示您项目的工作原理
+> - 提供一个在线演示的网页连接
 
 </p>
 </details>
@@ -90,7 +90,7 @@
 <summary>📘 创建一个干净整洁的结构化文档</summary>
 <p>
 
-> 一个优秀的文档也许是最为重要的一步了。如果您的文档比较小的话，您可以直接将它包含在README文档里。否则的话，您或许应该将您的文档托管在一个独立的网站上面。一些开源项目比如 [vuepress](https://v1.vuepress.vuejs.org) 可以帮助您非常容易地创建干净整洁的文档。
+> 一个优秀的文档也许是最为重要的一步了。如果您的文档比较小的话，您可以直接将它包含在 README 文档里。否则的话，您或许应该将您的文档托管在一个独立的网站上面。一些开源项目比如 [vuepress](https://v1.vuepress.vuejs.org) 可以帮助您非常容易地创建干净整洁的文档。
 
  </p>
 </details>
@@ -105,7 +105,7 @@
 <summary>⭐ 在社交网络上发布您的项目之前，保证它是可以信赖的</summary>
 <p>
 
-> 许多访客会在考虑使用项目之前，先查看项目获得过得star数量。只需要一些star就能让您的项目比没有任何star的项目更加值得信赖，这就是为什么您应该在社交网络上公开宣布之前，请您认识的人支持您的项目。
+> 许多访客会在考虑使用项目之前，先查看项目获得过得 star 数量。只需要一些 star 就能让您的项目比没有任何 star 的项目更加值得信赖，这就是为什么您应该在社交网络上公开宣布之前，请您认识的人支持您的项目。
 
 </p>
 </details>
@@ -135,9 +135,10 @@
 <p>
 
 > 为您的项目写一些关于您项目的文章。您可以在其中分享您使用到的技术栈、您项目的工作原理和您遇到过得问题等等。然后把这些文章发布在这些平台上：
-> 
+>
 > - [medium](https://medium.com/)
 > - [dev.to](https://dev.to/)
+
 </p>
 </details>
 
@@ -169,10 +170,10 @@
 </details>
 
 <details>
-<summary>🗑 不要在平台上过渡宣传</summary>
+<summary>🗑 不要在平台上过度宣传</summary>
 <p>
 
-> 不要在相同的平台上发布两次。这将会被视为过渡的宣传，并且有可能为您的项目招致负面宣传。
+> 不要在相同的平台上发布两次。这将会被视为过度的宣传，并且有可能为您的项目招致负面宣传。
 
 </p>
 </details>
@@ -196,7 +197,7 @@
 <summary>❗ 维护您的项目并处理未解决的issue</summary>
 <p>
 
-> 别让issue一直处于未解决的状态并且对此毫无回应。对那些花费自己时间提交issue的用户们好一点。 😉
+> 别让 issue 一直处于未解决的状态并且对此毫无回应。对那些花费自己时间提交 issue 的用户们好一点。 😉
 
 </p>
 </details>
@@ -205,7 +206,7 @@
 <summary>🙏 邀请用户们为项目贡献</summary>
 <p>
 
-> 一个健康的项目通常拥有一个社区和许多贡献者们。在一些issue上标注`contribution welcome`标签或者`good first issue`标签来让您的用户们知道您需要帮助。[关于github标签](https://help.github.com/en/articles/about-labels)。
+> 一个健康的项目通常拥有一个社区和许多贡献者们。在一些 issue 上标注`contribution welcome`标签或者`good first issue`标签来让您的用户们知道您需要帮助。[关于 github 标签](https://help.github.com/en/articles/about-labels)。
 
 </p>
 </details>
@@ -214,9 +215,9 @@
 <summary>🏆 奖励贡献者们</summary>
 <p>
 
-> 为那些帮助过您的人们鼓掌喝彩! 一些开源项目像是[gatsby](https://github.com/gatsbyjs/gatsby)会奖励贡献者们一些小礼物。如果您负担不起，也可以在twitter或者其它平台上发布一封关于项目贡献的公开感谢信，并且提及那些贡献者们（[公开感谢信的示例](https://twitter.com/FranckAbgrall/status/1139470547492978688)）。在您的README文档里开设一个`贡献者`栏，以此公开地感谢贡献者们。或者您也可以在项目文档或网站上展示您的贡献者们。以下是一些示例：
+> 为那些帮助过您的人们鼓掌喝彩! 一些开源项目像是[gatsby](https://github.com/gatsbyjs/gatsby)会奖励贡献者们一些小礼物。如果您负担不起，也可以在 twitter 或者其它平台上发布一封关于项目贡献的公开感谢信，并且提及那些贡献者们（[公开感谢信的示例](https://twitter.com/FranckAbgrall/status/1139470547492978688)）。在您的 README 文档里开设一个`贡献者`栏，以此公开地感谢贡献者们。或者您也可以在项目文档或网站上展示您的贡献者们。以下是一些示例：
 >
-> - [vuepress （在README中的贡献者栏）](https://github.com/vuejs/vuepress#code-contributors)
+> - [vuepress （在 README 中的贡献者栏）](https://github.com/vuejs/vuepress#code-contributors)
 > - [Rythm.js （在展示页面上随机显示贡献者）](https://okazari.github.io/Rythm.js/)
 
 </p>
@@ -226,7 +227,7 @@
 <summary>💬 开设一个社区聊天平台</summary>
 <p>
 
-> Github的issue并不总是和您的用户沟通最好的地方。如果有需要的话，您可以使用一些聊天平台来和他们讨论：
+> Github 的 issue 并不总是和您的用户沟通最好的地方。如果有需要的话，您可以使用一些聊天平台来和他们讨论：
 >
 > - [Discord](https://discordapp.com)
 > - [Slack](https://slack.com)
@@ -257,7 +258,7 @@
 
 ## 🙏 表示支持
 
-如果这份备用单能够帮助到您，请您支持并⭐️我们的repository！
+如果这份备用单能够帮助到您，请您支持并 ⭐️ 我们的 repository！
 
 <br />
 

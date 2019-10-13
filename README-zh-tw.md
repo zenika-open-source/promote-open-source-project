@@ -23,7 +23,7 @@
 
 沒有您需要的語言？希望幫忙改進這份備忘單？[歡迎您的貢獻](./CONTRIBUTING.md)！
 
-[我們也提供這份清單的PDF版本](./pdf/cheat-sheet.pdf)
+[我們也提供這份備忘單的 PDF 版本](./pdf/cheat-sheet.pdf)
 
 ## 1. 🎢 準備階段
 
@@ -51,7 +51,7 @@
 <summary>💅 把您的README文檔寫得幹淨漂亮</summary>
 <p>
 
-> 您的訪客們的第一件事就是閱讀您的README文檔，所以您得確保它幹淨漂亮、易於閱讀。[這些優秀的README文檔可以為您提供參考](https://github.com/matiassingers/awesome-readme)。
+> 您的訪客們的第一件事就是閱讀您的 README 文檔，所以您得確保它幹淨漂亮、易於閱讀。[這些優秀的 README 文檔可以為您提供參考](https://github.com/matiassingers/awesome-readme)。
 
 </p>
 </details>
@@ -71,8 +71,8 @@
 
 > 訪客們通常希望迅速了解您的項目的目標，它的工作原理以及應該如何使用它。為您的項目提供一個演示或者示例可以很好地滿足訪客們的需求，比如說：
 >
->  - 利用GIF動畫來展示您項目的工作原理
->  - 提供一個在線演示的網頁連接
+> - 利用 GIF 動畫來展示您項目的工作原理
+> - 提供一個在線演示的網頁連接
 
 </p>
 </details>
@@ -90,7 +90,7 @@
 <summary>📘 創建一個幹淨整潔的結構化文檔</summary>
 <p>
 
-> 一個優秀的文檔也許是最為重要的一步了。如果您的文檔比較小的話，您可以直接將它包含在README文檔裏。否則的話，您或許應該將您的文檔托管在一個獨立的網站上麵。一些開源項目比如 [vuepress](https://v1.vuepress.vuejs.org) 可以幫助您非常容易地創建幹淨整潔的文檔。
+> 一個優秀的文檔也許是最為重要的一步了。如果您的文檔比較小的話，您可以直接將它包含在 README 文檔裏。否則的話，您或許應該將您的文檔托管在一個獨立的網站上麵。一些開源項目比如 [vuepress](https://v1.vuepress.vuejs.org) 可以幫助您非常容易地創建幹淨整潔的文檔。
 
  </p>
 </details>
@@ -105,7 +105,7 @@
 <summary>⭐ 在社交網絡上發布您的項目之前，保證它是可以信賴的</summary>
 <p>
 
-> 許多訪客會在考慮使用項目之前，先查看項目獲得過得star數量。隻需要一些star就能讓您的項目比沒有任何star的項目更加值得信賴，這就是為什麼您應該在社交網絡上公開宣布之前，請您認識的人支持您的項目。
+> 許多訪客會在考慮使用項目之前，先查看項目獲得過得 star 數量。隻需要一些 star 就能讓您的項目比沒有任何 star 的項目更加值得信賴，這就是為什麼您應該在社交網絡上公開宣布之前，請您認識的人支持您的項目。
 
 </p>
 </details>
@@ -135,9 +135,10 @@
 <p>
 
 > 為您的項目寫一些關於您項目的文章。您可以在其中分享您使用到的技術棧、您項目的工作原理和您遇到過得問題等等。然後把這些文章發布在這些平台上：
-> 
+>
 > - [medium](https://medium.com/)
 > - [dev.to](https://dev.to/)
+
 </p>
 </details>
 
@@ -169,10 +170,10 @@
 </details>
 
 <details>
-<summary>🗑 不要在平台上過渡宣傳</summary>
+<summary>🗑 不要在平台上過度宣傳</summary>
 <p>
 
-> 不要在相同的平台上發布兩次。這將會被視為過渡的宣傳，並且有可能為您的項目招致負麵宣傳。
+> 不要在相同的平台上發布兩次。這將會被視為過度的宣傳，並且有可能為您的項目招致負麵宣傳。
 
 </p>
 </details>
@@ -196,7 +197,7 @@
 <summary>❗ 維護您的項目並處理未解決的issue</summary>
 <p>
 
-> 別讓issue一直處於未解決的狀態並且對此毫無回應。對那些花費自己時間提交issue的用戶們好一點。 😉
+> 別讓 issue 一直處於未解決的狀態並且對此毫無回應。對那些花費自己時間提交 issue 的用戶們好一點。 😉
 
 </p>
 </details>
@@ -205,7 +206,7 @@
 <summary>🙏 邀請用戶們為項目貢獻</summary>
 <p>
 
-> 一個健康的項目通常擁有一個社區和許多貢獻者們。在一些issue上標注`contribution welcome`標簽或者`good first issue`標簽來讓您的用戶們知道您需要幫助。[關於github標簽](https://help.github.com/en/articles/about-labels)。
+> 一個健康的項目通常擁有一個社區和許多貢獻者們。在一些 issue 上標注`contribution welcome`標簽或者`good first issue`標簽來讓您的用戶們知道您需要幫助。[關於 github 標簽](https://help.github.com/en/articles/about-labels)。
 
 </p>
 </details>
@@ -214,9 +215,9 @@
 <summary>🏆 獎勵貢獻者們</summary>
 <p>
 
-> 為那些幫助過您的人們鼓掌喝彩! 一些開源項目像是[gatsby](https://github.com/gatsbyjs/gatsby)會獎勵貢獻者們一些小禮物。如果您負擔不起，也可以在twitter或者其它平台上發布一封關於項目貢獻的公開感謝信，並且提及那些貢獻者們（[公開感謝信的示例](https://twitter.com/FranckAbgrall/status/1139470547492978688)）。在您的README文檔裏開設一個`貢獻者`欄，以此公開地感謝貢獻者們。或者您也可以在項目文檔或網站上展示您的貢獻者們。以下是一些示例：
+> 為那些幫助過您的人們鼓掌喝彩! 一些開源項目像是[gatsby](https://github.com/gatsbyjs/gatsby)會獎勵貢獻者們一些小禮物。如果您負擔不起，也可以在 twitter 或者其它平台上發布一封關於項目貢獻的公開感謝信，並且提及那些貢獻者們（[公開感謝信的示例](https://twitter.com/FranckAbgrall/status/1139470547492978688)）。在您的 README 文檔裏開設一個`貢獻者`欄，以此公開地感謝貢獻者們。或者您也可以在項目文檔或網站上展示您的貢獻者們。以下是一些示例：
 >
-> - [vuepress （在README中的貢獻者欄）](https://github.com/vuejs/vuepress#code-contributors)
+> - [vuepress （在 README 中的貢獻者欄）](https://github.com/vuejs/vuepress#code-contributors)
 > - [Rythm.js （在展示頁麵上隨機顯示貢獻者）](https://okazari.github.io/Rythm.js/)
 
 </p>
@@ -226,7 +227,7 @@
 <summary>💬 開設一個社區聊天平台</summary>
 <p>
 
-> Github的issue並不總是和您的用戶溝通最好的地方。如果有需要的話，您可以使用一些聊天平台來和他們討論：
+> Github 的 issue 並不總是和您的用戶溝通最好的地方。如果有需要的話，您可以使用一些聊天平台來和他們討論：
 >
 > - [Discord](https://discordapp.com)
 > - [Slack](https://slack.com)
@@ -257,7 +258,7 @@
 
 ## 🙏 表示支持
 
-如果這份備用單能夠幫助到您，請您支持並⭐️我們的repository！
+如果這份備用單能夠幫助到您，請您支持並 ⭐️ 我們的 repository！
 
 <br />
 
