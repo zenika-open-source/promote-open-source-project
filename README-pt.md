@@ -10,7 +10,7 @@
 
 <h1 align="center">Folha de dicas : Promover um projeto de código aberto</h1>
 
-> Esta folha de dicas resume as etapas importantes a serem seguidas para promover um projeto de código aberto nas melhores condições. É possível exibir informações adicionais para um item na lista clicando nele.
+> Esta folha de dicas resume os passos importantes a seguir para promover um projeto de código aberto nas melhores condições. É possível exibir informações adicionais para um item da lista clicando nele.
 
 Idiomas disponíveis :
 
@@ -25,72 +25,72 @@ Idiomas disponíveis :
 
 Falta um idioma? Você acha que é possível melhorar esta folha de dicas? [Contribuições são bem-vindas](./CONTRIBUTING.md) !
 
-## 1. 🎢 Preparation
+## 1. 🎢 Preparação
 
 <br />
 
 <details>
-<summary>👌 S'assurer que le projet soit assez mature</summary>
+<summary>👌 Verifique se o projeto está maduro o suficiente</summary>
 <p>
 
-> Assurez-vous que votre projet soit stable et possède un minimum de fonctionnalités intéressantes pour accrocher les visiteurs.
+> Certifique-se de que o seu projecto é estável e tem um mínimo de características interessantes para envolver os visitantes.
 
 </p>
 </details>
 
 <details>
-<summary>😎 Choisir un nom cool pour son projet</summary>
+<summary>😎 Escolha um nome legal para o seu projeto</summary>
 <p>
 
-> Choisissez un nom que vos visiteurs pourront facilement retenir.
+> Escolha um nome que seus visitantes possam facilmente lembrar.
 
 </p>
 </details>
 
 <details>
-<summary>💅 Soigner la présentation du README</summary>
+<summary>💅 Cuide da apresentação do README</summary>
 <p>
 
-> Le README est la première chose que les visiteurs verront sur la page de votre projet. Travaillez la présentation pour qu'elle soit simple, jolie et agréable à lire. [Vous trouverez des exemples de README soignés ici.](https://github.com/matiassingers/awesome-readme)
+> O README é a primeira coisa que os visitantes vêem na página do seu projeto. Trabalhe na apresentação para torná-la simples, bonita e agradável de ler. [Você encontrará exemplos de README tratados aqui.](https://github.com/matiassingers/awesome-readme)
 
 </p>
 </details>
 
 <details>
-<summary>💪 Mettre en avant les points forts du projet</summary>
+<summary>💪 Destacar os pontos fortes do projeto</summary>
 <p>
 
-> Identifiez les points forts de votre projet et mettez-les en avant de manière à ce que ce soit la première chose que voient vos visiteurs.
+> Identificar os pontos fortes de seu projeto e colocá-los para a frente de modo que é a primeira coisa que seus visitantes vejam.
 
 </p>
 </details>
 
 <details>
-<summary>✨ Mettre une démo du projet à disposition</summary>
+<summary>✨ Apresentar uma demonstração do projeto</summary>
 <p>
 
-> Vos visiteurs voudront comprendre rapidement à quel besoin répond votre projet et comment il fonctionne. Mettre une démo à disposition est un excellent moyen de satisfaire vos visiteurs. Le format de la démo peut être :
+> Seus visitantes vão querer entender rapidamente quais são as necessidades do seu projeto e como ele funciona. Fornecer uma demonstração é uma ótima maneira de satisfazer seus visitantes. O formato da demonstração pode ser:
 >
-> - un GIF animé
-> - un lien vers une démo en ligne
+> - um GIF animado
+> - um link para uma demonstração online
 
 </p>
 </details>
 
 <details>
-<summary>👌 L'installation et l'utilisation du projet doivent être les plus simples possibles</summary>
+<summary>👌 A instalação e o uso do projeto devem ser o mais simples possível</summary>
 <p>
 
-> Vous risquez de perdre des visiteurs si le projet n'est pas simple à installer ou à utiliser.
+> Você pode perder visitantes se o projeto não for fácil de instalar ou usar.
 
 </p>
 </details>
 
 <details>
-<summary>📘 Créer une documentation soignée et structurée</summary>
+<summary>📘 Crie uma documentação clara e estruturada</summary>
 <p>
 
-> Créer une bonne documentation est probablement l'étape la plus importante. Si votre documentation n'est pas longue, vous pouvez l'inclure directement dans votre README. Si celle-ci est volumineuse, le mieux sera de l'héberger sur un site différent. Certains projets open-source comme [vuepress](https://v1.vuepress.vuejs.org) permettent de créer rapidement une jolie documentation.
+> Criar boa documentação é provavelmente o passo mais importante. Se sua documentação não for longa, você poderá incluí-la diretamente no seu README. Se for volumoso, o melhor será hospedá-lo em um site diferente. Alguns projetos de código aberto como o [vuepress](https://v1.vuepress.vuejs.org) podem criar rapidamente uma boa documentação.
 
  </p>
 </details>
