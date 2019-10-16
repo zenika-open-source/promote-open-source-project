@@ -21,6 +21,7 @@ List of available languages:
 - [简体中文](./README-zh-cn.md)
 - [繁體中文](./README-zh-tw.md)
 - [پارسی](./README-fa.md)
+- [Português](./README-pt.md)
 
 A language is missing? Want to improve this cheat sheet? [Contributions are welcome](./CONTRIBUTING.md)!
 

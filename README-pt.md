@@ -4,15 +4,15 @@
 
 <p align="center">
   <a href="https://twitter.com/intent/tweet?text=How%20to%20promote%20your%20open-source%20projects%20@ZenikaOSS&url=https://github.com/zenika-open-source/open-source-promotion-cheat-sheet&hashtags=OpenSource,CheatSheet">
-    <img alt="tweet" src="https://img.shields.io/twitter/url/https/twitter?label=Partager%20sur%20twitter&style=social" target="_blank" />
+    <img alt="tweet" src="https://img.shields.io/twitter/url/https/twitter?label=Share%20on%20twitter&style=social" target="_blank" />
   </a>
 </p>
 
-<h1 align="center">Cheat sheet : Promouvoir un projet open-source</h1>
+<h1 align="center">Folha de dicas : Promover um projeto de código aberto</h1>
 
-> Ce cheat sheet résume les étapes importantes à suivre pour promouvoir un projet open-source dans les meilleures conditions. Il est possible d’afficher des informations supplémentaires pour un élément de la liste en cliquant dessus.
+> Esta folha de dicas resume as etapas importantes a serem seguidas para promover um projeto de código aberto nas melhores condições. É possível exibir informações adicionais para um item na lista clicando nele.
 
-Langages disponibles :
+Idiomas disponíveis :
 
 - [English](./README.md)
 - [Français](./README-fr.md)
@@ -23,9 +23,9 @@ Langages disponibles :
 - [پارسی](./README-fa.md)
 - [Português](./README-pt.md)
 
-Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat sheet ? [Les contributions sont les bienvenues](./CONTRIBUTING.md) !
+Falta um idioma? Você acha que é possível melhorar esta folha de dicas? [Contribuições são bem-vindas](./CONTRIBUTING.md) !
 
-## 1. 🎢 Préparation
+## 1. 🎢 Preparation
 
 <br />
 
@@ -241,7 +241,6 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 <p>
 
 > Les retours des utilisateurs sont un excellent moyen d'améliorer votre projet. Vos utilisateurs ont probablement un tas d'idées qui pourraient rendre votre projet meilleur.
-
 </p>
 
 <br />
@@ -283,13 +282,6 @@ Merci à tous les formidables contributeurs:
     <td align="center"><a href="https://github.com/Claire"><img src="https://avatars2.githubusercontent.com/u/5114096?v=4" width="100px;" alt="Claire Martinez"/><br /><sub><b>Claire Martinez</b></sub></a><br /><a href="#translation-claire" title="Translation">🌍</a></td>
     <td align="center"><a href="https://hazeforum.com/"><img src="https://avatars2.githubusercontent.com/u/31011359?v=4" width="100px;" alt="André Gama"/><br /><sub><b>André Gama</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=andregamma" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/mbernardeau"><img src="https://avatars0.githubusercontent.com/u/7049049?v=4" width="100px;" alt="Mathias Bernardeau"/><br /><sub><b>Mathias Bernardeau</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=mbernardeau" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/Antoineoili"><img src="https://avatars1.githubusercontent.com/u/50737365?v=4" width="100px;" alt="Antoine Oili"/><br /><sub><b>Antoine Oili</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=Antoineoili" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://twitter.com/dev_oswld"><img src="https://avatars1.githubusercontent.com/u/40254158?v=4" width="100px;" alt="Oswld TC"/><br /><sub><b>Oswld TC</b></sub></a><br /><a href="#translation-dev-oswld" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://yizhiyue.me"><img src="https://avatars3.githubusercontent.com/u/8545277?v=4" width="100px;" alt="Zhiyue Yi"/><br /><sub><b>Zhiyue Yi</b></sub></a><br /><a href="#translation-ZhiyueYi" title="Translation">🌍</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/aliruss"><img src="https://avatars3.githubusercontent.com/u/32896351?v=4" width="100px;" alt="Ali khalili"/><br /><sub><b>Ali khalili</b></sub></a><br /><a href="#translation-aliruss" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://pakseresht.eu/"><img src="https://avatars3.githubusercontent.com/u/9018054?v=4" width="100px;" alt="Niusha Pakseresht"/><br /><sub><b>Niusha Pakseresht</b></sub></a><br /><a href="#translation-niusha-paks" title="Translation">🌍</a></td>
   </tr>
 </table>
 
