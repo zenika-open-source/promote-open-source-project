@@ -181,54 +181,54 @@ Falta um idioma? Você acha que é possível melhorar esta folha de dicas? [Cont
 
 <br />
 
-## 3. 🤝 Garder les utilisateurs
+## 3. 🤝 Manter os utilizadores
 
 <br />
 
 <details>
-<summary>🆕 Mettre régulièrement à jour le projet</summary>
+<summary>🆕 Atualizar regularmente o projeto</summary>
 <p>
 
-> Maintenez et améliorez votre projet en publiant de nouvelles versions. N'oubliez pas de générer les changelogs associés.
+> Mantenha e melhore seu projeto publicando novas versões. Não se esqueça de produzir os changelogs associados.
 
 </p>
 </details>
 
 <details>
-<summary>❗ Maintenir le projet et traiter les issues ouvertes</summary>
+<summary>❗ Manter o projeto e tratar de problemas abertos.</summary>
 <p>
 
-> Ne laissez pas les issues sans réponse. Soyez courtois et sympathique avec les personnes qui ont pris le temps d'ouvrir des issues. 😉
+> Não deixe problemas sem resposta. Seja cortês e simpático com as pessoas que tiveram tempo para abrir sugestões. 😉
 
 </p>
 </details>
 
 <details>
-<summary>🙏 Inviter les utilisateurs à contribuer</summary>
+<summary>🙏 Convidar os utilizadores a contribuir</summary>
 <p>
 
-> Un projet en bonne santé est un projet qui possède une communauté et des contributeurs. Montrez à vos utilisateurs que leur aide est la bienvenue en taggant certaines issues avec les labels `contribution welcome` ou `good first issue`. [Vous trouverez plus d'information sur les labels en cliquant ici.](https://help.github.com/en/articles/about-labels)
+> Um projeto saudável é um projeto que tem uma comunidade e colaboradores. Mostre aos seus utilizadores que sua ajuda é bem-vinda marcando alguns problemas com os rótulos `contribution welcome` ou ` good first issue`. [Pode encontrar mais informações nas etiquetas clicando aqui.](https://help.github.com/en/articles/about-labels)
 
 </p>
 </details>
 
 <details>
-<summary>🏆 Récompenser les contributeurs</summary>
+<summary>🏆 Recompensar os contribuidores</summary>
 <p>
 
-> Certains projets open-source comme [gatsby](https://github.com/gatsbyjs/gatsby) récompensent leurs contributeurs avec des goodies. Si vous n'en n'avez pas les moyens, faites une publication (sur twitter ou d'autres plateformes) qui mentionne la contribution et son auteur afin de le remercier (ex. : [Post sur twitter](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Vous pouvez aussi ouvrir une section `Contributors` sur votre README afin d'afficher publiquement votre gratitude envers vos contributeurs ou encore les mettre en avant sur le site ou la documentation de votre projet.
+> Alguns projetos open-source como o [gatsby](https://github.com/gatsbyjs/gatsby) recompensam seus colaboradores com goodies. Se você não puder pagar, faça uma publicação (no twitter ou em outras plataformas) que mencione a contribuição e seu autor para agradecê-lo (ex: [Post no twitter](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Você também pode abrir uma seção `Contributors` no seu README para mostrar publicamente seus agradecimentos a seus colaboradores ou destacá-los em seu website ou documentação do projeto.
 >
-> - [vuepress (section contributeurs dans le README)](https://github.com/vuejs/vuepress#code-contributors)
-> - [Rythm.js (Mise en avant de manière aléatoire d'un contributeur sur la page de démo)](https://okazari.github.io/Rythm.js/)
+> - [vuepress (seção de contribuidores no README)](https://github.com/vuejs/vuepress#code-contributors)
+> - [Rythm.js (Destacando de maneira aleatória um colaborador na página de demonstração)](https://okazari.github.io/Rythm.js/)
 
 </p>
 </details>
 
 <details>
-<summary>💬 Ouvrir un chat pour la communauté du projet</summary>
+<summary>💬 Abra um chat para a comunidade do projeto</summary>
 <p>
 
-> Les issues Github ne sont pas toujours la meilleure manière de communiquer avec vos utilisateurs. Si nécessaire, vous pouvez ouvrir un chat pour discuter avec eux :
+> Os issues do Github nem sempre são a melhor maneira de se comunicar com seus utilizadores. Se necessário, você pode abrir um chat para conversar com eles :
 >
 > - [Discord](https://discordapp.com)
 > - [Slack](https://slack.com)
@@ -238,33 +238,33 @@ Falta um idioma? Você acha que é possível melhorar esta folha de dicas? [Cont
 </details>
 
 <details>
-<summary>🔙 Demander des retours utilisateurs</summary>
+<summary>🔙 Pedir feedback dos utilizadores</summary>
 <p>
 
-> Les retours des utilisateurs sont un excellent moyen d'améliorer votre projet. Vos utilisateurs ont probablement un tas d'idées qui pourraient rendre votre projet meilleur.
+> O feedback dos utilizadores é uma excelente forma de melhorar o seu projecto. Seus utilizadores provavelmente têm muitas idéias que poderiam melhorar o seu projeto.
 </p>
 
 <br />
 </details>
 
 <details>
-<summary>❤️ Montrer ce que les autres utilisateurs ont créé avec votre projet</summary>
+<summary>❤️ Mostrar o que outros utilizadores criaram com o seu projecto</summary>
 <p>
 
-> Les visiteurs accorderont plus facilement leur confiance s'ils voient des cas concrets d'utilisation (ex. : [vuepress gallery](https://vuepress.gallery/)).
+> Os visitantes confiarão mais facilmente se virem casos concretos de uso (ex. : [vuepress gallery](https://vuepress.gallery/)).
 
 </p>
 </details>
 
 <br />
 
-## 🙏 Montrez votre support
+## 🙏 Mostre o seu apoio
 
-N'hésitez pas à mettre une ⭐ si ce projet vous a aidé.
+Esteja à vontade para colocar uma ⭐ se este projecto o ajudar.
 
-## ❤️ Contributeurs
+## ❤️ Contribuidores
 
-Merci à tous les formidables contributeurs:
+Obrigado a todos os ótimos colaboradores:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
@@ -288,4 +288,4 @@ Merci à tous les formidables contributeurs:
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-Ce projet suit la spécification [all-contributors](https://github.com/all-contributors/all-contributors). Les contributions de tout type sont les bienvenues !
+Este projecto segue as especificações [all-contributors](https://github.com/all-contributors/all-contributors). Contribuições de qualquer tipo são bem-vindas!
