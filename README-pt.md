@@ -30,7 +30,7 @@ Falta um idioma? Você acha que é possível melhorar esta folha de dicas? [Cont
 <br />
 
 <details>
-<summary>👌 Verifique se o projeto está maduro o suficiente</summary>
+<summary>👌 Verifique se o projeto está suficientemente maduro</summary>
 <p>
 
 > Certifique-se de que o seu projecto é estável e tem um mínimo de características interessantes para envolver os visitantes.
@@ -39,10 +39,10 @@ Falta um idioma? Você acha que é possível melhorar esta folha de dicas? [Cont
 </details>
 
 <details>
-<summary>😎 Escolha um nome legal para o seu projeto</summary>
+<summary>😎 Escolha um nome fixe para o seu projeto</summary>
 <p>
 
-> Escolha um nome que seus visitantes possam facilmente lembrar.
+> Escolha um nome que seus visitantes se lembrem facilmente.
 
 </p>
 </details>
@@ -207,7 +207,7 @@ Falta um idioma? Você acha que é possível melhorar esta folha de dicas? [Cont
 <summary>🙏 Convidar os utilizadores a contribuir</summary>
 <p>
 
-> Um projeto saudável é um projeto que tem uma comunidade e colaboradores. Mostre aos seus utilizadores que sua ajuda é bem-vinda marcando alguns problemas com os rótulos `contribution welcome` ou ` good first issue`. [Pode encontrar mais informações nas etiquetas clicando aqui.](https://help.github.com/en/articles/about-labels)
+> Um projeto saudável é um projeto que tem uma comunidade e colaboradores. Mostre aos seus utilizadores que sua ajuda é bem-vinda marcando alguns problemas com as etiquetas `contribution welcome` ou ` good first issue`. [Pode encontrar mais informações nas etiquetas clicando aqui.](https://help.github.com/en/articles/about-labels)
 
 </p>
 </details>
