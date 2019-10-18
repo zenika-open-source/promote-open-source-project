@@ -97,24 +97,25 @@ Falta um idioma? Você acha que é possível melhorar esta folha de dicas? [Cont
 
 <br />
 
-## 2. 📢 Communiquer le projet
+## 2. 📢 Comunicar o projeto
 
 <br />
 
 <details>
-<summary>⭐ Mettre en confiance les futurs visiteurs avant de publier sur les réseaux sociaux</summary>
+<summary>⭐ Confiar futuros visitantes antes de publicar nas redes sociais</summary>
 <p>
 
-> La plupart des visiteurs regarderont le nombre de stars du projet avant de l'utiliser. Plus votre projet possède un nombre important de stars, plus son indice de fiabilité sera élevé. N'hésitez pas à demander à vos proches, collègues et amis de vous aider à améliorer la crédibilité de votre projet en ajoutant une star.
+> A maioria dos visitantes olhará para o número de estrelas no projeto antes de usá-lo. Quanto mais estrelas o seu projecto tiver, maior será o seu índice de fiabilidade. Não hesite em pedir a seus parentes, colegas e amigos para ajudá-lo a melhorar a credibilidade do seu projeto adicionando uma estrela.
+
 
 </p>
 </details>
 
 <details>
-<summary>↗️ Partager le projet sur les réseaux sociaux et les plateformes spécialisées</summary>
+<summary>↗️ Compartilhar o projeto em redes sociais e plataformas especializadas</summary>
 <p>
 
-> Voici quelques plateformes sur lesquelles vous pourriez partager votre travail :
+> Aqui estão algumas plataformas nas quais você pode compartilhar seu trabalho :
 >
 > - [Twitter](https://twitter.com)
 > - [Linkedin](https://www.linkedin.com/)
@@ -131,10 +132,10 @@ Falta um idioma? Você acha que é possível melhorar esta folha de dicas? [Cont
 </details>
 
 <details>
-<summary>📃 Écrire des articles en mentionnant le projet</summary>
+<summary>📃 Escreva artigos mencionando o projeto</summary>
 <p>
 
-> Écrivez des articles et citez votre projet. Le sujet de l'article peut être lié à la stack technique que vous avez utilisée, les problèmes que vous avez rencontrés, etc. Postez sur les plateformes de publication :
+> Escreva artigos e cite seu projeto. O assunto do artigo pode estar relacionado com a pilha técnica que utilizou, os problemas que encontrou, etc. Postar nas plataformas de publicação:
 >
 > - [medium](https://medium.com/)
 > - [dev.to](https://dev.to/)
@@ -143,37 +144,37 @@ Falta um idioma? Você acha que é possível melhorar esta folha de dicas? [Cont
 </details>
 
 <details>
-<summary>🎤 Présenter le projet à des conférences/meetups</summary>
+<summary>🎤 Apresentar o projeto em conferências / encontros</summary>
 <p>
 
-> La présentation de votre projet à des conférences et meetups est un excellent moyen d'améliorer sa visibilité.
+> Apresentar seu projeto em conferências e encontros é uma ótima maneira de melhorar sua visibilidade.
 
 </p>
 </details>
 
 <details>
-<summary>🎥 Enregistrer et publier des vidéos de présentation du projet</summary>
+<summary>🎥 Gravar e publicar vídeos de apresentação do projeto</summary>
 <p>
 
-> Enregistrez une vidéo n'est pas un exercice facile, cependant c'est l'un des moyens les plus efficaces pour rendre votre projet populaire.
+> Gravar um vídeo não é um exercício fácil, mas é uma das maneiras mais eficazes de tornar seu projeto popular.
 
 </p>
 </details>
 
 <details>
-<summary>🕐 Choisir le meilleur moment pour publier sur les réseaux sociaux</summary>
+<summary>🕐 Escolha o melhor momento para publicar nas redes sociais</summary>
 <p>
 
-> Habituellement, le meilleur moment pour lancer une communication est en milieu de semaine. Ne faites pas de communication pendant les périodes de vacances ou le week-end.
+> Normalmente, a melhor altura para iniciar uma comunicação é no meio da semana. Não comunicar durante os períodos de férias ou fins de semana.
 
 </p>
 </details>
 
 <details>
-<summary>🗑 Ne pas spammer les plateformes avec la promotion du projet</summary>
+<summary>🗑 Não faça spam nas plataformas com promoção do projeto</summary>
 <p>
 
-> Ne publiez pas deux fois sur la même plateforme. Votre communication pourra être considérée comme du spam et causer de la mauvaise publicité pour votre projet.
+> Não publique duas vezes na mesma plataforma. Sua comunicação pode ser considerada spam e causar má publicidade para o seu projeto.
 
 </p>
 </details>
