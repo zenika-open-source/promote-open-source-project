@@ -278,6 +278,7 @@ Unser Dank geht an die folgenden wundervollen Leute:
     <td align="center"><a href="https://github.com/Claire"><img src="https://avatars2.githubusercontent.com/u/5114096?v=4" width="100px;" alt="Claire Martinez"/><br /><sub><b>Claire Martinez</b></sub></a><br /><a href="#translation-claire" title="Translation">🌍</a></td>
     <td align="center"><a href="https://hazeforum.com/"><img src="https://avatars2.githubusercontent.com/u/31011359?v=4" width="100px;" alt="André Gama"/><br /><sub><b>André Gama</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=andregamma" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/mbernardeau"><img src="https://avatars0.githubusercontent.com/u/7049049?v=4" width="100px;" alt="Mathias Bernardeau"/><br /><sub><b>Mathias Bernardeau</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=mbernardeau" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Antoineoili"><img src="https://avatars1.githubusercontent.com/u/50737365?v=4" width="100px;" alt="Antoine Oili"/><br /><sub><b>Antoine Oili</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=Antoineoili" title="Documentation">📖</a></td>
   </tr>
 </table>
 
