@@ -254,7 +254,7 @@ Lista de lenguajes disponibles:
 
 ## 🙏 Muestra tu apoyo
 
-⭐️ a este repositorio ¡si esta hoja de referencia te ayudo!
+⭐️ a este repositorio ¡si esta hoja de referencia te ayudó!
 
 <br />
 
