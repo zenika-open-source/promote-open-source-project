@@ -108,7 +108,7 @@ Lista de lenguajes disponibles:
 </details>
 
 <details>
-<summary>↗️ Comparte tu proyecto en redes sociales y plataformas especializadas.</summary>
+<summary>↗️ Comparte tu proyecto en redes sociales y plataformas especializadas</summary>
 <p>
 
 > ¡Cuéntale al mundo de tu increíble trabajo! Publica en redes sociales y plataformas especializadas:
