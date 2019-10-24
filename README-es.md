@@ -66,7 +66,7 @@ Lista de lenguajes disponibles:
 <summary>✨ Proporciona una demostración de tu proyecto</summary>
 <p>
 
-> los visitantes desean comprender rápidamente el propósito de tu proyecto, cómo funciona y cómo usarlo. Proporciona una demostración, es la mejor manera de complacer a los usuarios. Podría ser:
+> Los visitantes desean comprender rápidamente el propósito de tu proyecto, cómo funciona y cómo usarlo. Proporciona una demostración es la mejor manera de complacer a los usuarios. Podría ser:
 >
 >  - Un GIF animado que demuestra cómo funciona tu proyecto
 >  - Un enlace a una demostración
