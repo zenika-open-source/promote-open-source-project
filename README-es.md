@@ -211,7 +211,7 @@ Lista de lenguajes disponibles:
 <summary>🏆 Recompensas a los contribuidores</summary>
 <p>
 
-> ¡Sé amable con las personas que te ayudaron! Algunos proyectos de código abierto como [gatsby](https://github.com/gatsbyjs/gatsby) premian a los contribuidores. Si no puedes pagar eso, haz una publicación (en twitter u otras plataformas) sobre la contribución y menciona al autor ([este es un ejemplo de agradecimiento público](https://twitter.com/FranckAbgrall/status/1139470547492978688 )). Abre una sección de `Contribuidores` en tu archivo README para agradecerles públicamente o mostrarlos en la documentación de tu proyecto o sitio web. Aquí hay unos ejemplos:
+> ¡Sé amable con las personas que te ayudaron! Algunos proyectos de código abierto como [gatsby](https://github.com/gatsbyjs/gatsby) premian a los contribuidores. Si no puedes pagar eso, haz una publicación (en twitter u otras plataformas) sobre la contribución y menciona al autor ([este es un ejemplo de agradecimiento público](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Abre una sección de `Contribuidores` en tu archivo README para agradecerles públicamente o mostrarlos en la documentación de tu proyecto o sitio web. Aquí hay unos ejemplos:
 >
 > - [vuepress (contribuidores en la sección README)](https://github.com/vuejs/vuepress#code-contributors)
 > - [Rythm.js (contribuidores aleatorios destacados en página web)](https://okazari.github.io/Rythm.js/)
