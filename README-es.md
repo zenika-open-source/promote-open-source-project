@@ -84,7 +84,7 @@ Lista de lenguajes disponibles:
 </details>
 
 <details>
-<summary>📘 Crea una documentación limpia y bien estructurada.</summary>
+<summary>📘 Crea una documentación limpia y bien estructurada</summary>
 <p>
 
 > Crear una buena documentación es probablemente el paso más importante. Si tienes una pequeña documentación, puedes incluirla en tu archivo README. De lo contrario, probablemente deberías alojarlo en un sitio web por separado. Algunos proyectos de código abierto como [vuepress](https://v1.vuepress.vuejs.org) pueden ayudarte a crear documentación limpia de una manera simple.
