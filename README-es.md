@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://twitter.com/intent/tweet?text=How%20to%20promote%20your%20open-source%20projects%20@ZenikaOSS&url=https://github.com/zenika-open-source/open-source-promotion-cheat-sheet&hashtags=OpenSource,CheatSheet">
-    <img alt="tweet" src="https://img.shields.io/twitter/url/https/twitter?label=Share%20on%20twitter&style=social" target="_blank" />
+  <img alt="tweet" src="https://img.shields.io/twitter/url/https/twitter?label=Compartir%20en%20Twitter&style=social" target="_blank">
   </a>
 </p>
 
@@ -15,9 +15,9 @@
 
 Lista de lenguajes disponibles:
 
-- [Inglés](./README.md)
-- [Frances](./README-fr.md)
-- [Alemán](./README-de.md)
+- [English](./README.md)
+- [Français](./README-fr.md)
+- [Deutsch](./README-de.md)
 - [Español](./README-es.md)
 
 ¿Un lenguaje falta? ¿Deseas mejorar esta hoja? ¡[Las contribuciones son bienvenidas](./CONTRIBUTING.md)!
