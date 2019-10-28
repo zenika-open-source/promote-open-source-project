@@ -18,6 +18,7 @@ List of available languages:
 - [English](./README.md)
 - [Français](./README-fr.md)
 - [Deutsch](./README-de.md)
+- [Spanish](./README-es.md)
 
 A language is missing? Want to improve this cheat sheet? [Contributions are welcome](./CONTRIBUTING.md)!
 
