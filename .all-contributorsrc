@@ -115,6 +115,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "dev-oswld",
+      "name": "Oswld TC",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/40254158?v=4",
+      "profile": "https://twitter.com/dev_oswld",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
