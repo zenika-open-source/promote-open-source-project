@@ -3,7 +3,9 @@
     "README.md",
     "README-fr.md",
     "README-de.md",
-    "README-es.md"
+    "README-es.md",
+    "README-zh-cn.md",
+    "README-zh-tw.md"
   ],
   "imageSize": 100,
   "commit": false,
@@ -124,11 +126,21 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "ZhiyueYi",
+      "name": "Zhiyue Yi",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/8545277?v=4",
+      "profile": "https://yizhiyue.me",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "open-source-promotion-cheat-sheet",
   "projectOwner": "zenika-open-source",
   "repoType": "github",
-  "repoHost": "https://github.com"
+  "repoHost": "https://github.com",
+  "commitConvention": "none"
 }

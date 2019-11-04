@@ -10,7 +10,6 @@
 
 <h1 align="center">Hoja de referencia de promoción al código abierto</h1>
 
-
 > Esta hoja de referencia resume los pasos importantes que debes seguir para promover tu proyecto de código abierto en óptimas condiciones. Puedes hacer clic en los elementos para expandir y obtener más información de un tema.
 
 Lista de lenguajes disponibles:
@@ -19,6 +18,8 @@ Lista de lenguajes disponibles:
 - [Français](./README-fr.md)
 - [Deutsch](./README-de.md)
 - [Español](./README-es.md)
+- [简体中文](./README-zh-cn.md)
+- [繁體中文](./README-zh-tw.md)
 
 ¿Un lenguaje falta? ¿Deseas mejorar esta hoja? ¡[Las contribuciones son bienvenidas](./CONTRIBUTING.md)!
 
@@ -281,6 +282,7 @@ Gracias a estas maravillosas personas:
     <td align="center"><a href="https://github.com/mbernardeau"><img src="https://avatars0.githubusercontent.com/u/7049049?v=4" width="100px;" alt="Mathias Bernardeau"/><br /><sub><b>Mathias Bernardeau</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=mbernardeau" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Antoineoili"><img src="https://avatars1.githubusercontent.com/u/50737365?v=4" width="100px;" alt="Antoine Oili"/><br /><sub><b>Antoine Oili</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=Antoineoili" title="Documentation">📖</a></td>
     <td align="center"><a href="https://twitter.com/dev_oswld"><img src="https://avatars1.githubusercontent.com/u/40254158?v=4" width="100px;" alt="Oswld TC"/><br /><sub><b>Oswld TC</b></sub></a><br /><a href="#translation-dev-oswld" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://yizhiyue.me"><img src="https://avatars3.githubusercontent.com/u/8545277?v=4" width="100px;" alt="Zhiyue Yi"/><br /><sub><b>Zhiyue Yi</b></sub></a><br /><a href="#translation-ZhiyueYi" title="Translation">🌍</a></td>
   </tr>
 </table>
 
