@@ -4,15 +4,15 @@
 
 <p align="center">
   <a href="https://twitter.com/intent/tweet?text=How%20to%20promote%20your%20open-source%20projects%20@ZenikaOSS&url=https://github.com/zenika-open-source/open-source-promotion-cheat-sheet&hashtags=OpenSource,CheatSheet">
-    <img alt="tweet" src="https://img.shields.io/twitter/url/https/twitter?label=Share%20on%20twitter&style=social" target="_blank" />
+    <img alt="tweet" src="https://img.shields.io/twitter/url/https/twitter?label=%E5%88%86%E4%BA%AB%E5%88%B0twitter&style=social" target="_blank" />
   </a>
 </p>
 
-<h1 align="center">Open source promotion cheat sheet</h1>
+<h1 align="center">开源项目推广备忘单</h1>
 
-> This cheat sheet summarizes important steps you should follow to promote your open source project in the best conditions. You can click items to expand and get more information from a topic. 
+> 这篇备忘单为您总结了一些关于如何最好地推广您的开源项目的重要步骤，您可以点击并展开下列选项以了解更多详情。
 
-List of available languages:
+现已支持以下语言：
 
 - [English](./README.md)
 - [Français](./README-fr.md)
@@ -21,100 +21,100 @@ List of available languages:
 - [简体中文](./README-zh-cn.md)
 - [繁體中文](./README-zh-tw.md)
 
-A language is missing? Want to improve this cheat sheet? [Contributions are welcome](./CONTRIBUTING.md)!
+没有您需要的语言？希望帮忙改进这份备忘单？[欢迎您的贡献](./CONTRIBUTING.md)！
 
-[A PDF version of this cheat sheet is available here.](./pdf/cheat-sheet.pdf)
+[我们也提供这份备忘单的 PDF 版本](./pdf/cheat-sheet.pdf)
 
-## 1. 🎢 Preparation step
+## 1. 🎢 准备阶段
 
 <br />
 
 <details>
-<summary>👌 Make sure your project is mature enough</summary>
+<summary>👌 保证您的项目已经足够成熟</summary>
 <p>
 
-> Your project must be stable enough with minimum viables features in order to hook users.
+> 您的项目必须足够稳定，并且拥有一些最低可行功能用以吸引用户们。
 
 </p>
 </details>
 
 <details>
-<summary>😎 Choose a cool name for your project</summary>
+<summary>😎 为您的项目挑选一个炫酷的名字</summary>
 <p>
 
-> Choose a name users can easily remember.
+> 挑选一个用户们能轻易记住的名字。
 
 </p>
 </details>
 
 <details>
-<summary>💅 Make your README pretty</summary>
+<summary>💅 把您的README文档写得干净漂亮</summary>
 <p>
 
-> README is the first thing your vistors will see. Make it simple, pretty and easy to read. [Here is a list of beautiful READMEs](https://github.com/matiassingers/awesome-readme).
+> 您的访客们的第一件事就是阅读您的 README 文档，所以您得确保它干净漂亮、易于阅读。[这些优秀的 README 文档可以为您提供参考](https://github.com/matiassingers/awesome-readme)。
 
 </p>
 </details>
 
 <details>
-<summary>💪 Highlight strong points of your project</summary>
+<summary>💪 强调您的项目中最闪耀的亮点</summary>
 <p>
 
-> Identify your project strengths and make sure visitors see them first.
+> 找出您的项目的强大之处并确保您的访客们在第一时间了解到它们。
 
 </p>
 </details>
 
 <details>
-<summary>✨ Provide a demo of your project</summary>
+<summary>✨ 提供一个您项目的演示或示例</summary>
 <p>
 
-> Visitors will want to quickly understand the purpose of your project, how it works and how to use it. Providing a demo is the best way to satisfy users. It could be:
+> 访客们通常希望迅速了解您的项目的目标，它的工作原理以及应该如何使用它。为您的项目提供一个演示或者示例可以很好地满足访客们的需求，比如说：
 >
->  - An animated GIF demonstrating how your project works
->  - A link to a live demo
+> - 利用 GIF 动画来展示您项目的工作原理
+> - 提供一个在线演示的网页连接
 
 </p>
 </details>
 
 <details>
-<summary>👌 Install/Usage must be super easy</summary>
+<summary>👌 安装和使用必须超级简单</summary>
 <p>
 
-> You'll probably lose visitors if your project is not user-friendly.
+> 您的项目不够用户友好可能会造成访客们的流失。
 
 </p>
 </details>
 
 <details>
-<summary>📘 Create a clean and well structured documentation</summary>
+<summary>📘 创建一个干净整洁的结构化文档</summary>
 <p>
 
-> Creating a good documentation is probably the most important step. If you have a small documentation, you can include it within your README. Otherwise, you should probably host it in a separate website. Some open source projects like [vuepress](https://v1.vuepress.vuejs.org) can help you creating clean documentation in a simple way.
+> 一个优秀的文档也许是最为重要的一步了。如果您的文档比较小的话，您可以直接将它包含在 README 文档里。否则的话，您或许应该将您的文档托管在一个独立的网站上面。一些开源项目比如 [vuepress](https://v1.vuepress.vuejs.org) 可以帮助您非常容易地创建干净整洁的文档。
 
  </p>
 </details>
 
 <br />
 
-## 2. 📢 Spread the word about your hard works
+## 2. 📢 宣传您的辛苦工作
 
 <br />
 
 <details>
-<summary>⭐ Make your project trustable before publishing it on social networks</summary>
+<summary>⭐ 在社交网络上发布您的项目之前，保证它是可以信赖的</summary>
 <p>
 
-> Most visitors will check how many stars the project has before considering using it. A minimum amount of stars makes your project more trustable than a project with zero star. This is why you should ask people you know to support your project before doing a public announcement on social media.
+> 许多访客会在考虑使用项目之前，先查看项目获得过得 star 数量。只需要一些 star 就能让您的项目比没有任何 star 的项目更加值得信赖，这就是为什么您应该在社交网络上公开宣布之前，请您认识的人支持您的项目。
 
 </p>
 </details>
 
 <details>
-<summary>↗️ Share the project on social media and specialized platforms</summary>
+<summary>↗️ 在社交媒体和专业平台上分享您的项目</summary>
 <p>
 
-> Tell the World about your awesome work! Publish on social media and specialized platforms:
+> 向世界展示您无与伦比的作品！您可以在以下社交媒体和专业平台上发布：
 >
 > - [Twitter](https://twitter.com)
 > - [Linkedin](https://www.linkedin.com/)
@@ -131,102 +131,103 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>📃 Write articles that mention your project</summary>
+<summary>📃 写一些文章并且提及您的项目</summary>
 <p>
 
-> Write articles about your project. Purpose can be the technical stack you used, how your project works, problems you encountered, etc. Post to publishing platforms:
+> 为您的项目写一些关于您项目的文章。您可以在其中分享您使用到的技术栈、您项目的工作原理和您遇到过得问题等等。然后把这些文章发布在这些平台上：
 >
 > - [medium](https://medium.com/)
 > - [dev.to](https://dev.to/)
-</p>
-</details>
-
-<details>
-<summary>🎤 Present your project at conferences/meetups</summary>
-<p>
-
-> Presenting your project at conferences or meetups is a good way to improve its visibility.
 
 </p>
 </details>
 
 <details>
-<summary>🎥 Record and publish videos presenting your project, how it works, etc</summary>
+<summary>🎤 在正式会议或线下聚会上介绍您的项目</summary>
 <p>
 
-> Recording a video is not an easy exercise. However it's probably the most efficient way to make your project famous.
+> 在正式会议或线下聚会上介绍您的项目是提高知名度的好办法。
 
 </p>
 </details>
 
 <details>
-<summary>🕐 Choose the best time to publish on social media</summary>
+<summary>🎥 记录并发布项目介绍和原理解释等的视频</summary>
 <p>
 
-> Don't publish during holidays period or weekends. Usually the best time to publish on social networks is mid-week.
+> 虽然录制视频并不轻松，但它也许是能让您的项目出名的最有效的办法。
 
 </p>
 </details>
 
 <details>
-<summary>🗑 Don't spam platforms with your promotion</summary>
+<summary>🕐 选择最好的时间在社交媒体上发布</summary>
 <p>
 
-> Don't publish twice on the same platform. It will be considered as spam and might cause bad publicity for your project.
+> 不要在假期或者周末发布您的项目。通常最适合在社交网络上发布的时间是一周里中间的那几天。
+
+</p>
+</details>
+
+<details>
+<summary>🗑 不要在平台上过度宣传</summary>
+<p>
+
+> 不要在相同的平台上发布两次。这将会被视为过度的宣传，并且有可能为您的项目招致负面宣传。
 
 </p>
 </details>
 
 <br />
 
-## 3. 🤝 Keep your users
+## 3. 🤝 留住您的用户们
 
 <br />
 
 <details>
-<summary>🆕 Try to regularly release new versions of your project</summary>
+<summary>🆕 尽量为您的项目定期发布新版本</summary>
 <p>
 
-> Maintain and improve your project with new releases and generate changelogs.
+> 维护并且改进您的项目，比如：新版本的发布和撰写变更记录。
 
 </p>
 </details>
 
 <details>
-<summary>❗ Maintain your project, process opened issues</summary>
+<summary>❗ 维护您的项目并处理未解决的issue</summary>
 <p>
 
-> Do not let opened issues without response. Be nice with people that took time to open issues. 😉
+> 别让 issue 一直处于未解决的状态并且对此毫无回应。对那些花费自己时间提交 issue 的用户们好一点。 😉
 
 </p>
 </details>
 
 <details>
-<summary>🙏 Invite users to contribute</summary>
+<summary>🙏 邀请用户们为项目贡献</summary>
 <p>
 
-> A healthy project is a project with a community and contributors. Let your users know that you need help by tagging some issues with `contribution welcome` or `good first issue` labels. [See github labels](https://help.github.com/en/articles/about-labels).
+> 一个健康的项目通常拥有一个社区和许多贡献者们。在一些 issue 上标注`contribution welcome`标签或者`good first issue`标签来让您的用户们知道您需要帮助。[关于 github 标签](https://help.github.com/en/articles/about-labels)。
 
 </p>
 </details>
 
 <details>
-<summary>🏆 Reward contributors</summary>
+<summary>🏆 奖励贡献者们</summary>
 <p>
 
-> Be nice with people that helped you! Some open source projects like [gatsby](https://github.com/gatsbyjs/gatsby) reward contributors with goodies. If you can't afford that, do a public post (on twitter or other platforms) about the contribution and mention the author ([here is an example of public thanks](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Open a `Contributors` section in your README to publicly thank them or showcase them on your project documentation or website. Here are some examples:
+> 为那些帮助过您的人们鼓掌喝彩! 一些开源项目像是[gatsby](https://github.com/gatsbyjs/gatsby)会奖励贡献者们一些小礼物。如果您负担不起，也可以在 twitter 或者其它平台上发布一封关于项目贡献的公开感谢信，并且提及那些贡献者们（[公开感谢信的示例](https://twitter.com/FranckAbgrall/status/1139470547492978688)）。在您的 README 文档里开设一个`贡献者`栏，以此公开地感谢贡献者们。或者您也可以在项目文档或网站上展示您的贡献者们。以下是一些示例：
 >
-> - [vuepress (contributors README section)](https://github.com/vuejs/vuepress#code-contributors)
-> - [Rythm.js (random highlighted contributor on demo page)](https://okazari.github.io/Rythm.js/)
+> - [vuepress （在 README 中的贡献者栏）](https://github.com/vuejs/vuepress#code-contributors)
+> - [Rythm.js （在展示页面上随机显示贡献者）](https://okazari.github.io/Rythm.js/)
 
 </p>
 </details>
 
 <details>
-<summary>💬 Open a community chat platform</summary>
+<summary>💬 开设一个社区聊天平台</summary>
 <p>
 
-> Github issues are not always the best way to communicate with your users. If necessary, you can use chat platforms to discuss with them:
+> Github 的 issue 并不总是和您的用户沟通最好的地方。如果有需要的话，您可以使用一些聊天平台来和他们讨论：
 >
 > - [Discord](https://discordapp.com)
 > - [Slack](https://slack.com)
@@ -236,34 +237,34 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>🔙 Ask for feedback</summary>
+<summary>🔙 寻求反馈</summary>
 <p>
 
-> User feedback is the best way to improve your project. They probably have features and ideas that could make your project better.
+> 用户反馈是改进您项目的最佳方法，他们也许有着能使您的项目变得更好的想法和主意。
 
 </p>
 </details>
 
 <details>
-<summary>❤️ Open a use case gallery to show what users built with your project</summary>
+<summary>❤️ 建造一个用例库来展示您的用户是如何使用您的项目的</summary>
 <p>
 
-> Visitors will trust your project if they see concrete use cases and success stories, e.g., [the vuepress gallery](https://vuepress.gallery/)).
+> 如果访问者们能够见到具体的用例和成功案例的话，他们会更加信任您的项目，比如 [the vuepress gallery](https://vuepress.gallery/)。
 
 </p>
 </details>
 
 <br />
 
-## 🙏 Show your support
+## 🙏 表示支持
 
-⭐️ this repository if this cheat sheet helped you!
+如果这份备用单能够帮助到您，请您支持并 ⭐️ 我们的 repository！
 
 <br />
 
-## ❤️ Contributors
+## ❤️ 贡献者们
 
-Thanks go to these wonderful people:
+感谢这群无与伦比的人们：
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
@@ -290,4 +291,4 @@ Thanks go to these wonderful people:
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+该项目遵循[all-contributors](https://github.com/all-contributors/all-contributors)说明。欢迎任何形式的贡献！

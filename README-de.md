@@ -10,7 +10,6 @@
 
 <h1 align="center">Cheat Sheet: Open Source Projekte bewerben</h1>
 
-
 > Dieses Cheat Sheet fasst wichtige Schritte zusammen, die dir dabei helfen sollen, dein Open Source Projekt zu bewerben. Klicke auf einen Punkt, um mehr über das Thema zu erfahren.
 
 Verfügbare Sprachen:
@@ -18,7 +17,9 @@ Verfügbare Sprachen:
 - [English](./README.md)
 - [Français](./README-fr.md)
 - [Deutsch](./README-de.md)
-- [Spanisch](./README-es.md)
+- [Español](./README-es.md)
+- [简体中文](./README-zh-cn.md)
+- [繁體中文](./README-zh-tw.md)
 
 Eine Sprache fehlt und du möchtest helfen das Cheat Sheet zu verbessern? [Beteiligung ist gern gesehen](./CONTRIBUTING.md)!
 
@@ -281,6 +282,7 @@ Unser Dank geht an die folgenden wundervollen Leute:
     <td align="center"><a href="https://github.com/mbernardeau"><img src="https://avatars0.githubusercontent.com/u/7049049?v=4" width="100px;" alt="Mathias Bernardeau"/><br /><sub><b>Mathias Bernardeau</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=mbernardeau" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Antoineoili"><img src="https://avatars1.githubusercontent.com/u/50737365?v=4" width="100px;" alt="Antoine Oili"/><br /><sub><b>Antoine Oili</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=Antoineoili" title="Documentation">📖</a></td>
     <td align="center"><a href="https://twitter.com/dev_oswld"><img src="https://avatars1.githubusercontent.com/u/40254158?v=4" width="100px;" alt="Oswld TC"/><br /><sub><b>Oswld TC</b></sub></a><br /><a href="#translation-dev-oswld" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://yizhiyue.me"><img src="https://avatars3.githubusercontent.com/u/8545277?v=4" width="100px;" alt="Zhiyue Yi"/><br /><sub><b>Zhiyue Yi</b></sub></a><br /><a href="#translation-ZhiyueYi" title="Translation">🌍</a></td>
   </tr>
 </table>
 
