@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/intent/tweet?text=How%20to%20promote%20your%20open-source%20projects%20@ZenikaOSS&url=https://github.com/zenika-open-source/open-source-promotion-cheat-sheet&hashtags=OpenSource,CheatSheet">
-  <img alt="tweet" src="https://img.shields.io/twitter/url/https/twitter?label=Compartir%20en%20Twitter&style=social" target="_blank">
+  <a href="https://twitter.com/intent/tweet?text=Com%20promocionar%20els%20teus%20projectes%20de%20codi%20obert%20@ZenikaOSS&url=https://github.com/zenika-open-source/open-source-promotion-cheat-sheet&hashtags=OpenSource,CheatSheet">
+  <img alt="tweet" src="https://img.shields.io/twitter/url/https/twitter?label=Compartir%a%20Twitter&style=social" target="_blank">
   </a>
 </p>
 
