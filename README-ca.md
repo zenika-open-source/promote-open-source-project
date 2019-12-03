@@ -180,45 +180,45 @@ Llista d'idiomes disponibles:
 
 <br />
 
-## 3. 🤝 Conserva a tus usuarios
+## 3. 🤝 Mantingues els teus usuaris
 
 <br />
 
 <details>
-<summary>🆕 Intenta lanzar regularmente nuevas versiones de tu proyecto</summary>
+<summary>🆕 Procura publicar periòdicament noves versions del teu projecte</summary>
 <p>
 
-> Realiza mantenimiento y mejora tu proyecto con nuevos lanzamientos y genera un registro de cambios.
+> Mantingues i millora el teu projecte amb noves versions i genera registres de canvi.
 
 </p>
 </details>
 
 <details>
-<summary>❗ Manten tu proyecto, revisa los problemas pendientes</summary>
+<summary>❗ Mantingues el teu projecte, processa els casos oberts</summary>
 <p>
 
-> No dejes problemas pendientes sin respuesta. Sé amable con las personas que se tomaron el tiempo para dejar una sugerencia. 😉
+> No deixis casos obertes pendents de resposta. Sigues educat amb la gent que s'ha pres la molèstia d'obrir un cas. 😉
 
 </p>
 </details>
 
 <details>
-<summary>🙏 Invita a otros usuarios a contribuir</summary>
+<summary>🙏 Convida els usuaris a contribuir</summary>
 <p>
 
-> Un proyecto saludable es un proyecto con una comunidad y contribuidores activos. Informa a tus usuarios que necesita ayuda etiquetando algunos problemas con las etiquetas de  `contribution welcome` o `good first issue`. [Ver más etiquetas de github](https://help.github.com/en/articles/about-labels).
+> Un projecte saludable és un projecte amb una comunitat i contribuïdors. Informa els usuaris que necessites ajuda etiquetant alguns casos amb `contribution welcome` o `good first issue`. [Veure etiquetes de github](https://help.github.com/en/articles/about-labels).
 
 </p>
 </details>
 
 <details>
-<summary>🏆 Recompensas a los contribuidores</summary>
+<summary>🏆 Recompensa els col·laboradors</summary>
 <p>
 
-> ¡Sé amable con las personas que te ayudaron! Algunos proyectos de código abierto como [gatsby](https://github.com/gatsbyjs/gatsby) premian a los contribuidores. Si no puedes pagar eso, haz una publicación (en twitter u otras plataformas) sobre la contribución y menciona al autor ([este es un ejemplo de agradecimiento público](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Abre una sección de `Contribuidores` en tu archivo README para agradecerles públicamente o mostrarlos en la documentación de tu proyecto o sitio web. Aquí hay unos ejemplos:
+> Sigues amable amb la gent que t'ha ajudat! Alguns projectes de codi obert com [gatsby](https://github.com/gatsbyjs/gatsby) recompensen als col·laboradors amb utilitats. Si no t'ho pots permetre, publica (a twitter o altres plataformes) sobre la col·laboració i menciona l'aturo ([aquí hi ha un exemple d'agraïment públic](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Obre una secció de `Col·laboradors` al teu arxiu README per donar-los les gràcies públicament o mostra'ls a la teva documentació o lloc web. Aquí n'hi ha alguns exemples:
 >
-> - [vuepress (contribuidores en la sección README)](https://github.com/vuejs/vuepress#code-contributors)
-> - [Rythm.js (contribuidores aleatorios destacados en página web)](https://okazari.github.io/Rythm.js/)
+> - [vuepress (col·laboradors a la secció README)](https://github.com/vuejs/vuepress#code-contributors)
+> - [Rythm.js (col·laborador aleatori destacat a la pàgina de mostra)](https://okazari.github.io/Rythm.js/)
 
 </p>
 </details>
