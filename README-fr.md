@@ -21,6 +21,7 @@ Langages disponibles :
 - [简体中文](./README-zh-cn.md)
 - [繁體中文](./README-zh-tw.md)
 - [پارسی](./README-fa.md)
+- [Português](./README-pt.md)
 
 Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat sheet ? [Les contributions sont les bienvenues](./CONTRIBUTING.md) !
 
@@ -289,6 +290,7 @@ Merci à tous les formidables contributeurs:
   <tr>
     <td align="center"><a href="https://github.com/aliruss"><img src="https://avatars3.githubusercontent.com/u/32896351?v=4" width="100px;" alt="Ali khalili"/><br /><sub><b>Ali khalili</b></sub></a><br /><a href="#translation-aliruss" title="Translation">🌍</a></td>
     <td align="center"><a href="https://pakseresht.eu/"><img src="https://avatars3.githubusercontent.com/u/9018054?v=4" width="100px;" alt="Niusha Pakseresht"/><br /><sub><b>Niusha Pakseresht</b></sub></a><br /><a href="#translation-niusha-paks" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/david-dasilva"><img src="https://avatars1.githubusercontent.com/u/372391?v=4" width="100px;" alt="David Da Silva"/><br /><sub><b>David Da Silva</b></sub></a><br /><a href="#translation-david-dasilva" title="Translation">🌍</a></td>
   </tr>
 </table>
 

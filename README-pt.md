@@ -4,15 +4,15 @@
 
 <p align="center">
   <a href="https://twitter.com/intent/tweet?text=How%20to%20promote%20your%20open-source%20projects%20@ZenikaOSS&url=https://github.com/zenika-open-source/open-source-promotion-cheat-sheet&hashtags=OpenSource,CheatSheet">
-  <img alt="tweet" src="https://img.shields.io/twitter/url/https/twitter?label=Compartir%20en%20Twitter&style=social" target="_blank">
+    <img alt="tweet" src="https://img.shields.io/twitter/url/https/twitter?label=Compartilhar%20no%20twitter&style=social" target="_blank" />
   </a>
 </p>
 
-<h1 align="center">Hoja de referencia de promoción al código abierto</h1>
+<h1 align="center">Folha de dicas : Promover um projeto de código aberto</h1>
 
-> Esta hoja de referencia resume los pasos importantes que debes seguir para promover tu proyecto de código abierto en óptimas condiciones. Puedes hacer clic en los elementos para expandir y obtener más información de un tema.
+> Esta folha de dicas resume os passos importantes a seguir para promover um projeto de código aberto nas melhores condições. É possível exibir informações adicionais para um item da lista clicando nele.
 
-Lista de lenguajes disponibles:
+Idiomas disponíveis :
 
 - [English](./README.md)
 - [Français](./README-fr.md)
@@ -23,98 +23,99 @@ Lista de lenguajes disponibles:
 - [پارسی](./README-fa.md)
 - [Português](./README-pt.md)
 
-¿Un lenguaje falta? ¿Deseas mejorar esta hoja? ¡[Las contribuciones son bienvenidas](./CONTRIBUTING.md)!
+Falta um idioma? Você acha que é possível melhorar esta folha de dicas? [Contribuições são bem-vindas](./CONTRIBUTING.md) !
 
-## 1. 🎢 Pasos de preparación
+## 1. 🎢 Preparação
 
 <br />
 
 <details>
-<summary>👌 Asegúrate que tu proyecto sea lo suficientemente maduro</summary>
+<summary>👌 Verifique se o projeto está suficientemente maduro</summary>
 <p>
 
-> Tu proyecto debe ser lo suficientemente estable con las características mínimas viables con el fin de atraer a los usuarios.
+> Certifique-se de que o seu projecto é estável e tem um mínimo de características interessantes para envolver os visitantes.
 
 </p>
 </details>
 
 <details>
-<summary>😎 Escoge un nombre atractivo para tu proyecto</summary>
+<summary>😎 Escolha um nome fixe para o seu projeto</summary>
 <p>
 
-> Escoge un nombre que los usuarios puedan recordar fácilmente.
+> Escolha um nome que seus visitantes se lembrem facilmente.
 
 </p>
 </details>
 
 <details>
-<summary>💅 Haz que tu README sea elegante</summary>
+<summary>💅 Cuide da apresentação do README</summary>
 <p>
 
-> El README es lo primero que verán tus visitantes. Hazlo simple, elegante y fácil de leer. [Aquí hay una lista de ejemplos README](https://github.com/matiassingers/awesome-readme).
+> O README é a primeira coisa que os visitantes vêem na página do seu projeto. Trabalhe na apresentação para torná-la simples, bonita e agradável de ler. [Você encontrará exemplos de README tratados aqui.](https://github.com/matiassingers/awesome-readme)
 
 </p>
 </details>
 
 <details>
-<summary>💪 Destaca los puntos fuertes de tu proyecto</summary>
+<summary>💪 Destacar os pontos fortes do projeto</summary>
 <p>
 
-> Identifica las fortalezas de tu proyecto y asegúrate de que los visitantes las vean primero.
+> Identificar os pontos fortes de seu projeto e colocá-los para a frente de modo que é a primeira coisa que seus visitantes vejam.
 
 </p>
 </details>
 
 <details>
-<summary>✨ Proporciona una demostración de tu proyecto</summary>
+<summary>✨ Apresentar uma demonstração do projeto</summary>
 <p>
 
-> Los visitantes desean comprender rápidamente el propósito de tu proyecto, cómo funciona y cómo usarlo. Proporciona una demostración es la mejor manera de complacer a los usuarios. Podría ser:
+> Seus visitantes vão querer entender rapidamente quais são as necessidades do seu projeto e como ele funciona. Fornecer uma demonstração é uma ótima maneira de satisfazer seus visitantes. O formato da demonstração pode ser:
 >
->  - Un GIF animado que demuestra cómo funciona tu proyecto
->  - Un enlace a una demostración
+> - um GIF animado
+> - um link para uma demonstração online
 
 </p>
 </details>
 
 <details>
-<summary>👌 Instalación/Manejo debe ser súper fácil</summary>
+<summary>👌 A instalação e o uso do projeto devem ser o mais simples possível</summary>
 <p>
 
-> Probablemente perderás visitantes si tu proyecto no es fácil de usar.
+> Você pode perder visitantes se o projeto não for fácil de instalar ou usar.
 
 </p>
 </details>
 
 <details>
-<summary>📘 Crea una documentación limpia y bien estructurada</summary>
+<summary>📘 Crie uma documentação clara e estruturada</summary>
 <p>
 
-> Crear una buena documentación es probablemente el paso más importante. Si tienes una pequeña documentación, puedes incluirla en tu archivo README. De lo contrario, probablemente deberías alojarlo en un sitio web por separado. Algunos proyectos de código abierto como [vuepress](https://v1.vuepress.vuejs.org) pueden ayudarte a crear documentación limpia de una manera simple.
+> Criar boa documentação é provavelmente o passo mais importante. Se sua documentação não for longa, você poderá incluí-la diretamente no seu README. Se for volumoso, o melhor será hospedá-lo em um site diferente. Alguns projetos de código aberto como o [vuepress](https://v1.vuepress.vuejs.org) podem criar rapidamente uma boa documentação.
 
-</p>
+ </p>
 </details>
 
 <br />
 
-## 2. 📢 Correr la voz sobre tu trabajo
+## 2. 📢 Comunicar o projeto
 
 <br />
 
 <details>
-<summary>⭐ Haz que tu proyecto sea confiable antes de publicarlo en las redes sociales</summary>
+<summary>⭐ Confiar futuros visitantes antes de publicar nas redes sociais</summary>
 <p>
 
-> La mayoría de los visitantes comprobarán cuántas estrellas tiene tu proyecto antes de considerar usarlo. Una cantidad mínima de estrellas hace que tu proyecto sea más confiable que un proyecto con cero estrellas. Es por eso que debes pedir a las personas que conoces que apoyen tu proyecto antes de hacer un anuncio público en las redes sociales.
+> A maioria dos visitantes olhará para o número de estrelas no projeto antes de usá-lo. Quanto mais estrelas o seu projecto tiver, maior será o seu índice de fiabilidade. Não hesite em pedir a seus parentes, colegas e amigos para ajudá-lo a melhorar a credibilidade do seu projeto adicionando uma estrela.
+
 
 </p>
 </details>
 
 <details>
-<summary>↗️ Comparte tu proyecto en redes sociales y plataformas especializadas</summary>
+<summary>↗️ Compartilhar o projeto em redes sociais e plataformas especializadas</summary>
 <p>
 
-> ¡Cuéntale al mundo de tu increíble trabajo! Publica en redes sociales y plataformas especializadas:
+> Aqui estão algumas plataformas nas quais você pode compartilhar seu trabalho :
 >
 > - [Twitter](https://twitter.com)
 > - [Linkedin](https://www.linkedin.com/)
@@ -131,102 +132,103 @@ Lista de lenguajes disponibles:
 </details>
 
 <details>
-<summary>📃 Escribe artículos que mencionen tu proyecto</summary>
+<summary>📃 Escreva artigos mencionando o projeto</summary>
 <p>
 
-> Escribe artículos sobre tu proyecto. El propósito puede ser el conjunto de tecnologías que utilizaste, cómo funciona tu proyecto, los problemas que encontraste, etc. Publica en plataformas como:
+> Escreva artigos e cite seu projeto. O assunto do artigo pode estar relacionado com a pilha técnica que utilizou, os problemas que encontrou, etc. Postar nas plataformas de publicação:
 >
 > - [medium](https://medium.com/)
 > - [dev.to](https://dev.to/)
-</p>
-</details>
-
-<details>
-<summary>🎤 Presenta tu proyecto en conferencias/reuniones</summary>
-<p>
-
-> Presentar tu proyecto en conferencias o reuniones es una buena manera de mejorar su visibilidad.
 
 </p>
 </details>
 
 <details>
-<summary>🎥 Graba y publica videos sobre tu proyecto, cómo funciona, etc.</summary>
+<summary>🎤 Apresentar o projeto em conferências / encontros</summary>
 <p>
 
-> Grabar un video no es una tarea fácil. Sin embargo, es probablemente la forma más eficiente de hacer notorio tu proyecto.
+> Apresentar seu projeto em conferências e encontros é uma ótima maneira de melhorar sua visibilidade.
 
 </p>
 </details>
 
 <details>
-<summary>🕐 Elige el mejor momento para publicar en las redes sociales</summary>
+<summary>🎥 Gravar e publicar vídeos de apresentação do projeto</summary>
 <p>
 
-> No publiques durante el período de vacaciones o fines de semana. Por lo general, el mejor momento para publicar en las redes sociales es a mitad de semana.
+> Gravar um vídeo não é um exercício fácil, mas é uma das maneiras mais eficazes de tornar seu projeto popular.
 
 </p>
 </details>
 
 <details>
-<summary>🗑 No hagas spam en plataformas con tu mención</summary>
+<summary>🕐 Escolha o melhor momento para publicar nas redes sociais</summary>
 <p>
 
-> No publiques dos veces en la misma plataforma. Es considerado como spam y puede causar mala publicidad para tu proyecto.
+> Normalmente, a melhor altura para iniciar uma comunicação é no meio da semana. Não comunicar durante os períodos de férias ou fins de semana.
+
+</p>
+</details>
+
+<details>
+<summary>🗑 Não faça spam nas plataformas com promoção do projeto</summary>
+<p>
+
+> Não publique duas vezes na mesma plataforma. Sua comunicação pode ser considerada spam e causar má publicidade para o seu projeto.
 
 </p>
 </details>
 
 <br />
 
-## 3. 🤝 Conserva a tus usuarios
+## 3. 🤝 Manter os utilizadores
 
 <br />
 
 <details>
-<summary>🆕 Intenta lanzar regularmente nuevas versiones de tu proyecto</summary>
+<summary>🆕 Atualizar regularmente o projeto</summary>
 <p>
 
-> Realiza mantenimiento y mejora tu proyecto con nuevos lanzamientos y genera un registro de cambios.
+> Mantenha e melhore seu projeto publicando novas versões. Não se esqueça de produzir os changelogs associados.
 
 </p>
 </details>
 
 <details>
-<summary>❗ Manten tu proyecto, revisa los problemas pendientes</summary>
+<summary>❗ Manter o projeto e tratar de problemas abertos.</summary>
 <p>
 
-> No dejes problemas pendientes sin respuesta. Sé amable con las personas que se tomaron el tiempo para dejar una sugerencia. 😉
+> Não deixe problemas sem resposta. Seja cortês e simpático com as pessoas que tiveram tempo para abrir sugestões. 😉
 
 </p>
 </details>
 
 <details>
-<summary>🙏 Invita a otros usuarios a contribuir</summary>
+<summary>🙏 Convidar os utilizadores a contribuir</summary>
 <p>
 
-> Un proyecto saludable es un proyecto con una comunidad y contribuidores activos. Informa a tus usuarios que necesita ayuda etiquetando algunos problemas con las etiquetas de  `contribution welcome` o `good first issue`. [Ver más etiquetas de github](https://help.github.com/en/articles/about-labels).
+> Um projeto saudável é um projeto que tem uma comunidade e colaboradores. Mostre aos seus utilizadores que sua ajuda é bem-vinda marcando alguns problemas com as etiquetas `contribution welcome` ou ` good first issue`. [Pode encontrar mais informações nas etiquetas clicando aqui.](https://help.github.com/en/articles/about-labels)
 
 </p>
 </details>
 
 <details>
-<summary>🏆 Recompensas a los contribuidores</summary>
+<summary>🏆 Recompensar os contribuidores</summary>
 <p>
 
-> ¡Sé amable con las personas que te ayudaron! Algunos proyectos de código abierto como [gatsby](https://github.com/gatsbyjs/gatsby) premian a los contribuidores. Si no puedes pagar eso, haz una publicación (en twitter u otras plataformas) sobre la contribución y menciona al autor ([este es un ejemplo de agradecimiento público](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Abre una sección de `Contribuidores` en tu archivo README para agradecerles públicamente o mostrarlos en la documentación de tu proyecto o sitio web. Aquí hay unos ejemplos:
+> Alguns projetos open-source como o [gatsby](https://github.com/gatsbyjs/gatsby) recompensam seus colaboradores com goodies. Se você não puder pagar, faça uma publicação (no twitter ou em outras plataformas) que mencione a contribuição e seu autor para agradecê-lo (ex: [Post no twitter](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Você também pode abrir uma seção `Contributors` no seu README para mostrar publicamente seus agradecimentos a seus colaboradores ou destacá-los em seu website ou documentação do projeto.
 >
-> - [vuepress (contribuidores en la sección README)](https://github.com/vuejs/vuepress#code-contributors)
-> - [Rythm.js (contribuidores aleatorios destacados en página web)](https://okazari.github.io/Rythm.js/)
+> - [vuepress (seção de contribuidores no README)](https://github.com/vuejs/vuepress#code-contributors)
+> - [Rythm.js (Destacando de maneira aleatória um colaborador na página de demonstração)](https://okazari.github.io/Rythm.js/)
 
 </p>
 </details>
 
 <details>
-<summary>💬 Abre una plataforma de chat comunitario</summary>
+<summary>💬 Abra um chat para a comunidade do projeto</summary>
 <p>
 
-> Los problemas pendientes en Github no siempre son la mejor manera de comunicarte con tus usuarios. Si es necesario, puedes usar plataformas de chat para discutir con ellos.
+> Os issues do Github nem sempre são a melhor maneira de se comunicar com seus utilizadores. Se necessário, você pode abrir um chat para conversar com eles :
 >
 > - [Discord](https://discordapp.com)
 > - [Slack](https://slack.com)
@@ -236,34 +238,33 @@ Lista de lenguajes disponibles:
 </details>
 
 <details>
-<summary>🔙 Pide retroalimentación</summary>
+<summary>🔙 Pedir feedback dos utilizadores</summary>
 <p>
 
-> Los comentarios de los usuarios son la mejor manera de mejorar tu proyecto. Probablemente tienen características e ideas que podrían mejorar tu proyecto.
-
+> O feedback dos utilizadores é uma excelente forma de melhorar o seu projecto. Seus utilizadores provavelmente têm muitas idéias que poderiam melhorar o seu projeto.
 </p>
+
+<br />
 </details>
 
 <details>
-<summary>❤️ Abre una galería de casos de uso para mostrar a los usuarios que utilizaron tu proyecto</summary>
+<summary>❤️ Mostrar o que outros utilizadores criaram com o seu projecto</summary>
 <p>
 
-> Los visitantes confiarán en tu proyecto si ven casos de uso concretos e historias de éxito, por ejemplo, [la gallería vuepress](https://vuepress.gallery/).
+> Os visitantes confiarão mais facilmente se virem casos concretos de uso (ex. : [vuepress gallery](https://vuepress.gallery/)).
 
 </p>
 </details>
 
 <br />
 
-## 🙏 Muestra tu apoyo
+## 🙏 Mostre o seu apoio
 
-⭐️ a este repositorio ¡si esta hoja de referencia te ayudó!
-
-<br />
+Esteja à vontade para colocar uma ⭐ se este projecto o ajudar.
 
 ## ❤️ Contribuidores
 
-Gracias a estas maravillosas personas:
+Obrigado a todos os ótimos colaboradores:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
@@ -295,4 +296,4 @@ Gracias a estas maravillosas personas:
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-Este projecto sigue la especificación [all-contributors](https://github.com/all-contributors/all-contributors). ¡Las contribuciones de cualquier tipo son bienvenidas!
+Este projecto segue as especificações [all-contributors](https://github.com/all-contributors/all-contributors). Contribuições de qualquer tipo são bem-vindas!
