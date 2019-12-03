@@ -224,10 +224,10 @@ Llista d'idiomes disponibles:
 </details>
 
 <details>
-<summary>💬 Abre una plataforma de chat comunitario</summary>
+<summary>💬 Obre una plataforma de xat de comunitat</summary>
 <p>
 
-> Los problemas pendientes en Github no siempre son la mejor manera de comunicarte con tus usuarios. Si es necesario, puedes usar plataformas de chat para discutir con ellos.
+> Els casos pendents de Github no són sempre el millor lloc on comunicar-se amb els teus usuaris. Si és necessari, pots utilitzar plataformes de xat per discutir amb ells:
 >
 > - [Discord](https://discordapp.com)
 > - [Slack](https://slack.com)
@@ -237,19 +237,19 @@ Llista d'idiomes disponibles:
 </details>
 
 <details>
-<summary>🔙 Pide retroalimentación</summary>
+<summary>🔙 Demana retroalimentació</summary>
 <p>
 
-> Los comentarios de los usuarios son la mejor manera de mejorar tu proyecto. Probablemente tienen características e ideas que podrían mejorar tu proyecto.
+> La informació proporcionada pels usuaris és la més útil per millorar el teu projecte. Ells possiblement tinguin funcionalitats i idees que poden millorar el teu projecte.
 
 </p>
 </details>
 
 <details>
-<summary>❤️ Abre una galería de casos de uso para mostrar a los usuarios que utilizaron tu proyecto</summary>
+<summary>❤️ Obre una galeria de casos d'ús per mostrar què han construït els usuaris amb el teu projecte</summary>
 <p>
 
-> Los visitantes confiarán en tu proyecto si ven casos de uso concretos e historias de éxito, por ejemplo, [la gallería vuepress](https://vuepress.gallery/).
+> Els visitants confiaran amb el teu projecte si veuen casos d'ús concrets i històries d'èxit, p.ex., [la galeria vuepress](https://vuepress.gallery/).
 
 </p>
 </details>
