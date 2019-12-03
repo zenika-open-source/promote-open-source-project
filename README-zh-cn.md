@@ -288,6 +288,10 @@
     <td align="center"><a href="https://twitter.com/dev_oswld"><img src="https://avatars1.githubusercontent.com/u/40254158?v=4" width="100px;" alt="Oswld TC"/><br /><sub><b>Oswld TC</b></sub></a><br /><a href="#translation-dev-oswld" title="Translation">🌍</a></td>
     <td align="center"><a href="https://yizhiyue.me"><img src="https://avatars3.githubusercontent.com/u/8545277?v=4" width="100px;" alt="Zhiyue Yi"/><br /><sub><b>Zhiyue Yi</b></sub></a><br /><a href="#translation-ZhiyueYi" title="Translation">🌍</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/aliruss"><img src="https://avatars3.githubusercontent.com/u/32896351?v=4" width="100px;" alt="Ali khalili"/><br /><sub><b>Ali khalili</b></sub></a><br /><a href="#translation-aliruss" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://pakseresht.eu/"><img src="https://avatars3.githubusercontent.com/u/9018054?v=4" width="100px;" alt="Niusha Pakseresht"/><br /><sub><b>Niusha Pakseresht</b></sub></a><br /><a href="#translation-niusha-paks" title="Translation">🌍</a></td>
+  </tr>
 </table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
