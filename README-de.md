@@ -20,6 +20,7 @@ Verfügbare Sprachen:
 - [Español](./README-es.md)
 - [简体中文](./README-zh-cn.md)
 - [繁體中文](./README-zh-tw.md)
+- [پارسی](./README-fa.md)
 
 Eine Sprache fehlt und du möchtest helfen das Cheat Sheet zu verbessern? [Beteiligung ist gern gesehen](./CONTRIBUTING.md)!
 
@@ -69,8 +70,8 @@ Eine Sprache fehlt und du möchtest helfen das Cheat Sheet zu verbessern? [Betei
 
 > Besucher wollen schnellstmöglich den Sinn deines Projekts verstehen, wie es funktioniert und wie man es benutzt. Mit einer Demo ist das am einfachsten. Eine Demo könnte folgendes sein:
 >
->  - Ein animiertes GIF, das zeigt, wie dein Projekt funktioniert
->  - Ein Link zu einer Live Demo
+> - Ein animiertes GIF, das zeigt, wie dein Projekt funktioniert
+> - Ein Link zu einer Live Demo
 
 </p>
 </details>
@@ -136,6 +137,7 @@ Eine Sprache fehlt und du möchtest helfen das Cheat Sheet zu verbessern? [Betei
 >
 > - [medium](https://medium.com/)
 > - [dev.to](https://dev.to/)
+
 </p>
 </details>
 

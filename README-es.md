@@ -20,6 +20,7 @@ Lista de lenguajes disponibles:
 - [Español](./README-es.md)
 - [简体中文](./README-zh-cn.md)
 - [繁體中文](./README-zh-tw.md)
+- [پارسی](./README-fa.md)
 
 ¿Un lenguaje falta? ¿Deseas mejorar esta hoja? ¡[Las contribuciones son bienvenidas](./CONTRIBUTING.md)!
 
