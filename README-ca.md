@@ -24,7 +24,7 @@ Llista d'idiomes disponibles:
 - [Português](./README-pt.md)
 - [Català](./README-ca.md)
 
-¿Falta algun idioma? ¿Desitges millorar aquesta guia? ¡[Les aportacions són benvingudes](./CONTRIBUTING.md)!
+Falta algun idioma? Desitges millorar aquesta guia? [Les aportacions són benvingudes](./CONTRIBUTING.md)!
 
 ## 1. 🎢 Passos de preparació
 
