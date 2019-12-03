@@ -262,9 +262,9 @@ Llista d'idiomes disponibles:
 
 <br />
 
-## ❤️ Contribuidores
+## ❤️ Contribuïdors
 
-Gracias a estas maravillosas personas:
+Gràcies a aquestes meravelloses persones:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
@@ -296,4 +296,4 @@ Gracias a estas maravillosas personas:
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-Este projecto sigue la especificación [all-contributors](https://github.com/all-contributors/all-contributors). ¡Las contribuciones de cualquier tipo son bienvenidas!
+Aquest projecte segueix l'especificació [all-contributors](https://github.com/all-contributors/all-contributors). Les contribucions de qualsevol mena són benvingudes!
