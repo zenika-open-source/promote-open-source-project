@@ -8,11 +8,11 @@
   </a>
 </p>
 
-<h1 align="center">Hoja de referencia de promoción al código abierto</h1>
+<h1 align="center">Full de trucs per la promoció del codi obert</h1>
 
-> Esta hoja de referencia resume los pasos importantes que debes seguir para promover tu proyecto de código abierto en óptimas condiciones. Puedes hacer clic en los elementos para expandir y obtener más información de un tema.
+> Aquesta guia resumeix els passos rellevants a seguir per promocionar el teu projecte de codi obert de forma òptima. Pots clicar els elements per expandir i obtenir més informació d'un tema.
 
-Lista de lenguajes disponibles:
+Llista d'idiomes disponibles:
 
 - [English](./README.md)
 - [Français](./README-fr.md)
@@ -24,7 +24,7 @@ Lista de lenguajes disponibles:
 - [Português](./README-pt.md)
 - [Català](./README-ca.md)
 
-¿Un lenguaje falta? ¿Deseas mejorar esta hoja? ¡[Las contribuciones son bienvenidas](./CONTRIBUTING.md)!
+¿Falta algun idioma? ¿Desitges millorar aquesta guia? ¡[Les aportacions són benvingudes](./CONTRIBUTING.md)!
 
 ## 1. 🎢 Pasos de preparación
 
