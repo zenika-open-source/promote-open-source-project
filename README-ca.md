@@ -291,6 +291,7 @@ Gràcies a aquestes meravelloses persones:
     <td align="center"><a href="https://github.com/aliruss"><img src="https://avatars3.githubusercontent.com/u/32896351?v=4" width="100px;" alt="Ali khalili"/><br /><sub><b>Ali khalili</b></sub></a><br /><a href="#translation-aliruss" title="Translation">🌍</a></td>
     <td align="center"><a href="https://pakseresht.eu/"><img src="https://avatars3.githubusercontent.com/u/9018054?v=4" width="100px;" alt="Niusha Pakseresht"/><br /><sub><b>Niusha Pakseresht</b></sub></a><br /><a href="#translation-niusha-paks" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/david-dasilva"><img src="https://avatars1.githubusercontent.com/u/372391?v=4" width="100px;" alt="David Da Silva"/><br /><sub><b>David Da Silva</b></sub></a><br /><a href="#translation-david-dasilva" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/alextremp"><img src="https://avatars0.githubusercontent.com/u/20399660?v=4" width="100px;" alt="Alex Castells"/><br /><sub><b>Alex Castells</b></sub></a><br /><a href="#translation-alextremp" title="Translation">🌍</a></td>
   </tr>
 </table>
 
