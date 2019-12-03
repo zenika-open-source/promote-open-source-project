@@ -8,9 +8,9 @@
   </a>
 </p>
 
-<h1 align="center">Full de trucs per la promoció del codi obert</h1>
+<h1 align="center">Apunts per la promoció del codi obert</h1>
 
-> Aquesta guia resumeix els passos rellevants a seguir per promocionar el teu projecte de codi obert de forma òptima. Pots clicar els elements per expandir i obtenir més informació d'un tema.
+> Aquests apunts resumeixen els passos rellevants a seguir per promocionar el teu projecte de codi obert de forma òptima. Pots clicar els elements per expandir i obtenir més informació d'un tema.
 
 Llista d'idiomes disponibles:
 
@@ -256,9 +256,9 @@ Llista d'idiomes disponibles:
 
 <br />
 
-## 🙏 Muestra tu apoyo
+## 🙏 Mostra el teu suport
 
-⭐️ a este repositorio ¡si esta hoja de referencia te ayudó!
+⭐️ a aquest repositori si aquests apunts t'han ajudat!
 
 <br />
 
