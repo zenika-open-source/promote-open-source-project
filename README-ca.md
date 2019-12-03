@@ -26,72 +26,72 @@ Llista d'idiomes disponibles:
 
 ¿Falta algun idioma? ¿Desitges millorar aquesta guia? ¡[Les aportacions són benvingudes](./CONTRIBUTING.md)!
 
-## 1. 🎢 Pasos de preparación
+## 1. 🎢 Passos de preparació
 
 <br />
 
 <details>
-<summary>👌 Asegúrate que tu proyecto sea lo suficientemente maduro</summary>
+<summary>👌 Assegura't que el teu projecte sigui suficientment madur</summary>
 <p>
 
-> Tu proyecto debe ser lo suficientemente estable con las características mínimas viables con el fin de atraer a los usuarios.
+> El teu projecte ha de ser suficientment estable amb un mínim de funcionalitats viables per tal d'atreure usuaris.
 
 </p>
 </details>
 
 <details>
-<summary>😎 Escoge un nombre atractivo para tu proyecto</summary>
+<summary>😎 Escull un nom atractiu pel teu projecte</summary>
 <p>
 
-> Escoge un nombre que los usuarios puedan recordar fácilmente.
+> Escull un nom que els usuaris puguin recordar fàcilment.
 
 </p>
 </details>
 
 <details>
-<summary>💅 Haz que tu README sea elegante</summary>
+<summary>💅 Fes elegant el teu README</summary>
 <p>
 
-> El README es lo primero que verán tus visitantes. Hazlo simple, elegante y fácil de leer. [Aquí hay una lista de ejemplos README](https://github.com/matiassingers/awesome-readme).
+> El README és lo primer que veuran els teus visitants. Fes-lo simple, elegant i fàcil de llegir. [Aquí hi ha una llista de READMEs bonics](https://github.com/matiassingers/awesome-readme).
 
 </p>
 </details>
 
 <details>
-<summary>💪 Destaca los puntos fuertes de tu proyecto</summary>
+<summary>💪 Destaca els punts forts del teu projecte</summary>
 <p>
 
-> Identifica las fortalezas de tu proyecto y asegúrate de que los visitantes las vean primero.
+> Identifica les fortaleses del teu projecte i assegura't que els visitants les vegin primer.
 
 </p>
 </details>
 
 <details>
-<summary>✨ Proporciona una demostración de tu proyecto</summary>
+<summary>✨ Proporciona una demostració del teu projecte</summary>
 <p>
 
-> Los visitantes desean comprender rápidamente el propósito de tu proyecto, cómo funciona y cómo usarlo. Proporciona una demostración es la mejor manera de complacer a los usuarios. Podría ser:
+> Els visitants voldran entendre ràpidament el propòsit del teu projecte, com funciona i com utilitzar-lo. Proporcionant una demostració és la millor manera de satisfer els usuaris. Pofria ser:
 >
->  - Un GIF animado que demuestra cómo funciona tu proyecto
->  - Un enlace a una demostración
+>  - Un GIF animat demostrant com funciona el teu projecte
+>  - Un enllaç a una demostració en viu
 
 </p>
 </details>
 
 <details>
-<summary>👌 Instalación/Manejo debe ser súper fácil</summary>
+<summary>👌 L'instal·lació/Ús ha de ser súper fàcil</summary>
 <p>
 
-> Probablemente perderás visitantes si tu proyecto no es fácil de usar.
+> Probablement perdràs visitants si el teu projecte no és fàcil d'utilitzar.
 
 </p>
 </details>
 
 <details>
-<summary>📘 Crea una documentación limpia y bien estructurada</summary>
+<summary>📘 Crea una documentació neta i ben estructurada</summary>
 <p>
 
-> Crear una buena documentación es probablemente el paso más importante. Si tienes una pequeña documentación, puedes incluirla en tu archivo README. De lo contrario, probablemente deberías alojarlo en un sitio web por separado. Algunos proyectos de código abierto como [vuepress](https://v1.vuepress.vuejs.org) pueden ayudarte a crear documentación limpia de una manera simple.
+> Crear una bona documentació és probablement el pas més important. Si tens poca documentació, la pots incloure al README. En cas contrari, probablement hauries d'allotjar-la a un lloc web separat. Alguns projectes de codi obert com [vuepress](https://v1.vuepress.vuejs.org) poden ajudar-te a crear documentació neta d'una forma senzilla.
 
 </p>
 </details>
