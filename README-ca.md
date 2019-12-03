@@ -98,24 +98,24 @@ Llista d'idiomes disponibles:
 
 <br />
 
-## 2. 📢 Correr la voz sobre tu trabajo
+## 2. 📢 Fes córrer la veu sobre la teva tasca
 
 <br />
 
 <details>
-<summary>⭐ Haz que tu proyecto sea confiable antes de publicarlo en las redes sociales</summary>
+<summary>⭐ Fes que el teu projecte sigui confiable abans no el publiquis a les xarxes socials</summary>
 <p>
 
-> La mayoría de los visitantes comprobarán cuántas estrellas tiene tu proyecto antes de considerar usarlo. Una cantidad mínima de estrellas hace que tu proyecto sea más confiable que un proyecto con cero estrellas. Es por eso que debes pedir a las personas que conoces que apoyen tu proyecto antes de hacer un anuncio público en las redes sociales.
+> La majoria dels visitants comprovaran quantes estrelles té el teu projecte abans no considerin utilitzar-lo. Un mínim d'estrelles fa més confiable el teu projecte que un altre amb zero estrelles. Per això hauries de demanar a la gent que coneixes que recolzin el teu projecte abans d'anunciar-lo públicament a les xarxes socials.
 
 </p>
 </details>
 
 <details>
-<summary>↗️ Comparte tu proyecto en redes sociales y plataformas especializadas</summary>
+<summary>↗️ Comparteix el teu projecte a les xarxes socials i plataformes especialitzades</summary>
 <p>
 
-> ¡Cuéntale al mundo de tu increíble trabajo! Publica en redes sociales y plataformas especializadas:
+> Explica al món el teu fantàstic treball! Publica a les xarxes socials i plataformes especialitzades:
 >
 > - [Twitter](https://twitter.com)
 > - [Linkedin](https://www.linkedin.com/)
@@ -132,10 +132,10 @@ Llista d'idiomes disponibles:
 </details>
 
 <details>
-<summary>📃 Escribe artículos que mencionen tu proyecto</summary>
+<summary>📃 Escriu articles fent menció al teu projecte</summary>
 <p>
 
-> Escribe artículos sobre tu proyecto. El propósito puede ser el conjunto de tecnologías que utilizaste, cómo funciona tu proyecto, los problemas que encontraste, etc. Publica en plataformas como:
+> Escriu articles sobre el teu projecte. El propòsit pot ser el conjunt de tecnologies utilitzades, com funciona el teu projecte, problemes que t'hagis trobat, etc. Publica a plataformes com:
 >
 > - [medium](https://medium.com/)
 > - [dev.to](https://dev.to/)
@@ -143,37 +143,37 @@ Llista d'idiomes disponibles:
 </details>
 
 <details>
-<summary>🎤 Presenta tu proyecto en conferencias/reuniones</summary>
+<summary>🎤 Presenta el teu projecte a conferències/reunions</summary>
 <p>
 
-> Presentar tu proyecto en conferencias o reuniones es una buena manera de mejorar su visibilidad.
+> Presentar el teu projecte a conferències o reunions és una bona forma de millorar la seva visibilitat.
 
 </p>
 </details>
 
 <details>
-<summary>🎥 Graba y publica videos sobre tu proyecto, cómo funciona, etc.</summary>
+<summary>🎥 Grava i publica vídeos sobre el teu projecte, com funciona, etc.</summary>
 <p>
 
-> Grabar un video no es una tarea fácil. Sin embargo, es probablemente la forma más eficiente de hacer notorio tu proyecto.
+> Gravar un vídeo no és una tasca fàcil. Però probablement sigui la forma més més eficient de fer famós el teu projecte. 
 
 </p>
 </details>
 
 <details>
-<summary>🕐 Elige el mejor momento para publicar en las redes sociales</summary>
+<summary>🕐 Escull el millor moment per publicar a les xarxes socials</summary>
 <p>
 
-> No publiques durante el período de vacaciones o fines de semana. Por lo general, el mejor momento para publicar en las redes sociales es a mitad de semana.
+> No publiquis durant les vacances o els caps de setmana. Normalment el millor moment per publicar a les xarxes socials és entre setmana.
 
 </p>
 </details>
 
 <details>
-<summary>🗑 No hagas spam en plataformas con tu mención</summary>
+<summary>🗑 No facis spam a les plataformes amb la teva promoció</summary>
 <p>
 
-> No publiques dos veces en la misma plataforma. Es considerado como spam y puede causar mala publicidad para tu proyecto.
+> No publiquis dues vegades a la mateixa plataforma. Pot ser considerat spam i pot causar mala publicitat al teu projecte.
 
 </p>
 </details>
