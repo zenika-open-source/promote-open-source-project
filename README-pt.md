@@ -22,6 +22,7 @@ Idiomas disponíveis :
 - [繁體中文](./README-zh-tw.md)
 - [پارسی](./README-fa.md)
 - [Português](./README-pt.md)
+- [Català](./README-ca.md)
 
 Falta um idioma? Você acha que é possível melhorar esta folha de dicas? [Contribuições são bem-vindas](./CONTRIBUTING.md) !
 

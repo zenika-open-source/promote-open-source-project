@@ -22,6 +22,7 @@ Verfügbare Sprachen:
 - [繁體中文](./README-zh-tw.md)
 - [پارسی](./README-fa.md)
 - [Português](./README-pt.md)
+- [Català](./README-ca.md)
 
 Eine Sprache fehlt und du möchtest helfen das Cheat Sheet zu verbessern? [Beteiligung ist gern gesehen](./CONTRIBUTING.md)!
 
