@@ -32,7 +32,7 @@ Bir dil eksik mi? Bu belgeyi geliştirmek ister misiniz? [Katkılarınızı bekl
 <br>
 
 <details>
-<summary>👌 Make sure your project is mature enough</summary>
+<summary>👌 Projenizin yeterince olgun olduğundan emin olun</summary>
 <p>
 </p></details>
 
@@ -43,7 +43,7 @@ Bir dil eksik mi? Bu belgeyi geliştirmek ister misiniz? [Katkılarınızı bekl
 
 
 <details>
-<summary>😎 Choose a cool name for your project</summary>
+<summary>😎 Projeniz için harika bir ad seçin</summary>
 <p>
 </p></details>
 
@@ -54,7 +54,7 @@ Bir dil eksik mi? Bu belgeyi geliştirmek ister misiniz? [Katkılarınızı bekl
 
 
 <details>
-<summary>💅 Make your README pretty</summary>
+<summary>RE README'nizi güzelleştirin</summary>
 <p>
 </p></details>
 
@@ -65,7 +65,7 @@ Bir dil eksik mi? Bu belgeyi geliştirmek ister misiniz? [Katkılarınızı bekl
 
 
 <details>
-<summary>💪 Highlight strong points of your project</summary>
+<summary>💪 Projenizin güçlü noktalarını vurgulayın</summary>
 <p>
 </p></details>
 
@@ -76,7 +76,7 @@ Bir dil eksik mi? Bu belgeyi geliştirmek ister misiniz? [Katkılarınızı bekl
 
 
 <details>
-<summary>✨ Provide a demo of your project</summary>
+<summary>✨ Projenizin bir demosunu sunun</summary>
 <p>
 </p></details>
 
@@ -89,7 +89,7 @@ Bir dil eksik mi? Bu belgeyi geliştirmek ister misiniz? [Katkılarınızı bekl
 
 
 <details>
-<summary>👌 Install/Usage must be super easy</summary>
+<summary>👌 Kurulum / Kullanım süper kolay olmalı</summary>
 <p>
 </p></details>
 
@@ -100,7 +100,7 @@ Bir dil eksik mi? Bu belgeyi geliştirmek ister misiniz? [Katkılarınızı bekl
 
 
 <details>
-<summary>📘 Create a clean and well structured documentation</summary>
+<summary>📘 Temiz ve iyi yapılandırılmış bir belge oluşturun</summary>
 <p>
 </p></details>
 
@@ -117,7 +117,7 @@ Bir dil eksik mi? Bu belgeyi geliştirmek ister misiniz? [Katkılarınızı bekl
 <br>
 
 <details>
-<summary>⭐ Make your project trustable before publishing it on social networks</summary>
+<summary>⭐ Sosyal ağlarda yayınlamadan önce projenizi güvenilir hale getirin</summary>
 <p>
 </p></details>
 
@@ -128,7 +128,7 @@ Bir dil eksik mi? Bu belgeyi geliştirmek ister misiniz? [Katkılarınızı bekl
 
 
 <details>
-<summary>↗️ Share the project on social media and specialized platforms</summary>
+<summary>↗️ Projeyi sosyal medyada ve özel platformlarda paylaşın</summary>
 <p>
 </p></details>
 
@@ -149,7 +149,7 @@ Bir dil eksik mi? Bu belgeyi geliştirmek ister misiniz? [Katkılarınızı bekl
 
 
 <details>
-<summary>📃 Write articles that mention your project</summary>
+<summary>Project Projenizi anlatan makaleler yazın</summary>
 <p>
 </p></details>
 
@@ -162,7 +162,7 @@ Bir dil eksik mi? Bu belgeyi geliştirmek ister misiniz? [Katkılarınızı bekl
 
 
 <details>
-<summary>🎤 Present your project at conferences/meetups</summary>
+<summary>Project Projenizi konferanslarda / buluşmalarda sunun</summary>
 <p>
 </p></details>
 
@@ -173,7 +173,7 @@ Bir dil eksik mi? Bu belgeyi geliştirmek ister misiniz? [Katkılarınızı bekl
 
 
 <details>
-<summary>🎥 Record and publish videos presenting your project, how it works, etc</summary>
+<summary>Project Projenizi, nasıl çalıştığını vb. Sunan videoları kaydedin ve yayınlayın</summary>
 <p>
 </p></details>
 
@@ -184,7 +184,7 @@ Bir dil eksik mi? Bu belgeyi geliştirmek ister misiniz? [Katkılarınızı bekl
 
 
 <details>
-<summary>🕐 Choose the best time to publish on social media</summary>
+<summary>Social Sosyal medyada yayınlamak için en uygun zamanı seçin</summary>
 <p>
 </p></details>
 
@@ -195,7 +195,7 @@ Bir dil eksik mi? Bu belgeyi geliştirmek ister misiniz? [Katkılarınızı bekl
 
 
 <details>
-<summary>🗑 Don't spam platforms with your promotion</summary>
+<summary>Promotion Tanıtımınızla platformları spam etmeyin</summary>
 <p>
 </p></details>
 
@@ -212,7 +212,7 @@ Bir dil eksik mi? Bu belgeyi geliştirmek ister misiniz? [Katkılarınızı bekl
 <br>
 
 <details>
-<summary>🆕 Try to regularly release new versions of your project</summary>
+<summary>Project Projenizin düzenli olarak yeni sürümlerini yayınlamaya çalışın</summary>
 <p>
 </p></details>
 
@@ -223,7 +223,7 @@ Bir dil eksik mi? Bu belgeyi geliştirmek ister misiniz? [Katkılarınızı bekl
 
 
 <details>
-<summary>❗ Maintain your project, process opened issues</summary>
+<summary>❗ Projenizi koruyun, açılan sorunları işleyin</summary>
 <p>
 </p></details>
 
@@ -234,7 +234,7 @@ Bir dil eksik mi? Bu belgeyi geliştirmek ister misiniz? [Katkılarınızı bekl
 
 
 <details>
-<summary>🙏 Invite users to contribute</summary>
+<summary>Users Kullanıcıları katkıda bulunmaya davet edin</summary>
 <p>
 </p></details>
 
@@ -245,7 +245,7 @@ Bir dil eksik mi? Bu belgeyi geliştirmek ister misiniz? [Katkılarınızı bekl
 
 
 <details>
-<summary>🏆 Reward contributors</summary>
+<summary>Contrib Katkıda bulunanları ödüllendirin</summary>
 <p>
 </p></details>
 
@@ -258,7 +258,7 @@ Bir dil eksik mi? Bu belgeyi geliştirmek ister misiniz? [Katkılarınızı bekl
 
 
 <details>
-<summary>💬 Open a community chat platform</summary>
+<summary>A Bir topluluk sohbet platformu açın</summary>
 <p>
 </p></details>
 
@@ -272,7 +272,7 @@ Bir dil eksik mi? Bu belgeyi geliştirmek ister misiniz? [Katkılarınızı bekl
 
 
 <details>
-<summary>🔙 Ask for feedback</summary>
+<summary>Feedback Geri bildirim isteyin</summary>
 <p>
 </p></details>
 
@@ -283,7 +283,7 @@ Bir dil eksik mi? Bu belgeyi geliştirmek ister misiniz? [Katkılarınızı bekl
 
 
 <details>
-<summary>❤️ Open a use case gallery to show what users built with your project</summary>
+<summary>❤️ Kullanıcıların projenizle oluşturduklarını göstermek için bir kullanım örneği galerisi açın</summary>
 <p>
 </p></details>
 
@@ -335,10 +335,10 @@ Bu harika insanlara teşekkürler:
   </tr>
   <tr>
     <td align="center">
-<a href="https://nick-hat-boecker.de"><img src="https://avatars0.githubusercontent.com/u/8366071?v=4" width="100px;" alt="NickHatBoecker"><br><sub><b>NickHatBoecker</b></sub></a><br><a href="#translation-NickHatBoecker" title="Translation">🌍</a>
+<a href="https://nick-hat-boecker.de"><img src="https://avatars0.githubusercontent.com/u/8366071?v=4" width="100px;" alt="NickHatBoecker"><br><sub><b>NickHatBoecker</b></sub></a><br><a href="#%C3%A7eviri-nickhatboecker" title="Translation">🌍</a>
 </td>
     <td align="center">
-<a href="https://github.com/Claire"><img src="https://avatars2.githubusercontent.com/u/5114096?v=4" width="100px;" alt="Claire Martinez"><br><sub><b>Claire Martinez</b></sub></a><br><a href="#translation-claire" title="Translation">🌍</a>
+<a href="https://github.com/Claire"><img src="https://avatars2.githubusercontent.com/u/5114096?v=4" width="100px;" alt="Claire Martinez"><br><sub><b>Claire Martinez</b></sub></a><br><a href="#%C3%A7eviri-claire" title="Translation">🌍</a>
 </td>
     <td align="center">
 <a href="https://hazeforum.com/"><img src="https://avatars2.githubusercontent.com/u/31011359?v=4" width="100px;" alt="André Gama"><br><sub><b>André Gama</b></sub></a><br><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=andregamma" title="Documentation">📖</a>
@@ -350,21 +350,21 @@ Bu harika insanlara teşekkürler:
 <a href="https://github.com/Antoineoili"><img src="https://avatars1.githubusercontent.com/u/50737365?v=4" width="100px;" alt="Antoine Oili"><br><sub><b>Antoine Oili</b></sub></a><br><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=Antoineoili" title="Documentation">📖</a>
 </td>
     <td align="center">
-<a href="https://twitter.com/dev_oswld"><img src="https://avatars1.githubusercontent.com/u/40254158?v=4" width="100px;" alt="Oswld TC"><br><sub><b>Oswld TC</b></sub></a><br><a href="#translation-dev-oswld" title="Translation">🌍</a>
+<a href="https://twitter.com/dev_oswld"><img src="https://avatars1.githubusercontent.com/u/40254158?v=4" width="100px;" alt="Oswld TC"><br><sub><b>Oswld TC</b></sub></a><br><a href="#%C3%A7eviri-dev-oswld" title="Translation">🌍</a>
 </td>
     <td align="center">
-<a href="https://yizhiyue.me"><img src="https://avatars3.githubusercontent.com/u/8545277?v=4" width="100px;" alt="Zhiyue Yi"><br><sub><b>Zhiyue Yi</b></sub></a><br><a href="#translation-ZhiyueYi" title="Translation">🌍</a>
+<a href="https://yizhiyue.me"><img src="https://avatars3.githubusercontent.com/u/8545277?v=4" width="100px;" alt="Zhiyue Yi"><br><sub><b>Zhiyue Yi</b></sub></a><br><a href="#%C3%A7eviri-zhiyueyi" title="Translation">🌍</a>
 </td>
   </tr>
   <tr>
     <td align="center">
-<a href="https://github.com/aliruss"><img src="https://avatars3.githubusercontent.com/u/32896351?v=4" width="100px;" alt="Ali khalili"><br><sub><b>Ali khalili</b></sub></a><br><a href="#translation-aliruss" title="Translation">🌍</a>
+<a href="https://github.com/aliruss"><img src="https://avatars3.githubusercontent.com/u/32896351?v=4" width="100px;" alt="Ali khalili"><br><sub><b>Ali Haliloğlu</b></sub></a><br><a href="#%C3%A7eviri-aliruss" title="Translation">🌍</a>
 </td>
     <td align="center">
-<a href="https://pakseresht.eu/"><img src="https://avatars3.githubusercontent.com/u/9018054?v=4" width="100px;" alt="Niusha Pakseresht"><br><sub><b>Niusha Pakseresht</b></sub></a><br><a href="#translation-niusha-paks" title="Translation">🌍</a>
+<a href="https://pakseresht.eu/"><img src="https://avatars3.githubusercontent.com/u/9018054?v=4" width="100px;" alt="Niusha Pakseresht"><br><sub><b>Niusha Pakseresht</b></sub></a><br><a href="#%C3%A7eviri-niusha-paks" title="Translation">🌍</a>
 </td>
     <td align="center">
-<a href="https://github.com/david-dasilva"><img src="https://avatars1.githubusercontent.com/u/372391?v=4" width="100px;" alt="David Da Silva"><br><sub><b>David Da Silva</b></sub></a><br><a href="#translation-david-dasilva" title="Translation">🌍</a>
+<a href="https://github.com/david-dasilva"><img src="https://avatars1.githubusercontent.com/u/372391?v=4" width="100px;" alt="David Da Silva"><br><sub><b>David Da Silva</b></sub></a><br><a href="#%C3%A7eviri-david-dasilva" title="Translation">🌍</a>
 </td>
   </tr>
 </table>
