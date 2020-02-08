@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<h1 align="center">Açık kaynak tanıtım notları</h1>
+<h1 align="center">Açık kaynak proje tanıtım notları</h1>
 
 > Bu belge, açık kaynak projenizi en iyi koşullarda tanıtmak için izlemeniz gereken önemli adımları özetler. Bir konuyu genişletmek ve daha fazla bilgi almak için başlıklara tıklayabilirsiniz.
 
@@ -23,7 +23,7 @@ Mevcut çevirilerin listesi:
 - [پارسی](./README-fa.md)
 - [Português](./README-pt.md)
 
-Bir dil eksik mi? Bu belgeyi geliştirmek ister misiniz? [Katkılarınızı bekliyoruz](./CONTRIBUTING.md) !
+Bir dil mi eksik? Bu belgeyi geliştirmek ister misiniz? [Katkılarınızı bekliyoruz](./CONTRIBUTING.md) !
 
 [Bu belgenin PDF versiyonuna buradan ulaşabilirsiniz.](./pdf/cheat-sheet.pdf)
 
@@ -34,104 +34,67 @@ Bir dil eksik mi? Bu belgeyi geliştirmek ister misiniz? [Katkılarınızı bekl
 <details>
 <summary>👌 Projenizin yeterince olgun olduğundan emin olun</summary>
 <p>
-</p></details>
-
 > Projenizin, kullanıcıları çekmesi için minimum güvenilir özelliklere sahip ve yeterince kararlı olmalıdır.
-
-
-
-
+</p>
+</details>
 
 <details>
 <summary>😎 Projeniz için harika bir ad seçin</summary>
 <p>
-</p></details>
-
 > Kullanıcıların kolayca hatırlayabileceği bir ad seçin.
-
-
-
-
+</p>
+</details>
 
 <details>
 <summary>RE README'nizi güzelleştirin</summary>
 <p>
-</p></details>
-
-> README, ziyaretçilerinizin göreceği ilk şeydir. Basit, güzel ve okunması kolay hale getirin. [İşte güzel README'lerin bir listesi](https://github.com/matiassingers/awesome-readme) .
-
-
-
-
+> README, ziyaretçilerinizin göreceği ilk şeydir. Basit, güzel ve okunması kolay hale getirin. [İşte güzel README'lerin bir listesi](https://github.com/matiassingers/awesome-readme).
+</p>
+</details>
 
 <details>
 <summary>💪 Projenizin güçlü noktalarını vurgulayın</summary>
 <p>
-</p></details>
-
 > Projenizin güçlü yönlerini belirleyin ve ziyaretçilerin önce onları gördüğünden emin olun.
-
-
-
-
+</p>
+</details>
 
 <details>
 <summary>✨ Projenizin bir demosunu sunun</summary>
 <p>
-</p></details>
-
 > Ziyaretçiler projenizin amacını, nasıl çalıştığını ve nasıl kullanacağını hızlı bir şekilde anlamak isteyeceklerdir. Demo sunmak, kullanıcıları memnun etmenin en iyi yoludur.  Bunu aşağıdakiler gibi sağlayabilirsiniz:
 > - Projenizin nasıl çalıştığını gösteren animasyonlu bir GIF
 > - Bir demo videosuna bağlantı
-
-
-
-
+</p>
+</details>
 
 <details>
 <summary>👌 Kurulum / Kullanım süper kolay olmalı</summary>
 <p>
-</p></details>
-
 > Projeniz kullanıcı dostu değilse muhtemelen ziyaretçileri kaybedersiniz.
-
-
-
-
+</p>
+</details>
 
 <details>
 <summary>📘 Temiz ve iyi yapılandırılmış bir belge oluşturun</summary>
 <p>
-</p></details>
-
 > İyi bir dokümantasyon oluşturmak muhtemelen en önemli adımdır. Küçük bir dokümanınız varsa, bunu README'nize ekleyebilirsiniz. Aksi takdirde, ayrı bir web sitesinde barındırmanız iyi olabilir. [Vuepress](https://v1.vuepress.vuejs.org) gibi bazı açık kaynaklı projeler temiz belgeleri basit bir şekilde oluşturmanıza yardımcı olabilir.
-
- 
-
-
-
+</p>
+</details>
 <br>
 
 ## 2. 📢 Çalışmalarınızla ilgili yayınlar yapın
-
 <br>
-
 <details>
 <summary>⭐ Sosyal ağlarda yayınlamadan önce projenizi güvenilir hale getirin</summary>
 <p>
-</p></details>
-
 > Çoğu ziyaretçi, projeyi kullanmayı düşünmeden önce kaç yıldıza sahip olduğunu kontrol edecektir. Minimum miktarda yıldız, projenizi sıfır yıldızlı bir projeden daha güvenilir hale getirir. Bu yüzden sosyal medyada kamuya açık bir duyuru yapmadan önce tanıdığınız insanlara projenizi desteklemelerini istemelisiniz.
-
-
-
-
+</p>
+</details>
 
 <details>
 <summary>↗️ Projeyi sosyal medyada ve özel platformlarda paylaşın</summary>
 <p>
-</p></details>
-
 > Dünyaya çalışmalarınızdan bahsedin! Sosyal medyada ve özel platformlarda yayınlayın:
 > - [Twitter](https://twitter.com)
 > - [Linkedin](https://www.linkedin.com/)
@@ -143,162 +106,109 @@ Bir dil eksik mi? Bu belgeyi geliştirmek ister misiniz? [Katkılarınızı bekl
 > - [Product Hunt](https://www.producthunt.com/)
 > - [Beta page](https://betapage.co/)
 > - [Human Coders](https://news.humancoders.com/)
-
-
-
-
+</p>
+</details>
 
 <details>
 <summary>Project Projenizi anlatan makaleler yazın</summary>
 <p>
-</p></details>
-
 > Projeniz hakkında makaleler yazın. Amaç kullandığınız teknik yığın, projenizin nasıl çalıştığı, karşılaştığınız sorunlar vb. olabilir. Makale yayınlama platformlarına gönderin:
 > - [medium](https://medium.com/)
 > - [dev.to](https://dev.to/)
-
-
-
-
+</p>
+</details>
 
 <details>
 <summary>Project Projenizi konferanslarda / buluşmalarda sunun</summary>
 <p>
-</p></details>
-
 > Projenizi konferanslarda veya buluşmalarda sunmak, görünürlüğünü artırmak için iyi bir yoldur.
-
-
-
-
+</p>
+</details>
 
 <details>
 <summary>Project Projenizi, nasıl çalıştığını vb. Sunan videoları kaydedin ve yayınlayın</summary>
 <p>
-</p></details>
-
 > Video kaydetmek kolay bir egzersiz değildir. Ancak projenizi ünlü yapmanın en etkili yolu muhtemelen budur.
-
-
-
-
+</p>
+</details>
 
 <details>
 <summary>Social Sosyal medyada yayınlamak için en uygun zamanı seçin</summary>
 <p>
-</p></details>
-
 > Tatil döneminde veya hafta sonlarında yayınlamayın. Genellikle sosyal ağlarda yayınlamak için en uygun zaman hafta ortasıdır.
-
-
-
-
+</p>
+</details>
 
 <details>
 <summary>Promotion Tanıtımınızla platformları spam etmeyin</summary>
 <p>
-</p></details>
-
 > Aynı platformda iki kez yayınlamayın. Spam olarak kabul edilir ve projeniz için kötü tanıtımlara neden olabilir.
-
-
-
-
-
+</p>
+</details>
 <br>
 
 ## 3. 🤝 Kullanıcılarınızı kaçırmayın
 
 <br>
-
 <details>
 <summary>Project Projenizin düzenli olarak yeni sürümlerini yayınlamaya çalışın</summary>
 <p>
-</p></details>
-
 > Projenizi yeni sürümlerle koruyun, geliştirin ve changelog'lar oluşturun.
-
-
-
-
+</p>
+</details>
 
 <details>
 <summary>❗ Projenizi koruyun, açılan sorunları işleyin</summary>
 <p>
-</p></details>
-
 > Açılan sorunlarınların yanıtsız kalmasına izin vermeyin. Sorun açmak ya da soru sormak için zaman harcayan insanlara iyi davranın. 😉
-
-
-
-
+</p>
+</details>
 
 <details>
 <summary>Users Kullanıcıları katkıda bulunmaya davet edin</summary>
 <p>
-</p></details>
-
-> Sağlıklı bir proje, bir topluluğa ve katkıda bulunanlara sahip bir projedir. Kullanıcılarınıza, `contribution welcome` veya `good first issue` etiketleriyle bazı sorunları etiketleyerek yardıma ihtiyacınız olduğunu bildirin. [Github etiketlerini gözden geçirin](https://help.github.com/en/articles/about-labels) .
-
-
-
-
+> Sağlıklı bir proje, bir topluluğa ve katkıda bulunanlara sahip bir projedir. Kullanıcılarınıza, `contribution welcome` veya `good first issue` etiketleriyle bazı sorunları etiketleyerek yardıma ihtiyacınız olduğunu bildirin. [Github etiketlerini gözden geçirin](https://help.github.com/en/articles/about-labels).
+</p>
+</details>
 
 <details>
 <summary>Contrib Katkıda bulunanları ödüllendirin</summary>
 <p>
-</p></details>
-
 > Size yardım eden insanlara iyi davranın! [Gatsby](https://github.com/gatsbyjs/gatsby) gibi bazı açık kaynak projeleri katkıda bulunanları güzelliklerle ödüllendirir. Bunu karşılayamıyorsanız, katkı hakkında kamuya açık bir yayın yapın (twitter veya diğer platformlarda) ve yazardan bahsedin ( [burada açık bir teşekkür örneği var](https://twitter.com/FranckAbgrall/status/1139470547492978688) ). Herkese teşekkür etmek veya proje belgelerinizde veya web sitenizde sergilemek için README'nizde bir `Contributors` bölümü açın. İşte bazı örnekler:
 > - [vuepress (README'deki katkıda bulunanlar bölümü)](https://github.com/vuejs/vuepress#code-contributors)
 > - [Rythm.js (demo sayfasında rastgele vurgulanan katılımcı)](https://okazari.github.io/Rythm.js/)
-
-
-
-
+</p>
+</details>
 
 <details>
 <summary>A Bir topluluk sohbet platformu açın</summary>
 <p>
-</p></details>
-
 > Github sorunları her zaman kullanıcılarınızla iletişim kurmanın en iyi yolu değildir. Gerekirse, onlarla görüşmek için sohbet platformlarını kullanabilirsiniz:
 > - [Discord](https://discordapp.com)
 > - [Slack](https://slack.com)
 > - [Gitter](https://gitter.im/)
-
-
-
-
+</p>
+</details>
 
 <details>
 <summary>Feedback Geri bildirim isteyin</summary>
 <p>
-</p></details>
-
 > Kullanıcı geri bildirimi, projenizi geliştirmenin en iyi yoludur. Kullanıcılar muhtemelen projenizi daha iyi hale getirebilecek özelliklere ve fikirlere sahiptirler.
-
-
-
-
+</p>
+</details>
 
 <details>
 <summary>❤️ Kullanıcıların projenizle oluşturduklarını göstermek için bir kullanım örneği galerisi açın</summary>
 <p>
-</p></details>
-
 > Ziyaretçiler, somut kullanım örnekleri ve başarı öyküleri (örneğin [vuepress galerisi](https://vuepress.gallery/) ) görürse projenize güveneceklerdir.
-
-
-
-
+</p>
+</details>
 
 <br>
 
 ## 🙏 Desteğinizi gösterin
 
-Bu sayfası size yardımcı olduysa lütfen bir ⭐️ ile gösterin!
-
+Bu sayfası size yardımcı olduysa teşekkürünüzü lütfen bir ⭐️ ile gösterin!
 <br>
 
 ## ❤️ Katkıda Bulunanlar
