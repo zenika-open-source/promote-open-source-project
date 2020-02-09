@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://twitter.com/intent/tweet?text=How%20to%20promote%20your%20open-source%20projects%20@ZenikaOSS&url=https://github.com/zenika-open-source/open-source-promotion-cheat-sheet&hashtags=OpenSource,CheatSheet">
-    <img alt="tweet" src="https://img.shields.io/twitter/url/https/twitter?label=Share%20on%20twitter&style=social" target="_blank">
+    <img alt="tweet" src="https://img.shields.io/twitter/url/https/twitter?label=Twitter'da%20paylaş&style=social" target="_blank">
   </a>
 </p>
 
@@ -22,6 +22,7 @@ Mevcut çevirilerin listesi:
 - [繁體中文](./README-zh-tw.md)
 - [پارسی](./README-fa.md)
 - [Português](./README-pt.md)
+- [Türkçe](./README-tr.md)
 
 Bir dil mi eksik? Bu belgeyi geliştirmek ister misiniz? [Katkılarınızı bekliyoruz](./CONTRIBUTING.md) !
 
