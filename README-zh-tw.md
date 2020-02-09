@@ -22,6 +22,7 @@
 - [繁體中文](./README-zh-tw.md)
 - [پارسی](./README-fa.md)
 - [Português](./README-pt.md)
+- [Türkçe](./README-tr.md)
 
 沒有您需要的語言？希望幫忙改進這份備忘單？[歡迎您的貢獻](./CONTRIBUTING.md)！
 
