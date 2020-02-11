@@ -7,7 +7,8 @@
     "README-zh-cn.md",
     "README-zh-tw.md",
     "README-fa.md",
-    "README-pt.md"
+    "README-pt.md",
+    "README-ca.md"
   ],
   "imageSize": 100,
   "commit": false,
@@ -170,6 +171,15 @@
       "name": "Umut Işık",
       "avatar_url": "https://avatars2.githubusercontent.com/u/3245166?v=4",
       "profile": "http://umuts.info",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "alextremp",
+      "name": "Alex Castells",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/20399660?v=4",
+      "profile": "https://github.com/alextremp",
       "contributions": [
         "translation"
       ]

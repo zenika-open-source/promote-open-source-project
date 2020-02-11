@@ -23,6 +23,7 @@ Verfügbare Sprachen:
 - [پارسی](./README-fa.md)
 - [Português](./README-pt.md)
 - [Türkçe](./README-tr.md)
+- [Català](./README-ca.md)
 
 Eine Sprache fehlt und du möchtest helfen das Cheat Sheet zu verbessern? [Beteiligung ist gern gesehen](./CONTRIBUTING.md)!
 
@@ -294,6 +295,7 @@ Unser Dank geht an die folgenden wundervollen Leute:
     <td align="center"><a href="https://pakseresht.eu/"><img src="https://avatars3.githubusercontent.com/u/9018054?v=4" width="100px;" alt=""/><br /><sub><b>Niusha Pakseresht</b></sub></a><br /><a href="#translation-niusha-paks" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/david-dasilva"><img src="https://avatars1.githubusercontent.com/u/372391?v=4" width="100px;" alt=""/><br /><sub><b>David Da Silva</b></sub></a><br /><a href="#translation-david-dasilva" title="Translation">🌍</a></td>
     <td align="center"><a href="http://umuts.info"><img src="https://avatars2.githubusercontent.com/u/3245166?v=4" width="100px;" alt=""/><br /><sub><b>Umut Işık</b></sub></a><br /><a href="#translation-umutphp" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/alextremp"><img src="https://avatars0.githubusercontent.com/u/20399660?v=4" width="100px;" alt="Alex Castells"/><br /><sub><b>Alex Castells</b></sub></a><br /><a href="#translation-alextremp" title="Translation">🌍</a></td>
   </tr>
 </table>
 
