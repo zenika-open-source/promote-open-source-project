@@ -167,6 +167,15 @@
       ]
     },
     {
+      "login": "umutphp",
+      "name": "Umut Işık",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/3245166?v=4",
+      "profile": "http://umuts.info",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
       "login": "alextremp",
       "name": "Alex Castells",
       "avatar_url": "https://avatars0.githubusercontent.com/u/20399660?v=4",
@@ -177,9 +186,10 @@
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "open-source-promotion-cheat-sheet",
+  "projectName": "promote-open-source-project",
   "projectOwner": "zenika-open-source",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "commitConvention": "none"
+  "commitConvention": "none",
+  "skipCi": true
 }
