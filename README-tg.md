@@ -65,13 +65,13 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>✨ Provide a demo of your project</summary>
+<summary>✨ Як дему аз барномаӣ худ намояш даҳид</summary>
 <p>
 
-> Visitors will want to quickly understand the purpose of your project, how it works and how to use it. Providing a demo is the best way to satisfy users. It could be:
+> Мумкин аст боздидкунандигон дар боздид аввал наҳви кор ҳадаф барнома ро мутиваҷа нашаванд пас шумо митавонид аз роҳ ҳоӣ зир як дему аз барнома ро дар маъраз намояш қарор даҳид :
 >
->  - An animated GIF demonstrating how your project works
->  - A link to a live demo
+>  - Як фоӣл GIF ки наҳва кор кард барнома ро намояш мидаҳад
+>  - Як линк ки боздид кунанда ро би дему мунтаҷил кунанд
 
 </p>
 </details>
