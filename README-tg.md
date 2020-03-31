@@ -96,15 +96,15 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 
 <br />
 
-## 2. 📢 Spread the word about your hard works
+## 2. 📢 Би ҷаҳон пиромун худ дарбора сахт куши худ бигуӣд
 
 <br />
 
 <details>
-<summary>⭐ Make your project trustable before publishing it on social networks</summary>
+<summary>⭐ Барномаӣ қобил иътимод ро дар шабаки ҳоӣ иҷтимоъи мунташир кунид</summary>
 <p>
 
-> Most visitors will check how many stars the project has before considering using it. A minimum amount of stars makes your project more trustable than a project with zero star. This is why you should ask people you know to support your project before doing a public announcement on social media.
+> Биштар боздид кунандигон би мизон ситора ҳоӣ барномаӣ шумо дар шабаки ҳоӣ иҷтимоҳи ва фурушгоҳ ҳо туҷи хоҳанд кард. Таъдод ситора ҳоӣ биштар барномаӣ шумо ро муваррад иътимод тар ҷулу мидаҳад, пас аз корбарон худ бихоҳид аз шумо дар ин муваррад ҳимоят кунанд !
 
 </p>
 </details>
