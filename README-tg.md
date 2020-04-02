@@ -8,10 +8,10 @@
   </a>
 </p>
 
-<h1 align="center">Роҳнамаӣ моъарефи ва тосъи лоиҳаҳои опен сурс</h1>
+<h1 align="center">Роҳнамаӣ моъарефи ва тосъи лоиҳаҳои матни боз</h1>
 
 
-> Ин маҳтави ба шумо комак миконад то барноме "опеи сурс" ход ро бехтар ва сарих тар моъарефи конид. 
+> Ин маҳтави ба шумо комак миконад то барноме "матни боз" ход ро бехтар ва сарих тар моъарефи конид. 
 
 Лист соӣр забонҳои муҷуд:
 
@@ -178,33 +178,33 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 
 <br />
 
-## 3. 🤝 Keep your users
+## 3. 🤝 Корбарон худ ро ҳифз кунид
 
 <br />
 
 <details>
-<summary>🆕 Try to regularly release new versions of your project</summary>
+<summary>🆕 Версия ҳоӣ ҷадид барнома ро мунташир кунид</summary>
 <p>
 
-> Maintain and improve your project with new releases and generate changelogs.
+> Лоиҳа ҳуд ро беҳбуд бибахшид ва он ро дар замон ҳоӣ мухталиф бароӣ корбарон мунташир кунид.
 
 </p>
 </details>
 
 <details>
-<summary>❗ Maintain your project, process opened issues</summary>
+<summary>❗ Лоиҳа худ ро ҳифз ва мушкилот он ро барраси ва ҳал кунид</summary>
 <p>
 
-> Do not let opened issues without response. Be nice with people that took time to open issues. 😉
+> Иҷоза надаҳид issue ҳоӣ боз дар github боқи бамонад, бо корбарон худ ба хуби рафтор кунид. 😉
 
 </p>
 </details>
 
 <details>
-<summary>🙏 Invite users to contribute</summary>
+<summary>🙏 Аз корбарон дигар бароӣ тавсеъ даъват кунид</summary>
 <p>
 
-> A healthy project is a project with a community and contributors. Let your users know that you need help by tagging some issues with `contribution welcome` or `good first issue` labels. [See github labels](https://help.github.com/en/articles/about-labels).
+> Як лоиҳа хуб ва солим лоиҳаӣ аст ки бо мушорикат сохта ва мушкилот он қодир ба ҳал шудан тавассут афрод дигар бошад. Бигзорид дигарон бидонанд шумо ба кумак онҳо ниёз дорид, митавонид бо `contribution welcome` ва `good first issue` дархост ҳоӣ худ ро дар github мунташир бихонид. [See github labels](https://help.github.com/en/articles/about-labels).
 
 </p>
 </details>
