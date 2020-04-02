@@ -22,7 +22,7 @@
 
 A language is missing? Want to improve this cheat sheet? [Contributions are welcome](./CONTRIBUTING.md)!
 
-[Ин роҳнама PDF насхе](./pdf/cheat-sheet.pdf)
+[Ин роҳнамо PDF насхе](./pdf/cheat-sheet.pdf)
 
 ## 1. 🎢 Омодегӣ
 
