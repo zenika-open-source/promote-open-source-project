@@ -23,6 +23,7 @@ Llista d'idiomes disponibles:
 - [پارسی](./README-fa.md)
 - [Português](./README-pt.md)
 - [Català](./README-ca.md)
+- [日本語](./README-jp.md)
 
 Falta algun idioma? Desitges millorar aquesta guia? [Les aportacions són benvingudes](./CONTRIBUTING.md)!
 

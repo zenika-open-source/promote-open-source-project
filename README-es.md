@@ -24,6 +24,7 @@ Lista de lenguajes disponibles:
 - [Português](./README-pt.md)
 - [Türkçe](./README-tr.md)
 - [Català](./README-ca.md)
+- [日本語](./README-jp.md)
 
 ¿Un lenguaje falta? ¿Deseas mejorar esta hoja? ¡[Las contribuciones son bienvenidas](./CONTRIBUTING.md)!
 

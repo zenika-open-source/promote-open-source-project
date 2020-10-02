@@ -24,6 +24,7 @@ Idiomas disponíveis :
 - [Português](./README-pt.md)
 - [Türkçe](./README-tr.md)
 - [Català](./README-ca.md)
+- [日本語](./README-jp.md)
 
 Falta um idioma? Você acha que é possível melhorar esta folha de dicas? [Contribuições são bem-vindas](./CONTRIBUTING.md) !
 
