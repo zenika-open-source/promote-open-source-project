@@ -35,7 +35,7 @@
 <br />
 
 <details>
-<summary>👌 あなたのプロジェクトが十分に整備されていることを確認して下さい</summary>
+<summary>👌 あなたのプロジェクトが十分に整備されていることを確認しましょう</summary>
 <p>
 
 > ユーザーを惹きつけるために、あなたのプロジェクトが十分に安定していて、かつ最低限の機能を備えている必要があります。
@@ -306,4 +306,4 @@
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+このプロジェクトは [all-contributors](https://github.com/all-contributors/all-contributors) の仕様に従っています。どんな貢献でも歓迎します!
