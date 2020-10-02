@@ -55,7 +55,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>💅 Make your README pretty</summary>
 <p>
 
-> README is the first thing your vistors will see. Make it simple, pretty and easy to read. [Here is a list of beautiful READMEs](https://github.com/matiassingers/awesome-readme).
+> README is the first thing your visitors will see. Make it simple, pretty and easy to read. [Here is a list of beautiful READMEs](https://github.com/matiassingers/awesome-readme).
 
 </p>
 </details>
