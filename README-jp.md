@@ -53,70 +53,70 @@
 </details>
 
 <details>
-<summary>💅 あなたのREADMEを充実させましょう</summary>
+<summary>💅 あなたのREADをきれいにしましょう</summary>
 <p>
 
-> README is the first thing your vistors will see. Make it simple, pretty and easy to read. [Here is a list of beautiful READMEs](https://github.com/matiassingers/awesome-readme).
+> READMEはあなたの訪問者が最初に目にするものです。 シンプルできれいで読みやすいものにしましょう。 [リストのREADMEを参考にしてみて下さい](https://github.com/matiassingers/awesome-readme).
 
 </p>
 </details>
 
 <details>
-<summary>💪 Highlight strong points of your project</summary>
+<summary>💪 あなたのプロジェクトの長所を強調しましょう</summary>
 <p>
 
-> Identify your project strengths and make sure visitors see them first.
+> あなたのプロジェクトの強みを明確にし、訪問者に最初に見てもらえるようにしましょう。
 
 </p>
 </details>
 
 <details>
-<summary>✨ Provide a demo of your project</summary>
+<summary>✨ あなたのプロジェクトのデモを提供しましょう</summary>
 <p>
 
-> Visitors will want to quickly understand the purpose of your project, how it works and how to use it. Providing a demo is the best way to satisfy users. It could be:
+> 訪問者はあなたのプロジェクトの目的やV仕組み、使い方をすぐ理解したいと思うでしょう。 デモを提供することはユーザーも満足させるための最良の方法です。それは下記のようなものになるでしょう:
 >
-> - An animated GIF demonstrating how your project works
-> - A link to a live demo
+> - あなたのプロジェクトの仕組みを示すアニメーションGIF
+> - ライブデモへのリンク
 
 </p>
 </details>
 
 <details>
-<summary>👌 Install/Usage must be super easy</summary>
+<summary>👌 インストール・使い方はすごく簡単でなければいけません</summary>
 <p>
 
-> You'll probably lose visitors if your project is not user-friendly.
+> あなたのプロジェクトがユーザーフレンドリー出なければ、あなたの訪問者は減るでしょう。
 
 </p>
 </details>
 
 <details>
-<summary>📘 Create a clean and well structured documentation</summary>
+<summary>📘 きれいで構成がしっかりしたドキュメントを作成しましょう</summary>
 <p>
 
-> Creating a good documentation is probably the most important step. If you have a small documentation, you can include it within your README. Otherwise, you should probably host it in a separate website. Some open source projects like [vuepress](https://v1.vuepress.vuejs.org) can help you creating clean documentation in a simple way.
+> 良いドキュメントを作成することは恐らくもっとも重要のステップです。 小さなドキュメントがあれば、READMEの中に含めることもできます。それ以外の場合は、別のウェブサイトにドキュメントをホストするのが良いでしょう。 [vuepress](https://v1.vuepress.vuejs.org)のようなオープンソースプロジェクトは 簡潔な方法できれいなドキュメントを作成するのに役立つでしょう。
 
  </p>
 </details>
 
 <br />
 
-## 2. 📢 Spread the word about your hard works
+## 2. 📢 あなたの頑張りを広めましょう
 
 <br />
 
 <details>
-<summary>⭐ Make your project trustable before publishing it on social networks</summary>
+<summary>⭐ ソーシャルネットワークで公開する前にあなたのプロジェクトを信頼できるものにしましょう</summary>
 <p>
 
-> Most visitors will check how many stars the project has before considering using it. A minimum amount of stars makes your project more trustable than a project with zero star. This is why you should ask people you know to support your project before doing a public announcement on social media.
+> ほとんどの訪問者が使う前にプロジェクトのstarの数を確認します。最低限のstarがあれば、starがないプロジェクトよりもあなたのプロジェクトの信頼度は高くなります。 ソーシャルメディアで公開する前に、知り合いにプロジェクトの応援をお願いする理由はこのためです。
 
 </p>
 </details>
 
 <details>
-<summary>↗️ Share the project on social media and specialized platforms</summary>
+<summary>↗️ ソーシャルメディアや専門のプラットフォームでプロジェクトをシェアしましょう</summary>
 <p>
 
 > Tell the World about your awesome work! Publish on social media and specialized platforms:
@@ -136,10 +136,10 @@
 </details>
 
 <details>
-<summary>📃 Write articles that mention your project</summary>
+<summary>📃 あなたのプロジェクトについての記事を書きましょう</summary>
 <p>
 
-> Write articles about your project. Purpose can be the technical stack you used, how your project works, problems you encountered, etc. Post to publishing platforms:
+> あなたのプロジェクトについての記事を書きましょう。 目的は、使用した技術スタック、プロジェクトがどのように機能するか、遭遇した問題などです。 下記のプラットフォームに投稿してみましょう:
 >
 > - [medium](https://medium.com/)
 > - [dev.to](https://dev.to/)
@@ -148,79 +148,79 @@
 </details>
 
 <details>
-<summary>🎤 Present your project at conferences/meetups</summary>
+<summary>🎤 カンファレンス・ミートアップであなたのプロジェクトを発表しましょう</summary>
 <p>
 
-> Presenting your project at conferences or meetups is a good way to improve its visibility.
+> カンファレンスやミートアップでプロジェクトを発表することは、知名度を向上させる良い方法です。
 
 </p>
 </details>
 
 <details>
-<summary>🎥 Record and publish videos presenting your project, how it works, etc</summary>
+<summary>🎥 あなたのプロジェクトの仕組みなどを紹介するビデオを録画して公開しましょう</summary>
 <p>
 
-> Recording a video is not an easy exercise. However it's probably the most efficient way to make your project famous.
+> ビデオを録画することは簡単なことではありません。しかし、それはおそらくあなたのプロジェクトを有名にするための最も効率的な方法です。
 
 </p>
 </details>
 
 <details>
-<summary>🕐 Choose the best time to publish on social media</summary>
+<summary>🕐 ソーシャルメディアに公開するベストなタイミングを選びましょう</summary>
 <p>
 
-> Don't publish during holidays period or weekends. Usually the best time to publish on social networks is mid-week.
+> 休日の期間や週末に公開は避けましょう。通常、ソーシャルネットワークで公開するのにベストな時間帯は週の半ばです。
 
 </p>
 </details>
 
 <details>
-<summary>🗑 Don't spam platforms with your promotion</summary>
+<summary>🗑 あなたのプロモーションのためにプラットフォームでスパムとなるようなことは避けましょう</summary>
 <p>
 
-> Don't publish twice on the same platform. It will be considered as spam and might cause bad publicity for your project.
+> 同じプラットフォームで2回掲載することはやめましょう。 スパムとみなされ、あなたのプロジェクトの悪評を招くおそれがあります。
 
 </p>
 </details>
 
 <br />
 
-## 3. 🤝 Keep your users
+## 3. 🤝 ユーザーを維持しましょう
 
 <br />
 
 <details>
-<summary>🆕 Try to regularly release new versions of your project</summary>
+<summary>🆕 あなたのプロジェクトの新バージョンを定期的にリリースしましょう</summary>
 <p>
 
-> Maintain and improve your project with new releases and generate changelogs.
+> 新しいリリースでプロジェクトを維持・改善し、変更ログを作成しましょう。
 
 </p>
 </details>
 
 <details>
-<summary>❗ Maintain your project, process opened issues</summary>
+<summary>❗ あなたのプロジェクトを維持し, 開かれた課題を処理しましょう</summary>
 <p>
 
-> Do not let opened issues without response. Be nice with people that took time to open issues. 😉
+> レスポンスのないまま、開いた課題を放置するのはやめましょう。課題を開くのに時間がかかった人には親切にしましょう 😉。
 
 </p>
 </details>
 
 <details>
-<summary>🙏 Invite users to contribute</summary>
+<summary>🙏 貢献してもらうためにユーザーを招待しましょう</summary>
 <p>
 
-> A healthy project is a project with a community and contributors. Let your users know that you need help by tagging some issues with `contribution welcome` or `good first issue` labels. [See github labels](https://help.github.com/en/articles/about-labels).
+> 健全なプロジェクトとは、コミュニティとコントリビュータがいるプロジェクトのことです。 いくつかの課題に `contribution welcome` や `good first issue` のラベルを付けて、あなたが助けを必要としていることをユーザに知らせましょう。 [ラベルについて](https://help.github.com/en/articles/about-labels).
 
 </p>
 </details>
 
 <details>
-<summary>🏆 Reward contributors</summary>
+<summary>🏆 コントリビュータへ御礼をしましょう</summary>
 <p>
 
-> Be nice with people that helped you! Some open source projects like [gatsby](https://github.com/gatsbyjs/gatsby) reward contributors with goodies. If you can't afford that, do a public post (on twitter or other platforms) about the contribution and mention the author ([here is an example of public thanks](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Open a `Contributors` section in your README to publicly thank them or showcase them on your project documentation or website. Here are some examples:
+> 助けてくれた人とは仲良くしましょう! [gatsby](https://github.com/gatsbyjs/gatsby)のようないくつかのオープンプロジェクトでは、コントリビュータにグッズをプレゼントしています。 そんな余裕がないのであれば、(twitter その他のプラットフォームで)貢献に投稿をして、作者に言及しましょう([御礼の見本](https://twitter.com/FranckAbgrall/status/1139470547492978688))。 READMEの中で `Contributors` セクションを設けて、彼らに感謝の意を表したり、プロジェクトのドキュメントやウェブサイトで紹介してみましょう。以下にいくつかの例を示します:
 >
 > - [vuepress (contributors README section)](https://github.com/vuejs/vuepress#code-contributors)
 > - [Rythm.js (random highlighted contributor on demo page)](https://okazari.github.io/Rythm.js/)
@@ -229,10 +229,10 @@
 </details>
 
 <details>
-<summary>💬 Open a community chat platform</summary>
+<summary>💬 コミュニティチャットプラットフォームを設けてみましょう</summary>
 <p>
 
-> Github issues are not always the best way to communicate with your users. If necessary, you can use chat platforms to discuss with them:
+> Githubのissuesは、ユーザーとのコミュニケーションをとるための最良の方法とは限りません。. 必要に応じて、チャットプラットフォームを利用して議論をすることができます:
 >
 > - [Discord](https://discordapp.com)
 > - [Slack](https://slack.com)
@@ -242,19 +242,19 @@
 </details>
 
 <details>
-<summary>🔙 Ask for feedback</summary>
+<summary>🔙 フィードバックをお願いしましょう</summary>
 <p>
 
-> User feedback is the best way to improve your project. They probably have features and ideas that could make your project better.
+> ユーザーフィードバックは、プロジェクトを改善するための最良の方法です。 彼らはおそらく、あなたのプロジェクトをより良いものにするための機能やアイデアを持っています。
 
 </p>
 </details>
 
 <details>
-<summary>❤️ Open a use case gallery to show what users built with your project</summary>
+<summary>❤️ ユースケースギャラリーを設けて、ユーザーがあなたプロジェクトで作ったものを公開してみましょう</summary>
 <p>
 
-> Visitors will trust your project if they see concrete use cases and success stories, e.g., [the vuepress gallery](https://vuepress.gallery/)).
+> 訪問者は、具体的なユースケースや成功事例を見れば、あなたのプロジェクトを信頼してくれるでしょう。例 [the vuepress gallery](https://vuepress.gallery/).
 
 </p>
 </details>
