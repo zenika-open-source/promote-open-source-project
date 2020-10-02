@@ -253,7 +253,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>❤️ Open a use case gallery to show what users built with your project</summary>
 <p>
 
-> Visitors will trust your project if they see concrete use cases and success stories, e.g., [the vuepress gallery](https://vuepress.gallery/)).
+> Visitors will trust your project if they see concrete use cases and success stories, e.g., [the vuepress gallery](https://vuepress.gallery/).
 
 </p>
 </details>
