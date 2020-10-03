@@ -37,7 +37,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>👌 Make sure your project is mature enough</summary>
 <p>
 
-> Your project must be stable enough with minimum viables features in order to hook users.
+> Your project must be stable enough with minimum viable features in order to hook users.
 
 </p>
 </details>
@@ -55,7 +55,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>💅 Make your README pretty</summary>
 <p>
 
-> README is the first thing your vistors will see. Make it simple, pretty and easy to read. [Here is a list of beautiful READMEs](https://github.com/matiassingers/awesome-readme).
+> README is the first thing your visitors will see. Make it simple, pretty and easy to read. [Here is a list of beautiful READMEs](https://github.com/matiassingers/awesome-readme).
 
 </p>
 </details>
@@ -253,7 +253,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>❤️ Open a use case gallery to show what users built with your project</summary>
 <p>
 
-> Visitors will trust your project if they see concrete use cases and success stories, e.g., [the vuepress gallery](https://vuepress.gallery/)).
+> Visitors will trust your project if they see concrete use cases and success stories, e.g., [the vuepress gallery](https://vuepress.gallery/).
 
 </p>
 </details>
