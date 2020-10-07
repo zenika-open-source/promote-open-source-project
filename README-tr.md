@@ -23,6 +23,7 @@ Mevcut çevirilerin listesi:
 - [پارسی](./README-fa.md)
 - [Português](./README-pt.md)
 - [Türkçe](./README-tr.md)
+- [日本語](./README-jp.md)
 
 Bir dil mi eksik? Bu belgeyi geliştirmek ister misiniz? [Katkılarınızı bekliyoruz](./CONTRIBUTING.md) !
 
