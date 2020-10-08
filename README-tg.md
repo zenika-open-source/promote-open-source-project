@@ -210,10 +210,10 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>🏆 Reward contributors</summary>
+<summary>🏆 Ба мушорикат кунанда ҳо ҷоӣза даҳид</summary>
 <p>
 
-> Be nice with people that helped you! Some open source projects like [gatsby](https://github.com/gatsbyjs/gatsby) reward contributors with goodies. If you can't afford that, do a public post (on twitter or other platforms) about the contribution and mention the author ([here is an example of public thanks](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Open a `Contributors` section in your README to publicly thank them or showcase them on your project documentation or website. Here are some examples:
+> Хуб будан бо корбарон митавонад ба шумо кумак кунад ! бархи аз лоиҳаҳои матни боз монанд [gatsby](https://github.com/gatsbyjs/gatsby) ба  reward contributors with goodies. If you can't afford that, do a public post (on twitter or other platforms) about the contribution and mention the author ([here is an example of public thanks](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Open a `Contributors` section in your README to publicly thank them or showcase them on your project documentation or website. Here are some examples:
 >
 > - [vuepress (contributors README section)](https://github.com/vuejs/vuepress#code-contributors)
 > - [Rythm.js (random highlighted contributor on demo page)](https://okazari.github.io/Rythm.js/)
