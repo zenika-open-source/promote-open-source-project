@@ -25,6 +25,7 @@
 - [Türkçe](./README-tr.md)
 - [Català](./README-ca.md)
 - [日本語](./README-jp.md)
+- [සිංහල](./README-si.md)
 
 必要な言語がありますか? このチートシートを改善したいですか? [貢献は歓迎します!](./CONTRIBUTING.md)!
 
