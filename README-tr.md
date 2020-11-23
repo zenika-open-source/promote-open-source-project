@@ -24,6 +24,7 @@ Mevcut çevirilerin listesi:
 - [Português](./README-pt.md)
 - [Türkçe](./README-tr.md)
 - [日本語](./README-jp.md)
+- [සිංහල](./README-si.md)
 
 Bir dil mi eksik? Bu belgeyi geliştirmek ister misiniz? [Katkılarınızı bekliyoruz](./CONTRIBUTING.md) !
 

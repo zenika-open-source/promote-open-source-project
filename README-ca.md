@@ -24,6 +24,7 @@ Llista d'idiomes disponibles:
 - [Português](./README-pt.md)
 - [Català](./README-ca.md)
 - [日本語](./README-jp.md)
+- [සිංහල](./README-si.md)
 
 Falta algun idioma? Desitges millorar aquesta guia? [Les aportacions són benvingudes](./CONTRIBUTING.md)!
 
