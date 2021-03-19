@@ -273,7 +273,7 @@
 
 ## ❤️ Соавторы
 
-Спасибо следующим замечательным людям:
+Выражаем благодарность следующим замечательным людям:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
