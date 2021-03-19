@@ -10,7 +10,7 @@
 
 <h1 align="center">Памятка по продвижению проектов с открытым исходным кодом</h1>
 
-> Данная памятка описывает необходимые шаги для успешного продвижения Вашего проекта с открытым исходным кодом. Вы можете кликать на шаги для получения более детальной информации. 
+> Данная памятка описывает необходимые шаги для успешного продвижения проекта с открытым исходным кодом. Вы можете кликать на шаги для получения более детальной информации. 
 
 Список доступных языков:
 
@@ -54,10 +54,10 @@
 </details>
 
 <details>
-<summary>💅 Сделайте Ваш README Make your README pretty</summary>
+<summary>💅 Сделайте Ваш README привлекательным</summary>
 <p>
 
-> README - это первое, что видят посетители. Он должен быть простым, привлекательным и лекго читаемым.  is the first thing your visitors will see. Make it simple, pretty and easy to read. [Список превосходных README](https://github.com/matiassingers/awesome-readme).
+> README - это первое, что видят посетители. Он должен быть простым, привлекательным и лекго читаемым. [Список превосходных README](https://github.com/matiassingers/awesome-readme).
 
 </p>
 </details>
@@ -97,32 +97,32 @@
 <p>
 
 > Разработка хорошей документации - один из важнейших шагов. Если документация не большая, Вы можете включить её в README. В противном случае, лучшим решением 
-> будет её размещение на отдельном сайте. Некоторые проекты с открытым исходным кодом, такие как [vuepress](https://v1.vuepress.vuejs.org) могут помочь с созданием
-> хорошей документации.
+> будет её размещение на отдельном сайте. Некоторые проекты с открытым исходным кодом, такие как [vuepress](https://v1.vuepress.vuejs.org) могут упростить процесс
+> создания хорошей документации.
 
  </p>
 </details>
 
 <br />
 
-## 2. 📢 Spread the word about your hard works
+## 2. 📢 Расскажите о своей усердной работе
 
 <br />
 
 <details>
-<summary>⭐ Make your project trustable before publishing it on social networks</summary>
+<summary>⭐ Сделайте свой проект заслуживающим доверия перед публикацией в социальных сетях</summary>
 <p>
 
-> Most visitors will check how many stars the project has before considering using it. A minimum amount of stars makes your project more trustable than a project with zero star. This is why you should ask people you know to support your project before doing a public announcement on social media.
+> Большинство пользователей смотрят на количество звёзд перед использованием проекта. Минимальное количество звезд вызовет больше доверия, чем проект с нулевым количеством звёзд. Именно поэтому будет хорошей идеей, прежде чем делать открытые публикации, попросить друзей и знакомых поддержать Ваш проект.
 
 </p>
 </details>
 
 <details>
-<summary>↗️ Share the project on social media and specialized platforms</summary>
+<summary>↗️ Поделитесь проектом в соц. сетях и на специализированных платформах</summary>
 <p>
 
-> Tell the World about your awesome work! Publish on social media and specialized platforms:
+> Расскажите миру о Вашей круто проделанной работе! Создайте посты в соц. сетях и на специализированных платформах:
 >
 > - [Twitter](https://twitter.com)
 > - [Linkedin](https://www.linkedin.com/)
@@ -139,88 +139,89 @@
 </details>
 
 <details>
-<summary>📃 Write articles that mention your project</summary>
+<summary>📃 Пишите статьи и упоминайте в них Ваш проект</summary>
 <p>
 
-> Write articles about your project. Purpose can be the technical stack you used, how your project works, problems you encountered, etc. Post to publishing platforms:
+> Пишите статьи о проекте. Целями статьи могут быть: используемый технологический стек;информация о том, как работает проект; проблемы, с которыми Вы столкнулись и т.п. Разместите статьи на следующих платформах:
 >
 > - [medium](https://medium.com/)
 > - [dev.to](https://dev.to/)
+> - [habr.com](https://habr.com/)
 
 </p>
 </details>
 
 <details>
-<summary>🎤 Present your project at conferences/meetups</summary>
+<summary>🎤 Расскажите о проекте на конференциях/митапах</summary>
 <p>
 
-> Presenting your project at conferences or meetups is a good way to improve its visibility.
+> Презентация проекта на конференциях/митапах - хороший способ  Presenting your project at conferences or meetups is a good way to improve its visibility.
 
 </p>
 </details>
 
 <details>
-<summary>🎥 Record and publish videos presenting your project, how it works, etc</summary>
+<summary>🎥 Подготовьте и опубликуйте видеоролики с презентацией проекта, как он работает и т.д.</summary>
 <p>
 
-> Recording a video is not an easy exercise. However it's probably the most efficient way to make your project famous.
+> Создание видеоролика не самая легкая задача. Однако, это один самых эффективных способов сделать проект известным.
 
 </p>
 </details>
 
 <details>
-<summary>🕐 Choose the best time to publish on social media</summary>
+<summary>🕐 Выберите лучшее время для публикации в соц. сетях</summary>
 <p>
 
-> Don't publish during holidays period or weekends. Usually the best time to publish on social networks is mid-week.
+> Не публикуйте в выходные и во время праздников. Лучшее время для публикации обычно - середина недели.
 
 </p>
 </details>
 
 <details>
-<summary>🗑 Don't spam platforms with your promotion</summary>
+<summary>🗑 Не "спамьте" платформы</summary>
 <p>
 
-> Don't publish twice on the same platform. It will be considered as spam and might cause bad publicity for your project.
+> Не публикуйте дважды на одной и той же платформе. Это может быть расценено как спам и ухудшит репутацию проекта.
 
 </p>
 </details>
 
 <br />
 
-## 3. 🤝 Keep your users
+## 3. 🤝 Берегите своих пользователей
 
 <br />
 
 <details>
-<summary>🆕 Try to regularly release new versions of your project</summary>
+<summary>🆕 Старайтесь регулярно выпускать новые версии</summary>
 <p>
 
-> Maintain and improve your project with new releases and generate changelogs.
+> В рамках поддержки и улучшений, выпускайте новые версии и ведите журнал изменений (changelog).
 
 </p>
 </details>
 
 <details>
-<summary>❗ Maintain your project, process opened issues</summary>
+<summary>❗ Поддерживайте проект, следите за открытыми проблемами/багами</summary>
 <p>
 
-> Do not let opened issues without response. Be nice with people that took time to open issues. 😉
+> Не оставляйте проблемы/баги без ответа. Отвечайте добром людям, которые потратили своё время на открытие проблемы/бага. 😉
 
 </p>
 </details>
 
 <details>
-<summary>🙏 Invite users to contribute</summary>
+<summary>🙏 Приглашайте пользователей к участию в проекте</summary>
 <p>
 
-> A healthy project is a project with a community and contributors. Let your users know that you need help by tagging some issues with `contribution welcome` or `good first issue` labels. [See github labels](https://help.github.com/en/articles/about-labels).
+> Здоровый проект - это проект с сообществом и участниками. Сообщите своим пользователям, что вам нужна помощь, пометив некоторые проблемы ярлыками `contribution welcome` или `good first issue`. [См. ярлыки GitHub](https://help.github.com/en/articles/about-labels).
 
 </p>
 </details>
 
 <details>
-<summary>🏆 Reward contributors</summary>
+<summary>🏆 Вознаграждайте участников</summary>
 <p>
 
 > Be nice with people that helped you! Some open source projects like [gatsby](https://github.com/gatsbyjs/gatsby) reward contributors with goodies. If you can't afford that, do a public post (on twitter or other platforms) about the contribution and mention the author ([here is an example of public thanks](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Open a `Contributors` section in your README to publicly thank them or showcase them on your project documentation or website. Here are some examples:
@@ -264,15 +265,15 @@
 
 <br />
 
-## 🙏 Show your support
+## 🙏 Поддержите проект
 
-⭐️ this repository if this cheat sheet helped you!
+⭐️ этот репозиторий, если эта шпаргалка помогла Вам!
 
 <br />
 
-## ❤️ Contributors
+## ❤️ Соавторы
 
-Thanks go to these wonderful people:
+Спасибо следующим замечательным людям:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -311,4 +312,4 @@ Thanks go to these wonderful people:
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+Этот проект следует спецификации [all-contributors](https://github.com/all-contributors/all-contributors). Приветствуется любое участие!
