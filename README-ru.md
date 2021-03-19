@@ -8,11 +8,11 @@
   </a>
 </p>
 
-<h1 align="center">Open source promotion cheat sheet</h1>
+<h1 align="center">Памятка по продвижению проектов с открытым исходным кодом</h1>
 
-> This cheat sheet summarizes important steps you should follow to promote your open source project in the best conditions. You can click items to expand and get more information from a topic. 
+> Данная памятка описывает необходимые шаги для успешного продвижения Вашего проекта с открытым исходным кодом. Вы можете кликать на шаги для получения более детальной информации. 
 
-List of available languages:
+Список доступных языков:
 
 - [English](./README.md)
 - [Français](./README-fr.md)
@@ -26,77 +26,79 @@ List of available languages:
 - [Català](./README-ca.md)
 - [日本語](./README-jp.md)
 - [සිංහල](./README-si.md)
+- [Русский](./README-ru.md)
 
-A language is missing? Want to improve this cheat sheet? [Contributions are welcome](./CONTRIBUTING.md)!
+Языка нет в списке? Хотите что-то исправить? [Ваше участие приветствуется!](./CONTRIBUTING.md)!
 
-[A PDF version of this cheat sheet is available here.](./pdf/cheat-sheet.pdf)
 
-## 1. 🎢 Preparation step
+## 1. 🎢 Подготовка
 
 <br />
 
 <details>
-<summary>👌 Make sure your project is mature enough</summary>
+<summary>👌 Убедитесь, что Ваш проект достаточно зрелый</summary>
 <p>
 
-> Your project must be stable enough with minimum viable features in order to hook users.
+> Чтобы "зацепить" пользователей, Ваш проект должен быть достаточно стабильным и, как минимум, иметь полезные функции.
 
 </p>
 </details>
 
 <details>
-<summary>😎 Choose a cool name for your project</summary>
+<summary>😎 Придумайте крутое название для Вашего проекта</summary>
 <p>
 
-> Choose a name users can easily remember.
+> Выберите имя, которое пользователи могут легко запомнить.
 
 </p>
 </details>
 
 <details>
-<summary>💅 Make your README pretty</summary>
+<summary>💅 Сделайте Ваш README Make your README pretty</summary>
 <p>
 
-> README is the first thing your visitors will see. Make it simple, pretty and easy to read. [Here is a list of beautiful READMEs](https://github.com/matiassingers/awesome-readme).
+> README - это первое, что видят посетители. Он должен быть простым, привлекательным и лекго читаемым.  is the first thing your visitors will see. Make it simple, pretty and easy to read. [Список превосходных README](https://github.com/matiassingers/awesome-readme).
 
 </p>
 </details>
 
 <details>
-<summary>💪 Highlight strong points of your project</summary>
+<summary>💪 Выделите сильные стороны Вашего проекта</summary>
 <p>
 
-> Identify your project strengths and make sure visitors see them first.
+> Перечислите сильные стороны вашего проекта и убедитесь, что посетители увидят их первыми.
 
 </p>
 </details>
 
 <details>
-<summary>✨ Provide a demo of your project</summary>
+<summary>✨ Предоставьте демо-версию</summary>
 <p>
 
-> Visitors will want to quickly understand the purpose of your project, how it works and how to use it. Providing a demo is the best way to satisfy users. It could be:
+> Посетители захотят быстро понять назначение Вашего проекта, как он работает и как им пользоваться. Демо-версия - лучший способ удовлетворить пользователей. Это может быть:
 >
-> - An animated GIF demonstrating how your project works
-> - A link to a live demo
+> - Анимированный GIF, демонстрирующий как работает проект
+> - Ссылка на "живое" видео
 
 </p>
 </details>
 
 <details>
-<summary>👌 Install/Usage must be super easy</summary>
+<summary>👌 Установка и использование должны быть максимально простыми</summary>
 <p>
 
-> You'll probably lose visitors if your project is not user-friendly.
+> Вероятно, вы будете терять пользователей, если Ваш проект не будет user-friendly.
 
 </p>
 </details>
 
 <details>
-<summary>📘 Create a clean and well structured documentation</summary>
+<summary>📘 Подготовьте аккуратную и хорошо структурированную документацию</summary>
 <p>
 
-> Creating a good documentation is probably the most important step. If you have a small documentation, you can include it within your README. Otherwise, you should probably host it in a separate website. Some open source projects like [vuepress](https://v1.vuepress.vuejs.org) can help you creating clean documentation in a simple way.
+> Разработка хорошей документации - один из важнейших шагов. Если документация не большая, Вы можете включить её в README. В противном случае, лучшим решением 
+> будет её размещение на отдельном сайте. Некоторые проекты с открытым исходным кодом, такие как [vuepress](https://v1.vuepress.vuejs.org) могут помочь с созданием
+> хорошей документации.
 
  </p>
 </details>
