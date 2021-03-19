@@ -312,4 +312,4 @@
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-Этот проект следует спецификации [all-contributors](https://github.com/all-contributors/all-contributors). Приветствуется любое участие!
+Этот проект следует спецификации [all-contributors](https://github.com/all-contributors/all-contributors). Любое участие приветствуется!
