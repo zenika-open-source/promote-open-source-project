@@ -189,7 +189,7 @@
 
 <br />
 
-## 3. 🤝 Берегите своих пользователей
+## 3. 🤝 Дорожите своими пользователями
 
 <br />
 
@@ -233,10 +233,10 @@
 </details>
 
 <details>
-<summary>💬 Open a community chat platform</summary>
+<summary>💬 Заведите коллективный чат</summary>
 <p>
 
-> Github issues are not always the best way to communicate with your users. If necessary, you can use chat platforms to discuss with them:
+> Github issues - не всегда лучший способ общения с пользователями. Если необходимо, используйте следующие платформы для общения с ними:
 >
 > - [Discord](https://discordapp.com)
 > - [Slack](https://slack.com)
@@ -246,19 +246,19 @@
 </details>
 
 <details>
-<summary>🔙 Ask for feedback</summary>
+<summary>🔙 Запрашивайте обратную связь</summary>
 <p>
 
-> User feedback is the best way to improve your project. They probably have features and ideas that could make your project better.
+> Отзывы пользователей - лучший способ улучшить проект. Вполне вероятно, у них есть предложения и идеи, которые могут сделать проект лучше.
 
 </p>
 </details>
 
 <details>
-<summary>❤️ Open a use case gallery to show what users built with your project</summary>
+<summary>❤️ Создайте галерею примеров использования, чтобы продемонстрировать, что пользователи создали с помощью вашего проекта</summary>
 <p>
 
-> Visitors will trust your project if they see concrete use cases and success stories, e.g., [the vuepress gallery](https://vuepress.gallery/).
+> Посетители будут больше доверять вашему проекту, если увидят конкретные примеры и истории успеха, например, [Галерея vuepress](https://vuepress.gallery/).
 
 </p>
 </details>
