@@ -106,7 +106,7 @@ Eine Sprache fehlt und du möchtest helfen das Cheat Sheet zu verbessern? [Betei
 <br />
 
 <details>
-<summary>⭐ Steiger das Vertrauen in dein Projekt, bevor du es auf Social Media Netzwerken veröffentlichst</summary>
+<summary>⭐ Steigere das Vertrauen in dein Projekt, bevor du es auf Social Media Netzwerken veröffentlichst</summary>
 <p>
 
 > Viele Besucher werden die Anzahl der Sterne überprüfen, bevor sie in Erwägung ziehen, das Projekt zu benutzen. Eine kleine Anzahl an Sternen wirkt vertrauenswürdiger als gar keine Sterne. Deshalb solltest du Bekannte fragen, ob sie dein Projekt unterstützen und auf ihren Social Media Kanälen bewerben.
