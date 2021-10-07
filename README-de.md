@@ -301,6 +301,9 @@ Unser Dank geht an die folgenden wundervollen Leute:
     <td align="center"><a href="https://kojikoji.ga"><img src="https://avatars0.githubusercontent.com/u/474225?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Koji</b></sub></a><br /><a href="#translation-koji" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/MasterBrian99"><img src="https://avatars0.githubusercontent.com/u/37585474?v=4?s=100" width="100px;" alt=""/><br /><sub><b>pasindu p konghawaththa</b></sub></a><br /><a href="#translation-MasterBrian99" title="Translation">🌍</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="http://adsoleware.com/"><img src="https://avatars.githubusercontent.com/u/40896559?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Marcel</b></sub></a><br /><a href="https://github.com/zenika-open-source/promote-open-source-project/commits?author=hackthedev" title="Documentation">📖</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-restore -->
