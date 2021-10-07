@@ -223,6 +223,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "nlepage",
+      "name": "Nicolas Lepage",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19571875?v=4",
+      "profile": "https://github.com/nlepage",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
