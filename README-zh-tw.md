@@ -15,17 +15,18 @@
 現已支持以下語言：
 
 - [English](./README.md)
-- [Français](./README-fr.md)
+- [Català](./README-ca.md)
 - [Deutsch](./README-de.md)
 - [Español](./README-es.md)
+- [پارسی](./README-fa.md)
+- [Français](./README-fr.md)
+- [日本語](./README-jp.md)
+- [Português](./README-pt.md)
+- [Русский](./README-ru.md)
+- [සිංහල](./README-si.md)
+- [Türkçe](./README-tr.md)
 - [简体中文](./README-zh-cn.md)
 - [繁體中文](./README-zh-tw.md)
-- [پارسی](./README-fa.md)
-- [Português](./README-pt.md)
-- [Türkçe](./README-tr.md)
-- [Català](./README-ca.md)
-- [日本語](./README-jp.md)
-- [සිංහල](./README-si.md)
 
 沒有您需要的語言？希望幫忙改進這份備忘單？[歡迎您的貢獻](./CONTRIBUTING.md)！
 

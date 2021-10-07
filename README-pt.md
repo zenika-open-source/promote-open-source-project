@@ -15,17 +15,18 @@
 Idiomas disponíveis :
 
 - [English](./README.md)
-- [Français](./README-fr.md)
+- [Català](./README-ca.md)
 - [Deutsch](./README-de.md)
 - [Español](./README-es.md)
+- [پارسی](./README-fa.md)
+- [Français](./README-fr.md)
+- [日本語](./README-jp.md)
+- [Português](./README-pt.md)
+- [Русский](./README-ru.md)
+- [සිංහල](./README-si.md)
+- [Türkçe](./README-tr.md)
 - [简体中文](./README-zh-cn.md)
 - [繁體中文](./README-zh-tw.md)
-- [پارسی](./README-fa.md)
-- [Português](./README-pt.md)
-- [Türkçe](./README-tr.md)
-- [Català](./README-ca.md)
-- [日本語](./README-jp.md)
-- [සිංහල](./README-si.md)
 
 Falta um idioma? Você acha que é possível melhorar esta folha de dicas? [Contribuições são bem-vindas](./CONTRIBUTING.md) !
 

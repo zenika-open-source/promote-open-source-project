@@ -1,17 +1,18 @@
 {
   "files": [
     "README.md",
-    "README-fr.md",
+    "README-ca.md",
     "README-de.md",
     "README-es.md",
-    "README-zh-cn.md",
-    "README-zh-tw.md",
     "README-fa.md",
-    "README-pt.md",
-    "README-ca.md",
+    "README-fr.md",
     "README-jp.md",
+    "README-pt.md",
+    "README-ru.md",
     "README-si.md",
-    "README-tr.md"
+    "README-tr.md",
+    "README-zh-cn.md",
+    "README-zh-tw.md"
   ],
   "imageSize": 100,
   "commit": true,

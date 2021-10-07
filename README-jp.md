@@ -15,17 +15,18 @@
 利用可能な言語のリスト:
 
 - [English](./README.md)
-- [Français](./README-fr.md)
+- [Català](./README-ca.md)
 - [Deutsch](./README-de.md)
 - [Español](./README-es.md)
+- [پارسی](./README-fa.md)
+- [Français](./README-fr.md)
+- [日本語](./README-jp.md)
+- [Português](./README-pt.md)
+- [Русский](./README-ru.md)
+- [සිංහල](./README-si.md)
+- [Türkçe](./README-tr.md)
 - [简体中文](./README-zh-cn.md)
 - [繁體中文](./README-zh-tw.md)
-- [پارسی](./README-fa.md)
-- [Português](./README-pt.md)
-- [Türkçe](./README-tr.md)
-- [Català](./README-ca.md)
-- [日本語](./README-jp.md)
-- [සිංහල](./README-si.md)
 
 必要な言語がありますか? このチートシートを改善したいですか? [貢献は歓迎します](./CONTRIBUTING.md)!
 
