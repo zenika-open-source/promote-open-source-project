@@ -27,7 +27,7 @@
 - [日本語](./README-jp.md)
 - [සිංහල](./README-si.md)
 
-必要な言語がありますか? このチートシートを改善したいですか? [貢献は歓迎します!](./CONTRIBUTING.md)!
+必要な言語がありますか? このチートシートを改善したいですか? [貢献は歓迎します](./CONTRIBUTING.md)!
 
 [このチートシートのPDF版はこちらから利用できます](./pdf/cheat-sheet.pdf)
 
@@ -54,7 +54,7 @@
 </details>
 
 <details>
-<summary>💅 あなたのREADをきれいにしましょう</summary>
+<summary>💅 あなたのREADMEをきれいにしましょう</summary>
 <p>
 
 > READMEはあなたの訪問者が最初に目にするものです。 シンプルできれいで読みやすいものにしましょう。 [リストのREADMEを参考にしてみて下さい](https://github.com/matiassingers/awesome-readme).
