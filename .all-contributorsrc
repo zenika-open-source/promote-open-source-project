@@ -233,6 +233,15 @@
       "contributions": [
         "maintenance"
       ]
+    },
+    {
+      "login": "sergey-scat",
+      "name": "Sergey Scat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31442538?v=4",
+      "profile": "https://github.com/sergey-scat",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
