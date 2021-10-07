@@ -8,10 +8,14 @@
     "README-zh-tw.md",
     "README-fa.md",
     "README-pt.md",
-    "README-ca.md"
+    "README-ca.md",
+    "README-jp.md",
+    "README-si.md",
+    "README-tr.md"
   ],
   "imageSize": 100,
-  "commit": false,
+  "commit": true,
+  "commitConvention": "gitmoji",
   "contributors": [
     {
       "login": "kefranabg",
@@ -208,6 +212,5 @@
   "projectOwner": "zenika-open-source",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "commitConvention": "none",
   "skipCi": true
 }
