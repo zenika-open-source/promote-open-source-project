@@ -303,6 +303,7 @@ Unser Dank geht an die folgenden wundervollen Leute:
   </tr>
   <tr>
     <td align="center"><a href="http://adsoleware.com/"><img src="https://avatars.githubusercontent.com/u/40896559?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Marcel</b></sub></a><br /><a href="https://github.com/zenika-open-source/promote-open-source-project/commits?author=hackthedev" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://bandism.net/"><img src="https://avatars.githubusercontent.com/u/22633385?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ikko Ashimine</b></sub></a><br /><a href="https://github.com/zenika-open-source/promote-open-source-project/commits?author=eltociear" title="Documentation">📖</a></td>
   </tr>
 </table>
 
