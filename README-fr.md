@@ -14,6 +14,7 @@
 
 Langages disponibles :
 
+- [العربية](./README-ar.md)
 - [English](./README.md)
 - [Català](./README-ca.md)
 - [Deutsch](./README-de.md)
@@ -234,7 +235,7 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 
 > Les issues Github ne sont pas toujours la meilleure manière de communiquer avec vos utilisateurs. Si nécessaire, vous pouvez ouvrir un chat pour discuter avec eux :
 >
-> - [Discord](https://discordapp.com)
+> - [Discord](https://discord.com)
 > - [Slack](https://slack.com)
 > - [Gitter](https://gitter.im/)
 

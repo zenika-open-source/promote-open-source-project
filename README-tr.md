@@ -14,6 +14,7 @@
 
 Mevcut çevirilerin listesi:
 
+- [العربية](./README-ar.md)
 - [English](./README.md)
 - [Català](./README-ca.md)
 - [Deutsch](./README-de.md)
@@ -189,7 +190,7 @@ Bir dil mi eksik? Bu belgeyi geliştirmek ister misiniz? [Katkılarınızı bekl
 <summary>💬 Bir topluluk sohbet platformu açın</summary>
 <p>
 > Github sorunları her zaman kullanıcılarınızla iletişim kurmanın en iyi yolu değildir. Gerekirse, onlarla görüşmek için sohbet platformlarını kullanabilirsiniz:
-> - [Discord](https://discordapp.com)
+> - [Discord](https://discord.com)
 > - [Slack](https://slack.com)
 > - [Gitter](https://gitter.im/)
 </p>

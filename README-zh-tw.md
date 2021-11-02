@@ -14,6 +14,7 @@
 
 現已支持以下語言：
 
+- [العربية](./README-ar.md)
 - [English](./README.md)
 - [Català](./README-ca.md)
 - [Deutsch](./README-de.md)
@@ -236,7 +237,7 @@
 
 > Github 的 issue 並不總是和您的用戶溝通最好的地方。如果有需要的話，您可以使用一些聊天平台來和他們討論：
 >
-> - [Discord](https://discordapp.com)
+> - [Discord](https://discord.com)
 > - [Slack](https://slack.com)
 > - [Gitter](https://gitter.im/)
 

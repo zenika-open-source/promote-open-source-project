@@ -14,6 +14,7 @@
 
 Lista de lenguajes disponibles:
 
+- [العربية](./README-ar.md)
 - [English](./README.md)
 - [Català](./README-ca.md)
 - [Deutsch](./README-de.md)
@@ -233,7 +234,7 @@ Lista de lenguajes disponibles:
 
 > Los problemas pendientes en Github no siempre son la mejor manera de comunicarte con tus usuarios. Si es necesario, puedes usar plataformas de chat para discutir con ellos.
 >
-> - [Discord](https://discordapp.com)
+> - [Discord](https://discord.com)
 > - [Slack](https://slack.com)
 > - [Gitter](https://gitter.im/)
 
