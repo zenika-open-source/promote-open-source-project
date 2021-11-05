@@ -312,6 +312,7 @@
     <td align="center"><a href="https://github.com/sergey-scat"><img src="https://avatars.githubusercontent.com/u/31442538?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sergey Scat</b></sub></a><br /><a href="#translation-sergey-scat" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/JustE3saR"><img src="https://avatars.githubusercontent.com/u/62352949?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mohammed Taha</b></sub></a><br /><a href="#translation-JustE3saR" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/Tazminia"><img src="https://avatars.githubusercontent.com/u/41241424?v=4?s=100" width="100px;" alt=""/><br /><sub><b>T. JEGHAM</b></sub></a><br /><a href="https://github.com/zenika-open-source/promote-open-source-project/pulls?q=is%3Apr+reviewed-by%3ATazminia" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/Tarektouati"><img src="https://avatars.githubusercontent.com/u/19335073?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tarek Touati</b></sub></a><br /><a href="https://github.com/zenika-open-source/promote-open-source-project/pulls?q=is%3Apr+reviewed-by%3ATarektouati" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
