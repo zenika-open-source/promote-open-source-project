@@ -251,6 +251,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "Tazminia",
+      "name": "T. JEGHAM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41241424?v=4",
+      "profile": "https://github.com/Tazminia",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
