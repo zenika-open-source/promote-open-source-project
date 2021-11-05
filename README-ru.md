@@ -313,6 +313,7 @@
     <td align="center"><a href="https://bandism.net/"><img src="https://avatars.githubusercontent.com/u/22633385?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ikko Ashimine</b></sub></a><br /><a href="https://github.com/zenika-open-source/promote-open-source-project/commits?author=eltociear" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/nlepage"><img src="https://avatars.githubusercontent.com/u/19571875?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nicolas Lepage</b></sub></a><br /><a href="#maintenance-nlepage" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/sergey-scat"><img src="https://avatars.githubusercontent.com/u/31442538?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sergey Scat</b></sub></a><br /><a href="#translation-sergey-scat" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/JustE3saR"><img src="https://avatars.githubusercontent.com/u/62352949?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mohammed Taha</b></sub></a><br /><a href="#translation-JustE3saR" title="Translation">🌍</a></td>
   </tr>
 </table>
 
