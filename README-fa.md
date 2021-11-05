@@ -15,6 +15,7 @@
 
 لیست سایر زبان های موجود:
 
+- [العربية](./README-ar.md)
 - [English](./README.md)
 - [Català](./README-ca.md)
 - [Deutsch](./README-de.md)
@@ -238,7 +239,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 
 > قسمت 'issue' های گیت هاب همیشه محلی برای ثبت بازخورد ها نخواهد بود. شما میتوانید از پلتفرم های زیر برای این کار استفاده کنید!
 >
-> - [Discord](https://discordapp.com)
+> - [Discord](https://discord.com)
 > - [Slack](https://slack.com)
 > - [Gitter](https://gitter.im/)
 

@@ -14,6 +14,7 @@
 
 Список доступных языков:
 
+- [العربية](./README-ar.md)
 - [English](./README.md)
 - [Català](./README-ca.md)
 - [Deutsch](./README-de.md)
@@ -239,7 +240,7 @@
 
 > Github issues - не всегда лучший способ общения с пользователями. Если необходимо, используйте следующие платформы для общения с ними:
 >
-> - [Discord](https://discordapp.com)
+> - [Discord](https://discord.com)
 > - [Slack](https://slack.com)
 > - [Gitter](https://gitter.im/)
 

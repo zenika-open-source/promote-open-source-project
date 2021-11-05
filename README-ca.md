@@ -14,6 +14,7 @@
 
 Llista d'idiomes disponibles:
 
+- [العربية](./README-ar.md)
 - [English](./README.md)
 - [Català](./README-ca.md)
 - [Deutsch](./README-de.md)
@@ -233,7 +234,7 @@ Falta algun idioma? Desitges millorar aquesta guia? [Les aportacions són benvin
 
 > Els casos pendents de Github no són sempre el millor lloc on comunicar-se amb els teus usuaris. Si és necessari, pots utilitzar plataformes de xat per discutir amb ells:
 >
-> - [Discord](https://discordapp.com)
+> - [Discord](https://discord.com)
 > - [Slack](https://slack.com)
 > - [Gitter](https://gitter.im/)
 

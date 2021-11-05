@@ -14,6 +14,7 @@
 
 Verfügbare Sprachen:
 
+- [العربية](./README-ar.md)
 - [English](./README.md)
 - [Català](./README-ca.md)
 - [Deutsch](./README-de.md)
@@ -234,7 +235,7 @@ Eine Sprache fehlt und du möchtest helfen das Cheat Sheet zu verbessern? [Betei
 
 > Github Tickets sind nicht immer der beste Weg, um mit deinen Nutzern zu kommunizieren. Falls nötig, kannst du eine Chat Plattform dafür nutzen:
 >
-> - [Discord](https://discordapp.com)
+> - [Discord](https://discord.com)
 > - [Slack](https://slack.com)
 > - [Gitter](https://gitter.im/)
 

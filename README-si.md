@@ -14,6 +14,7 @@
 
 දැනට තිබෙන භාෂා ලැයිස්තුව:
 
+- [العربية](./README-ar.md)
 - [English](./README.md)
 - [Català](./README-ca.md)
 - [Deutsch](./README-de.md)
@@ -236,7 +237,7 @@
 
 > Github issues එකිනෙකා අතර අදහස් හුවමාරු කිරීමට හැමවෙලාවෙම හොඳ ක්‍රමයක් නෙවෙයි.අත්‍යාවශ්‍යනම්,එනිනෙකා අතර තොරතුරු හුවමාරු කිරීමට මාධ්‍යයක් භාවිතා කරන්න :
 >
-> - [Discord](https://discordapp.com)
+> - [Discord](https://discord.com)
 > - [Slack](https://slack.com)
 > - [Gitter](https://gitter.im/)
 

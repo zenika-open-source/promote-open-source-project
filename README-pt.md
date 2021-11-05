@@ -14,6 +14,7 @@
 
 Idiomas disponíveis :
 
+- [العربية](./README-ar.md)
 - [English](./README.md)
 - [Català](./README-ca.md)
 - [Deutsch](./README-de.md)
@@ -235,7 +236,7 @@ Falta um idioma? Você acha que é possível melhorar esta folha de dicas? [Cont
 
 > Os issues do Github nem sempre são a melhor maneira de se comunicar com seus utilizadores. Se necessário, você pode abrir um chat para conversar com eles :
 >
-> - [Discord](https://discordapp.com)
+> - [Discord](https://discord.com)
 > - [Slack](https://slack.com)
 > - [Gitter](https://gitter.im/)
 
