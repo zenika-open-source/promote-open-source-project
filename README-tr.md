@@ -21,6 +21,7 @@ Mevcut çevirilerin listesi:
 - [Español](./README-es.md)
 - [پارسی](./README-fa.md)
 - [Français](./README-fr.md)
+- [Bahasa Indonesia](./README-id.md)
 - [日本語](./README-jp.md)
 - [Português](./README-pt.md)
 - [Русский](./README-ru.md)
