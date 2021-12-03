@@ -12,21 +12,21 @@
 
 > In questi appunti sono riassunti alcuni passaggi importanti da seguire per poter promuovere efficacemente il vostro progetto open source. Potete cliccare un elemento per espandere l'argomento ed avere più informazioni.
 
-List of available languages:
+Lista delle lingue disponibili:
 
-- [Inglese](./README.md)
 - [العربية](./README-ar.md)
-- [Catalano](./README-ca.md)
-- [Tedesco](./README-de.md)
-- [Spagnolo](./README-es.md)
+- [English](./README.md)
+- [Català](./README-ca.md)
+- [Deutsch](./README-de.md)
+- [Español](./README-es.md)
 - [پارسی](./README-fa.md)
-- [Francese](./README-fr.md)
+- [Français](./README-fr.md)
 - [Italiano](./README-it.md)
 - [日本語](./README-jp.md)
-- [Portoghese](./README-pt.md)
-- [Russo](./README-ru.md)
+- [Português](./README-pt.md)
+- [Русский](./README-ru.md)
 - [සිංහල](./README-si.md)
-- [Turco](./README-tr.md)
+- [Türkçe](./README-tr.md)
 - [简体中文](./README-zh-cn.md)
 - [繁體中文](./README-zh-tw.md)
 
