@@ -7,6 +7,7 @@
     "README-es.md",
     "README-fa.md",
     "README-fr.md",
+    "README-it.md",
     "README-jp.md",
     "README-pt.md",
     "README-ru.md",
@@ -269,6 +270,15 @@
       "profile": "https://github.com/Tarektouati",
       "contributions": [
         "review"
+      ]
+    },
+    {
+      "login": "simonecorsi",
+      "name": "Simone Corsi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5617452?v=4",
+      "profile": "https://github.com/simonecorsi",
+      "contributions": [
+        "translation"
       ]
     }
   ],
