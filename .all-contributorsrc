@@ -289,6 +289,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "Gerappa92",
+      "name": "Krzysztof Juszcze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17763895?v=4",
+      "profile": "https://www.linkedin.com/in/krzysztof-juszcze-01b395118/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
