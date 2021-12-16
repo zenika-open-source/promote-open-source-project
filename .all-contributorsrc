@@ -280,6 +280,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "atogue",
+      "name": "Anicet Togue",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5642182?v=4",
+      "profile": "https://github.com/atogue",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
