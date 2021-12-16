@@ -35,7 +35,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 
 [نسخه PDF این راهنما](./pdf/cheat-sheet.pdf)
 
-## 1. 🎢 پیش نیاز ها
+## &rlm;1. 🎢 پیش نیاز ها
 
 <br />
 
@@ -61,7 +61,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>💅 یک README تمیز و کارا برای برنامه بنویسید</summary>
 <p>
 
-> README اولین چیزی است که بازدیدکنندگان آن را مشاهده میکنند پس آن را ساده زیبا و آسان برای خواندن کنید[اینجا لیستی از نمونه های README موجود است](https://github.com/matiassingers/awesome-readme).
+> &rlm;README اولین چیزی است که بازدیدکنندگان آن را مشاهده میکنند پس آن را ساده زیبا و آسان برای خواندن کنید[اینجا لیستی از نمونه های README موجود است](https://github.com/matiassingers/awesome-readme).
 
 </p>
 </details>
@@ -108,7 +108,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 
 <br />
 
-## 2. 📢 به جهان پیرامون خود درباره سخت کوشی خود بگویید
+## &rlm;2. 📢 به جهان پیرامون خود درباره سخت کوشی خود بگویید
 
 <br />
 
@@ -123,11 +123,11 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 
 <details>
 <summary>↗️ پروژه خود را در شبکه های اجتماعی و پلتفرم های اختصاصی به اشتراک بگزارید</summary>
-<p dir="rtl" align="right">
+<p>
 
 > درباره کار فوق العاده خود در شبکه های اجتماعی و پلتفرم های اختصاصی مثل ابزار های زیر بگویید:
 >
-> - [Twitter](https://twitter.com)
+> - &rlm;[Twitter](https://twitter.com)
 > - [Linkedin](https://www.linkedin.com/)
 > - [Facebook](https://www.facebook.com/)
 > - [Reddit](https://www.reddit.com/)
@@ -147,7 +147,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 
 > مقاله ای درباره پروژه خود بنویسید. درباره نحوه کار برنامه مشکلاتی که برای شما در حین ساخت به وجود آمده و... شما میتوانید آن را در پلتفرم های زیر منتشر کنید:
 >
-> - [medium](https://medium.com/)
+> - &rlm;[medium](https://medium.com/)
 > - [dev.to](https://dev.to/)
 
 </p>
@@ -191,7 +191,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 
 <br />
 
-## 3. 🤝 کاربران خود را حفظ کنید
+## &rlm;3. 🤝 کاربران خود را حفظ کنید
 
 <br />
 
@@ -228,7 +228,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 
 > خوب بودن با کاربران میتواند به شما کمک کند برخی از پروژه های اوپن سورس مانند [gatsby](https://github.com/gatsbyjs/gatsby) به مشارکت های عمومی جایزه میدهند. اگر قادر به انجام این کار نیستید, یک پست منتشر کنید (در توییتر یا سایر پلتفرم ها) در مورد مشارکت و نویسنده ([یک نمونه سپاسگزاری از مشارکت کننده](https://twitter.com/FranckAbgrall/status/1139470547492978688)). یک قسمت در README پروژه به نام ‍‍‍‍`مشارکت کنندگان` ایجاد کنید و نام آن ها را در آن قید کنید. اینجا نمونه هایی موجود است:
 >
-> - [vuepress (contributors README section)](https://github.com/vuejs/vuepress#code-contributors)
+> - &rlm;[vuepress (contributors README section)](https://github.com/vuejs/vuepress#code-contributors)
 > - [Rythm.js (random highlighted contributor on demo page)](https://okazari.github.io/Rythm.js/)
 
 </p>
@@ -240,7 +240,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 
 > قسمت 'issue' های گیت هاب همیشه محلی برای ثبت بازخورد ها نخواهد بود. شما میتوانید از پلتفرم های زیر برای این کار استفاده کنید!
 >
-> - [Discord](https://discord.com)
+> - &rlm;[Discord](https://discord.com)
 > - [Slack](https://slack.com)
 > - [Gitter](https://gitter.im/)
 
@@ -267,13 +267,13 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 
 <br />
 
-## 🙏 حمایت کنید
+## &rlm;🙏 حمایت کنید
 
-⭐️ اگر از این مطلب خوشتان آمد آن را منتشر کنید
+&rlm;⭐️ اگر از این مطلب خوشتان آمد آن را منتشر کنید
 
 <br />
 
-## ❤️ مشارکت کنندگان
+## &rlm;❤️ مشارکت کنندگان
 
 سپاسگذاریم از این افراد شگفت انگیز:
 
