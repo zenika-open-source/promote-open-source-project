@@ -14,7 +14,7 @@
 
 Lista de lenguajes disponibles:
 
-- [العربية](./README-ar.md)
+- &lrm;[العربية](./README-ar.md)
 - [English](./README.md)
 - [Català](./README-ca.md)
 - [Deutsch](./README-de.md)

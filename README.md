@@ -10,11 +10,11 @@
 
 <h1 align="center">Open source promotion cheat sheet</h1>
 
-> This cheat sheet summarizes important steps you should follow to promote your open source project in the best conditions. You can click items to expand and get more information from a topic. 
+> This cheat sheet summarizes important steps you should follow to promote your open source project in the best conditions. You can click items to expand and get more information from a topic.
 
 List of available languages:
 
-- [العربية](./README-ar.md)
+- &lrm;[العربية](./README-ar.md)
 - [English](./README.md)
 - [Català](./README-ca.md)
 - [Deutsch](./README-de.md)
