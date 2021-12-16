@@ -14,7 +14,7 @@
 
 现已支持以下语言：
 
-- [العربية](./README-ar.md)
+k- &lrm;[العربية](./README-ar.md)
 - [English](./README.md)
 - [Català](./README-ca.md)
 - [Deutsch](./README-de.md)
