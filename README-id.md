@@ -14,7 +14,7 @@
 
 Berbagai pilihan bahasa lainnya:
 
-- [العربية](./README-ar.md)
+- &ltr;[العربية](./README-ar.md)
 - [English](./README.md)
 - [Català](./README-ca.md)
 - [Deutsch](./README-de.md)
