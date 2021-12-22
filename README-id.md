@@ -22,6 +22,7 @@ Berbagai pilihan bahasa lainnya:
 - [پارسی](./README-fa.md)
 - [Français](./README-fr.md)
 - [Bahasa Indonesia](./README-id.md)
+- [Italiano](./README-it.md)
 - [日本語](./README-jp.md)
 - [Português](./README-pt.md)
 - [Русский](./README-ru.md)

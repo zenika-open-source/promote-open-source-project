@@ -14,7 +14,7 @@
 
 現已支持以下語言：
 
-- [العربية](./README-ar.md)
+- &lrm;[العربية](./README-ar.md)
 - [English](./README.md)
 - [Català](./README-ca.md)
 - [Deutsch](./README-de.md)
@@ -22,6 +22,7 @@
 - [پارسی](./README-fa.md)
 - [Français](./README-fr.md)
 - [Bahasa Indonesia](./README-id.md)
+- [Italiano](./README-it.md)
 - [日本語](./README-jp.md)
 - [Português](./README-pt.md)
 - [Русский](./README-ru.md)
@@ -314,6 +315,11 @@
     <td align="center"><a href="https://github.com/JustE3saR"><img src="https://avatars.githubusercontent.com/u/62352949?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mohammed Taha</b></sub></a><br /><a href="#translation-JustE3saR" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/Tazminia"><img src="https://avatars.githubusercontent.com/u/41241424?v=4?s=100" width="100px;" alt=""/><br /><sub><b>T. JEGHAM</b></sub></a><br /><a href="https://github.com/zenika-open-source/promote-open-source-project/pulls?q=is%3Apr+reviewed-by%3ATazminia" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/Tarektouati"><img src="https://avatars.githubusercontent.com/u/19335073?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tarek Touati</b></sub></a><br /><a href="https://github.com/zenika-open-source/promote-open-source-project/pulls?q=is%3Apr+reviewed-by%3ATarektouati" title="Reviewed Pull Requests">👀</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/simonecorsi"><img src="https://avatars.githubusercontent.com/u/5617452?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Simone Corsi</b></sub></a><br /><a href="#translation-simonecorsi" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/atogue"><img src="https://avatars.githubusercontent.com/u/5642182?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anicet Togue</b></sub></a><br /><a href="https://github.com/zenika-open-source/promote-open-source-project/pulls?q=is%3Apr+reviewed-by%3Aatogue" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/krzysztof-juszcze-01b395118/"><img src="https://avatars.githubusercontent.com/u/17763895?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Krzysztof Juszcze</b></sub></a><br /><a href="https://github.com/zenika-open-source/promote-open-source-project/commits?author=Gerappa92" title="Documentation">📖</a></td>
   </tr>
 </table>
 
