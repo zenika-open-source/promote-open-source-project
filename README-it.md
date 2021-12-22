@@ -1,4 +1,3 @@
-<div dir="rtl">
 <p align="center">
     <img alt="oss image" src="./imgs/zoss-logo.svg" height="200px" width="200px">
 </p>
@@ -9,13 +8,13 @@
   </a>
 </p>
 
-<h1 align="center">دليل نشر وتطوير المشاريع مفتوحة المصدر</h1>
+<h1 align="center">Promuovere progetti open source</h1>
 
-> يساعدك هذا المحتوى على تقديم مشروعك مفتوح المصدر بشكل أفضل وأسرع
+> In questi appunti sono riassunti alcuni passaggi importanti da seguire per poter promuovere efficacemente il vostro progetto open source. Potete cliccare un elemento per espandere l'argomento ed avere più informazioni.
 
-قائمة اللغات المتوفرة:
+Lista delle lingue disponibili:
 
-- [العربية](./README-ar.md)
+- &lrm;[العربية](./README-ar.md)
 - [English](./README.md)
 - [Català](./README-ca.md)
 - [Deutsch](./README-de.md)
@@ -32,102 +31,102 @@
 - [简体中文](./README-zh-cn.md)
 - [繁體中文](./README-zh-tw.md)
 
-لا يمكنك إيجاد لغتك؟ تريد تطوير هذا الدليل؟ [نحن نرحّب بالمساهمين](./CONTRIBUTING.md)
-    
-[نسخة PDF من هذا الدليل](./pdf/cheat-sheet.pdf)
+Non trovi la tua lingua? Vuoi migliorare questi appunti? I vostri [contributi sono sempre benvenute](./CONTRIBUTING.md)!
 
-## &rlm;1. 🎢 المتطلبات الأساسية
+[Una versione in PDF di questi appunti è presente qui](./pdf/cheat-sheet.pdf)
+
+## 1. 🎢  Fase preliminare
 
 <br />
 
 <details>
-<summary>👌 تأكد من تطوير مشروعك بشكل كافٍ</summary>
+<summary>👌 Assicurati che il progetto sia abbastanza maturo</summary>
 <p>
 
-> يجب أن يكون المشروع/البرنامج مستقرًا بدرجة كافية حتى لا يواجه المستخدمون مشكلة في استخدامه!
+> Il tuo progetto deve essere abbastanza stabile e con un set minimo di feature per poter catturare l'attenzione dei visitatori.
 
 </p>
 </details>
 
 <details>
-<summary>😎 اختر اسمًا جيدًا للمشروع</summary>
+<summary>😎 Scegli un bel nome per il tuo progetto</summary>
 <p>
 
-> اختر اسمًا للتطبيق يمكن للمستخدمين تذكره بسهولة
+> Scegli un nome che si possa ricordare facilmente.
 
 </p>
 </details>
 
 <details>
-<summary>💅 اكتب ملف README بسيطاً وجميلاً للبرنامج</summary>
+<summary>💅 Crea un README accattivante</summary>
 <p>
 
-> ملف README هو أول ما يراه الزائرون ، لذا اجعله بسيطًا وجميلًا وسهل القراءة، [إليك قائمة بأمثلة README](https://github.com/matiassingers/awesome-readme).
+> Il README è la prima cosa che i visitatori vedranno. Fallo semplice, accattivante e facile da leggere. [Qui una lista di README ben fatti](https://github.com/matiassingers/awesome-readme).
 
 </p>
 </details>
 
 <details>
-<summary>💪 تسليط الضوء على نقاط القوة في المشروع</summary>
+<summary>💪 Sottolinea i punti forti del tuo progetto</summary>
 <p>
 
-> حدد نقاط قوة المشروع و وضحها للزوار
+> Identifica i punti forti e fai in modo che siano tra le prime cose che gli utenti vedranno.
 
 </p>
 </details>
 
 <details>
-<summary>✨ اعرض مثالاً توضيحيًا لتطبيقك</summary>
+<summary>✨ Metti a disposizione una demo del tuo progetto</summary>
 <p>
 
-> في الزيارة الأولى ، قد لا يفهم الزوار كيفية عمل المشروع والغرض منه ، لذا يمكنك عرض مثال توضيحي للبرنامج بالطرق التالية:
+> I visitatori vorranno velocemente capire lo scopo del tuo progetto, come funziona e come usarlo. Preparare una demo è il modo più efficace per soddisfarli. Potrebbe essere:
 >
-> - صورة متحركة بتنسيق GIF توضح كيفية عمل مشروعك
-> - رابط ينقل الزائر إلى المثال التوضيحي
+> - Una GIF animata che mostra come funziona;
+> - Un link ad una demo interattiva.
 
 </p>
 </details>
 
 <details>
-<summary>👌 تثبيت واستخدام البرنامج بسيط جدا وسلس</summary>
+<summary>👌 L'installazione e l'utilizzo devono essere semplici</summary>
 <p>
 
-> من المحتمل أن تفقد الزوار إذا لم يكن مشروعك سهل الاستخدام.
+> Probabilmente perderai utenti se il tuo progetto non è user-friendly.
 
 </p>
 </details>
 
 <details>
-<summary>📘 تحضير ملف وثائق المشروع</summary>
+<summary>📘 Crea una documentazione pulita e ben strutturata</summary>
 <p>
 
-> يعد عمل المستندات من أهم الخطوات. إذا كان لديك وثائق قصيرة لمشروعك ، فيمكنك إتاحتها للجمهور مع ملف README. يمكن أن تساعدك نفس وثائق [vuepress](https://v1.vuepress.vuejs.org) في كتابة وثائق مشروعك بطلاقة وجمال.
+> Creare una buona documentazione è probabilmente la fase più importante. Se hai poco da documentare, puoi includerlo tutto nel tuo README. Altrimenti, probabilmente dovresti creare un sito web dedicato. Alcuni progetti open source come [vuepress](https://v1.vuepress.vuejs.org) possono aiutarti nel creare una documentazione pulita in maniera semplice.
 
  </p>
 </details>
 
 <br />
 
-## &rlm;2. 📢 أخبر العالم من حولك عن عملك الشاق
+## 2. 📢 Spargi la voce e mostra i risultati dei tuoi sforzi
 
 <br />
 
 <details>
-<summary>⭐ اجعل مشروعك موثوقاً به قبل نشره على وسائل التواصل الاجتماعي</summary>
+<summary>⭐ Fa si che il progetto sembri affidabile prima di publicarlo sui social networks</summary>
 <p>
 
-> سيتحقق معظم الزوار من عدد النجوم التي يمتلكها المشروع قبل التفكير في استخدامه. يجعل الحد الأدنى من النجوم مشروعك أكثر موثوقية من مشروع بدون نجوم. لهذا السبب يجب أن تطلب من الأشخاص الذين تعرفهم دعم مشروعك قبل إصدار إعلان عام على وسائل التواصل الاجتماعي.
+> Molti utenti controlleranno quante stelle ha il progetto  prima di considerare se usarlo. Un minimo numero di stelle fa sembra il tuo progetto più affidabile di uno con zero. Dovresti provare a chiedere alle persone che conosci di aiutarti supportando il tuo progetto prima di fare un annuncio publico sui social media.
 
 </p>
 </details>
 
 <details>
-<summary>↗️ أنشر المشروع على وسائل التواصل الاجتماعي و المنصات المخصصة</summary>
+<summary>↗️ Condividi il progetto sui social media ed altre piattaforme specializzate</summary>
 <p>
 
-> أخبر العالم عن عملك الرائع! النشر على مواقع التواصل الاجتماعي والمنصات المتخصصة:
+> Racconta al mondo il tuo fantastico progetto! Publica sui social media e piattaforme specializzate:
 >
-> - &rlm;[Twitter](https://twitter.com)
+> - [Twitter](https://twitter.com)
 > - [Linkedin](https://www.linkedin.com/)
 > - [Facebook](https://www.facebook.com/)
 > - [Reddit](https://www.reddit.com/)
@@ -142,106 +141,105 @@
 </details>
 
 <details>
-<summary>📃 اكتب مقالات عن مشروعك</summary>
+<summary>📃 Scrivi degli articoli dove menzioni il tuo progetto</summary>
 <p>
 
-> اكتب مقالاً عن مشروعك. حول كيفية عملِه ، والمشكلات التي ظهرت لك أثناء الإنشاء ، وما إلى ذلك ، يمكنك نشره على المنصات التالية:
+> Scrivi degli articoli sul tuo progetto. Puoi parlare della stack tecnologica utilizzata, come funziona, i problemi che hai incontrato e risolto, etc. Publicalo su piattaforme specializzate:
 >
-> - &rlm;[medium](https://medium.com/)
+> - [medium](https://medium.com/)
 > - [dev.to](https://dev.to/)
 
 </p>
 </details>
 
 <details>
-<summary>🎤 قدم مشروعك في المؤتمرات</summary>
+<summary>🎤 Presenta il tuo progetto ad una conferenza o un meetup</summary>
 <p>
 
-> يعد تقديم مشروعك في المؤتمرات أو اللقاءات طريقة جيدة لتحسين ظهوره.
+> Presentare il tuo progetto ad una conferenza o un meetup è un buon modo per aumentarne la visibilità.
 
 </p>
 </details>
 
 <details>
-<summary>🎥 قم بتسجيل ونشر مقاطع فيديو تعرض مشروعك ، وكيف يعمل ، وما إلى ذلك</summary>
+<summary>🎥 Registra e publica video dove presenti il tuo progetto, come funziona, etc</summary>
 <p>
 
-> تسجيل مقطع فيديو ليس سهلاً. ومع ذلك ، من المحتمل أن تكون الطريقة الأكثر فاعلية لجعل مشروعك مشهورًا.
+> Registrare un video non è un esercizio semplice, ma è probabilmente la maniera più efficace per rendere il tuo progetto famoso.
 
 </p>
 </details>
 
 <details>
-<summary>🕐 اختر أفضل وقت للنشر على وسائل التواصل الاجتماعي</summary>
+<summary>🕐 Scegli il miglior orario per publicare sui social media</summary>
 <p>
 
-> لا تنشر خلال فترة الإجازات أو عطلات نهاية الأسبوع. عادةً ما يكون أفضل وقت للنشر على الشبكات الاجتماعية هو منتصف الأسبوع.
+> Non publicare durante le feste o i fine settimana. Di solito il miglior orario per publicare è in mezzo alla settimana.
 
 </p>
 </details>
 
 <details>
-<summary>🗑 لا تزعج المنصات بترويجك</summary>
+<summary>🗑 Non fare spam sulle piattaforme</summary>
 <p>
 
-> لا تنشر مرتين على نفس المنصة. سيتم اعتباره عشوائيًا وقد يتسبب في دعاية سيئة لمشروعك.
+> Non publicare due volte (o più) sulla stessa piattaforma. Verrà considerato come spam e potrebbe generare pessima reputazione per il tuo progetto.
 
 </p>
 </details>
 
 <br />
 
-## &rlm;3. 🤝 حافظ على المستخدمين
+## 3. 🤝 Tieniti stretti gli utenti
 
 <br />
 
 <details>
-<summary>🆕 حاول إصدار إصدارات جديدة من مشروعك بانتظام</summary>
+<summary>🆕 Cerca di rilasciare regolarmente nuove versioni del tuo progetto</summary>
 <p>
 
-> حافظ على مشروعك وقم بتحسينه بإصدارات جديدة وقم بإنشاء سجلات التغيير.
+> Mantieni e migliora il tuo progetto con nuove release e genera dei changelog.
 
 </p>
 </details>
 
 <details>
-<summary>❗ حافظ على مشروعك وراجع مشاكله وحلها</summary>
+<summary>❗ Mantieni il progetto, gestisci gli issue aperti</summary>
 <p>
 
-> لا تدع القضايا المفتوحة دون رد. كن لطيفًا مع الأشخاص الذين استغرقوا وقتًا في فتح القضايا. 😉
+> Non lasciare issue aperti senza una risposta. Sii gentile cone le persone che hanno speso il loro tempo per aprirti un issue. 😉
 
 </p>
 </details>
 
 <details>
-<summary>🙏 ادعُ المستخدمين للمساهمة</summary>
+<summary>🙏 Invita gli utenti a contribuire</summary>
 <p>
 
-> المشروع الصحي هو مشروع مع مجتمع ومساهمين. دع المستخدمين يعرفون أنك بحاجة إلى المساعدة من خلال وضع علامات على بعض المشكلات بعلامات `contribution welcome` أو `good first issue`. [إقرأ المزيد](https://help.github.com/en/articles/about-labels).
+> Un buon progetto è uno che ha una comunità e dei collaboratori. Fai sapere ai tuoi utenti che ti serve aiuto taggando alcuni issue con le label `contribution welcome` o `good first issue`. [Leggi di più sulle Label](https://help.github.com/en/articles/about-labels).
 
 </p>
 </details>
 
 <details>
-<summary>🏆 كافئ المساهمين</summary>
+<summary>🏆 Premia i collaboratori</summary>
 <p>
 
-> كن لطيفا مع الناس الذين ساعدوك! بعض المشاريع مفتوحة المصدر مثل [gatsby](https://github.com/gatsbyjs/gatsby) تكافئ المساهمين بأشياء جيدة.
-إذا كنت لا تستطيع تحمل ذلك ، فافعل منشورًا عامًا (على تويتر أو منصات أخرى) حول المساهمة واذكر المؤلف ([هنا مثال على الشكر العام](https://twitter.com/FranckAbgrall/status/1139470547492978688 )). افتح قسم "المساهمون" في المشروع README لشكرهم علنًا أو عرضهم في وثائق مشروعك أو موقع الويب الخاص بك. وهنا بعض الأمثلة:
+> Sii gentile con le persone che ti hanno aiutato! Alcuni progetti open source come [gatsby](https://github.com/gatsbyjs/gatsby) premiano i collaboratori con dei gadget. Se non puoi permetterlo, fai un post publico (su twitter o altre piattaforme) il contributo dato e menzionando l'autore ([qui un esempio di ringraziamento publico](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Crea una sezione `Contributors` nel tuo README per ringraziare publicamente e mostrare gli autori nella tua documentazione o sito web. Di seguito alcuni esempi:
 >
-> - &rlm;[vuepress (contributors README section)](https://github.com/vuejs/vuepress#code-contributors)
+> - [vuepress (contributors README section)](https://github.com/vuejs/vuepress#code-contributors)
 > - [Rythm.js (random highlighted contributor on demo page)](https://okazari.github.io/Rythm.js/)
 
 </p>
 </details>
 
 <details>
-<summary>💬 قم بإنشاء مجتمع أو غرفة دردشة للمشروع</summary>
+<summary>💬 Crea una comunità su una piattaforma di messagistica</summary>
 <p>
 
-> لا تعد مشكلات Github دائمًا أفضل طريقة للتواصل مع المستخدمين. إذا لزم الأمر ، يمكنك استخدام منصات الدردشة للمناقشة معهم:
+> Gli issue di github non sono spesso la maniera migliore per comunicare con i tuoi utenti. Se necessario utilizza altre piattaforme per discutere con loro, ad esempio:
 >
-> - &rlm;[Discord](https://discord.com)
+> - [Discord](https://discord.com)
 > - [Slack](https://slack.com)
 > - [Gitter](https://gitter.im/)
 
@@ -249,34 +247,34 @@
 </details>
 
 <details>
-<summary>🔙 إطلب آراء المستخدمين</summary>
+<summary>🔙 Chiedi un feedback</summary>
 <p>
 
-> آراء المستخدمين هي أفضل طريقة لتحسين مشروعك. ربما لديهم ميزات وأفكار يمكن أن تجعل مشروعك أفضل.
+> I feedback degli utenti sono la maniera migliore per migliorare il progetto. Probabilmetne hanno idee che renderanno migliore il tuo progetto.
 
 </p>
 </details>
 
 <details>
-<summary>❤️ أنشئ معرضًا لتظهر للمستخدمين ما صنعوه من مشروعك</summary>
+<summary>❤️ Apri una galleria con gli use-case per mostrare cosa gli utenti hanno costruito usando il tuo progetto</summary>
 <p>
 
-> سيثق الزوار في مشروعك إذا رأوا حالات استخدام وقصص نجاح ملموسة ، على سبيل المثال ، [the vuepress gallery](https://vuepress.gallery/).
+> I visitatori crederanno di più al tuo progetto se vedranno degli use-case concreti e delle storie di successo, come ad esempio, [the vuepress gallery](https://vuepress.gallery/).
 
 </p>
 </details>
 
 <br />
 
-## &rlm;🙏 أظهر دعمك لنا
+## 🙏 Mostraci il tuo supporto
 
-&rlm;⭐️ إذا كنت تحب هذه المقالة ، قم بنشرها و أعطِنا **نجمة**
+Metti una ⭐️ se questo repository ti è stato di aiuto!
 
 <br />
 
-## &rlm;❤️ المساهمين
+## ❤️ Contributors
 
-شكراً لهؤلاء الأشخاص الرائعين:
+Un grazie va a queste persone meravigliose:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -329,6 +327,5 @@
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-    
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-</div>
+
+Questo progetto segue la specifica [all-contributors](https://github.com/all-contributors/all-contributors). Contributi di ogni genere sono sempre benvenuti!
