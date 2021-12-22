@@ -114,13 +114,12 @@ Ada bahasa yang belum ditambahkan? Ingin ikut berkontribusi? [Yuk berkontribusi]
 <summary>⭐ Buatlah proyekmu terpercaya sebelum mempublikasikannya ke media sosial</summary>
 <p>
 
-> Biasanya, pengunjung akan melihat banyaknya "Stars" yang proyek Anda punya sebelum mengambil keputusan. Setidaknya, beberapa "Stars" dapat membuat proyek Anda lebih terpercaya ketimbang proyek yang memiliki 0 "Stars". Itulah mengapa Anda harus mengajak orang terdekat untuk membantu Anda.
+> Biasanya, pengunjung akan melihat banyaknya "Stars" yang proyek Anda punya sebelum mengambil keputusan. Setidaknya, beberapa "Stars" dapat membuat proyek Anda lebih dapat dipercaya ketimbang proyek yang memiliki 0 "Stars". Itulah mengapa Anda harus mengajak orang terdekat untuk membantu Anda.
 
 </p>
 </details>
 
 <details>
-<summary>↗️ Share the project on social media and specialized platforms</summary>
 <summary>↗️ Sebarkan proyekmu di media sosial dan media khusus</summary>
 <p>
 
@@ -183,61 +182,62 @@ Ada bahasa yang belum ditambahkan? Ingin ikut berkontribusi? [Yuk berkontribusi]
 <summary>🗑 Jangan membuat riuh media dengan promosimu</summary>
 <p>
 
-> Jangan mempublikasi dua kali ke medai yang sama. Itu akan dideteksi sebagai spam dan mengurangi reputasi proyekmu.
+> Jangan mempublikasi dua kali ke media yang sama. Itu akan dideteksi sebagai spam dan mengurangi reputasi proyekmu.
 
 </p>
 </details>
 
 <br />
 
-## 3. 🤝 Keep your users
+## 3. 🤝 Pertahankan pengguna Anda
 
 <br />
 
 <details>
-<summary>🆕 Try to regularly release new versions of your project</summary>
+<summary>🆕 Berusahalah untuk merilis versi baru dari waktu ke waktu</summary>
 <p>
 
-> Maintain and improve your project with new releases and generate changelogs.
+> Jaga dan tingkatkan proyke Anda dengan versi baru dan riwayat pergantian.
 
 </p>
 </details>
 
 <details>
-<summary>❗ Maintain your project, process opened issues</summary>
+<summary>❗ Jaga proyek Anda, proses isu-isu yang ada</summary>
 <p>
 
-> Do not let opened issues without response. Be nice with people that took time to open issues. 😉
+> Jangan biarkan satupun isu tanpa respon. Berbaik hatilah kepada orang yang membuka isu tersebut. 😉
 
 </p>
 </details>
 
 <details>
-<summary>🙏 Invite users to contribute</summary>
+<summary>🙏 Undang pengguna untuk berkontribusi</summary>
 <p>
 
 > A healthy project is a project with a community and contributors. Let your users know that you need help by tagging some issues with `contribution welcome` or `good first issue` labels. [See github labels](https://help.github.com/en/articles/about-labels).
+> Proyek yang berkualitas adalah proyek dengan komunitas dan kontributor yang aktif. Jadikan penggunamu tahu bahwa kamu butuh bantuan dengan melabelkan isu-isu dengan label `contribution welcome` atau `good first issue`. [Lihat github labels](https://help.github.com/en/articles/about-labels).
 
 </p>
 </details>
 
 <details>
-<summary>🏆 Reward contributors</summary>
+<summary>🏆 Hargai kontributor</summary>
 <p>
 
-> Be nice with people that helped you! Some open source projects like [gatsby](https://github.com/gatsbyjs/gatsby) reward contributors with goodies. If you can't afford that, do a public post (on twitter or other platforms) about the contribution and mention the author ([here is an example of public thanks](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Open a `Contributors` section in your README to publicly thank them or showcase them on your project documentation or website. Here are some examples:
+> Jadilah baik dengan orang-orang yang membantumu! Beberapa proyek seperti [gatsby](https://github.com/gatsbyjs/gatsby) memberikan hadiah keren kepada kontributor seperti kaos. Jika Anda tidak dapat mengikuti metode tersebut, Anda dapat memberikan kata terima kasih lewat media sosial ([ini contohnya](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Buka bagian `Contributors` di README untuk memberikan kata terima kasih atau tampilkan mereka di panduan manual proyekmu. Berikut beberapa contohnya:
 >
-> - [vuepress (contributors README section)](https://github.com/vuejs/vuepress#code-contributors)
-> - [Rythm.js (random highlighted contributor on demo page)](https://okazari.github.io/Rythm.js/)
+> - [vuepress (bagian kontributor di README)](https://github.com/vuejs/vuepress#code-contributors)
+> - [Rythm.js (kontributor secara acak di tampilkan di halamn demo)](https://okazari.github.io/Rythm.js/)
 
 </p>
 </details>
 
 <details>
-<summary>💬 Open a community chat platform</summary>
+<summary>💬 Buatlah media komunikasi komunitas</summary>
 <p>
 
-> Github issues are not always the best way to communicate with your users. If necessary, you can use chat platforms to discuss with them:
+> GitHub Issues bukanlah yang terbaik dalam berkomunikasi dengan penggunamu. Jika perlu, Anda dapat menggunakan media komunikasi untuk berdiskusi dengan mereka:
 >
 > - [Discord](https://discord.com)
 > - [Slack](https://slack.com)
@@ -247,34 +247,34 @@ Ada bahasa yang belum ditambahkan? Ingin ikut berkontribusi? [Yuk berkontribusi]
 </details>
 
 <details>
-<summary>🔙 Ask for feedback</summary>
+<summary>🔙 Tanyakan saran</summary>
 <p>
 
-> User feedback is the best way to improve your project. They probably have features and ideas that could make your project better.
+> Saran dari pengguna adalah jalan yang terbaik dalam memperbaiki proyek Anda. Mereka kemungkinan besar memiliki ide untuk fitur yang dapat meningkatkan kualitas proyek Anda.
 
 </p>
 </details>
 
 <details>
-<summary>❤️ Open a use case gallery to show what users built with your project</summary>
+<summary>❤️ OBuka galeri studi kasus untuk memperlihatkan kreasi para pengguna menggunakan proyekmu</summary>
 <p>
 
-> Visitors will trust your project if they see concrete use cases and success stories, e.g., [the vuepress gallery](https://vuepress.gallery/).
+> Pendatang akan percaya dengan proyek Anda jika mreka melihat studi kasus yang lengkap dan cerita sukses, contohnya, [The Vuepress Gallery](https://vuepress.gallery/).
 
 </p>
 </details>
 
 <br />
 
-## 🙏 Show your support
+## 🙏 Tunjukkan kepedulian Anda
 
-⭐️ this repository if this cheat sheet helped you!
+⭐️ repositori ini jika rangkuman ini membantumu!
 
 <br />
 
-## ❤️ Contributors
+## ❤️ Para Kontributor
 
-Thanks go to these wonderful people:
+Terima kasih banyak kami berikan kepada:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -323,4 +323,4 @@ Thanks go to these wonderful people:
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+Proyek ini mengikuti spesifikasi [all-contributors](https://github.com/all-contributors/all-contributors). Kontribusi apapun akan kami sambut dengan senang hati!
