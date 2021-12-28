@@ -235,10 +235,10 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>🔙 Ask for feedback</summary>
+<summary>🔙 Дархост барой бозхурд кунид</summary>
 <p>
 
-> User feedback is the best way to improve your project. They probably have features and ideas that could make your project better.
+> Бозхурд корбарон ҳамиша беҳтарин роҳ барой беҳтар сози ва ҳал мушкилот барнома хоҳад буд, пас аз онҳо барой мушокират кумак бигирид ва аз он идее ҳой он ҳо истифода кунид.
 
 </p>
 </details>
