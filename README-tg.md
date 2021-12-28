@@ -222,10 +222,10 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>💬 Open a community chat platform</summary>
+<summary>💬 Як комюнити ио чат рум барой лоиҳа иҷод кунид</summary>
 <p>
 
-> Github issues are not always the best way to communicate with your users. If necessary, you can use chat platforms to discuss with them:
+> Қисмат "Github issue" ҳамиша маҳали барой сапт бозҳурд ҳо нахоҳад буд. Шумо митавонид аз платформҳои зир барой ин кор истифода кунид:
 >
 > - [Discord](https://discordapp.com)
 > - [Slack](https://slack.com)
