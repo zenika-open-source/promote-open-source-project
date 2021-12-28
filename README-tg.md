@@ -244,25 +244,25 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>❤️ Open a use case gallery to show what users built with your project</summary>
+<summary>❤️ Як галери бисозид то ба корбарон нишон даҳид то онҳон аз лоиҳа шумо ҷе ҷизҳо сохтанд</summary>
 <p>
 
-> Visitors will trust your project if they see concrete use cases and success stories, e.g., [the vuepress gallery](https://vuepress.gallery/)).
+> Боздидкунандагон ба шумо иътимод биштари хоҳанд дошт агар намуна ҳой кор шумо ро тавасут сойр корбарон бибинанд : [the vuepress gallery](https://vuepress.gallery/)).
 
 </p>
 </details>
 
 <br />
 
-## 🙏 Show your support
+## 🙏 Ҳемоят кунид
 
-⭐️ this repository if this cheat sheet helped you!
+ Агар ин матлаб хушитон омад он ро мунташир ⭐️ кунид
 
 <br />
 
-## ❤️ Contributors
+## ❤️ Мушорикат кунандагон
 
-Thanks go to these wonderful people:
+Сипосгузорим аз ин афрод шагафт аҷиб:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
