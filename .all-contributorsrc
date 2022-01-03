@@ -299,6 +299,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "HanzCEO",
+      "name": "Hanz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40712686?v=4",
+      "profile": "https://godot.id/",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,

@@ -317,6 +317,12 @@ Terima kasih banyak kami berikan kepada:
     <td align="center"><a href="https://github.com/Tazminia"><img src="https://avatars.githubusercontent.com/u/41241424?v=4?s=100" width="100px;" alt=""/><br /><sub><b>T. JEGHAM</b></sub></a><br /><a href="https://github.com/zenika-open-source/promote-open-source-project/pulls?q=is%3Apr+reviewed-by%3ATazminia" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/Tarektouati"><img src="https://avatars.githubusercontent.com/u/19335073?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tarek Touati</b></sub></a><br /><a href="https://github.com/zenika-open-source/promote-open-source-project/pulls?q=is%3Apr+reviewed-by%3ATarektouati" title="Reviewed Pull Requests">👀</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/simonecorsi"><img src="https://avatars.githubusercontent.com/u/5617452?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Simone Corsi</b></sub></a><br /><a href="#translation-simonecorsi" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/atogue"><img src="https://avatars.githubusercontent.com/u/5642182?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anicet Togue</b></sub></a><br /><a href="https://github.com/zenika-open-source/promote-open-source-project/pulls?q=is%3Apr+reviewed-by%3Aatogue" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/krzysztof-juszcze-01b395118/"><img src="https://avatars.githubusercontent.com/u/17763895?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Krzysztof Juszcze</b></sub></a><br /><a href="https://github.com/zenika-open-source/promote-open-source-project/commits?author=Gerappa92" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://godot.id/"><img src="https://avatars.githubusercontent.com/u/40712686?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hanz</b></sub></a><br /><a href="#translation-HanzCEO" title="Translation">🌍</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-restore -->
