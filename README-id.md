@@ -1,4 +1,3 @@
-<div dir="rtl">
 <p align="center">
     <img alt="oss image" src="./imgs/zoss-logo.svg" height="200px" width="200px">
 </p>
@@ -9,13 +8,13 @@
   </a>
 </p>
 
-<h1 align="center">دليل نشر وتطوير المشاريع مفتوحة المصدر</h1>
+<h1 align="center">Panduan promosi proyek Open source</h1>
 
-> يساعدك هذا المحتوى على تقديم مشروعك مفتوح المصدر بشكل أفضل وأسرع
+> Panduan sederhana ini merangkum langkah-langkah utama yang baik dilakukan untuk memasarkan proyek open source untuk hasil yang memuaskan. Anda dapat menekan setiap poin untuk penjelasan yang lebih lengkap.
 
-قائمة اللغات المتوفرة:
+Berbagai pilihan bahasa lainnya:
 
-- [العربية](./README-ar.md)
+- &ltr;[العربية](./README-ar.md)
 - [English](./README.md)
 - [Català](./README-ca.md)
 - [Deutsch](./README-de.md)
@@ -32,102 +31,102 @@
 - [简体中文](./README-zh-cn.md)
 - [繁體中文](./README-zh-tw.md)
 
-لا يمكنك إيجاد لغتك؟ تريد تطوير هذا الدليل؟ [نحن نرحّب بالمساهمين](./CONTRIBUTING.md)
-    
-[نسخة PDF من هذا الدليل](./pdf/cheat-sheet.pdf)
+Ada bahasa yang belum ditambahkan? Ingin ikut berkontribusi? [Yuk berkontribusi](./CONTRIBUTING.md)!
 
-## &rlm;1. 🎢 المتطلبات الأساسية
+[Versi PDF dari panduan ini dapat dilihat disini.](./pdf/cheat-sheet.pdf)
+
+## 1. 🎢 Persiapan
 
 <br />
 
 <details>
-<summary>👌 تأكد من تطوير مشروعك بشكل كافٍ</summary>
+<summary>👌 Pastikan proyek Anda pantas ditampilkan</summary>
 <p>
 
-> يجب أن يكون المشروع/البرنامج مستقرًا بدرجة كافية حتى لا يواجه المستخدمون مشكلة في استخدامه!
+> Proyek Anda harus cukup stabil dan memiliki setidaknya fitur yang diperlukan agar dapat menarik perhatian.
 
 </p>
 </details>
 
 <details>
-<summary>😎 اختر اسمًا جيدًا للمشروع</summary>
+<summary>😎 Pilih nama proyek yang keren</summary>
 <p>
 
-> اختر اسمًا للتطبيق يمكن للمستخدمين تذكره بسهولة
+> Pilihlah nama yang mudah diingat.
 
 </p>
 </details>
 
 <details>
-<summary>💅 اكتب ملف README بسيطاً وجميلاً للبرنامج</summary>
+<summary>💅 Percantiklah README</summary>
 <p>
 
-> ملف README هو أول ما يراه الزائرون ، لذا اجعله بسيطًا وجميلًا وسهل القراءة، [إليك قائمة بأمثلة README](https://github.com/matiassingers/awesome-readme).
+> README adalah yang pertama dilihat oleh pengunjung. Jadikanlah ia sederhana, cantik, dan mudah dibaca. [Inilah koleksi README yang cantik](https://github.com/matiassingers/awesome-readme)
 
 </p>
 </details>
 
 <details>
-<summary>💪 تسليط الضوء على نقاط القوة في المشروع</summary>
+<summary>💪 Pamerkan keunggulan proyekmu</summary>
 <p>
 
-> حدد نقاط قوة المشروع و وضحها للزوار
+> Munculkan keunggulan proyekmu dan pastikan pengunjung melihatnya dulu.
 
 </p>
 </details>
 
 <details>
-<summary>✨ اعرض مثالاً توضيحيًا لتطبيقك</summary>
+<summary>✨ Fasilitasi demonstrasi proyek</summary>
 <p>
 
-> في الزيارة الأولى ، قد لا يفهم الزوار كيفية عمل المشروع والغرض منه ، لذا يمكنك عرض مثال توضيحي للبرنامج بالطرق التالية:
+> Pengunjung akan cepat menyerap tujuan dari proyek Anda, tentang bagaimana itu berkerja dan bagaimana cara menggunakannya. Memfasilitasi demonstrasi adalah cara terbaik untuk memuaskan pengguna. Contohnya:
 >
-> - صورة متحركة بتنسيق GIF توضح كيفية عمل مشروعك
-> - رابط ينقل الزائر إلى المثال التوضيحي
+> - Sebuah animasi GIF yang menjelaskan cara kerja proyekmu
+> - Tautan kepada demonstrasi yang interaktif
 
 </p>
 </details>
 
 <details>
-<summary>👌 تثبيت واستخدام البرنامج بسيط جدا وسلس</summary>
+<summary>👌 Proses instalasi dan penggunaannya harus mudah</summary>
 <p>
 
-> من المحتمل أن تفقد الزوار إذا لم يكن مشروعك سهل الاستخدام.
+> Anda akan kehilangan pengguna jika proyek Anda sulit digunakan.
 
 </p>
 </details>
 
 <details>
-<summary>📘 تحضير ملف وثائق المشروع</summary>
+<summary>📘 Buatlah panduan manual yang rapi</summary>
 <p>
 
-> يعد عمل المستندات من أهم الخطوات. إذا كان لديك وثائق قصيرة لمشروعك ، فيمكنك إتاحتها للجمهور مع ملف README. يمكن أن تساعدك نفس وثائق [vuepress](https://v1.vuepress.vuejs.org) في كتابة وثائق مشروعك بطلاقة وجمال.
+> Membuat panduan manual yang berkualitas pastinya adalah langkah yang penting. Jika Anda hanya mempunyai panduan kecil, Anda dapat menyelipkannya ke README. Sebaliknya, Anda dapat menyimpannya di laman terpisah. Beberapa proyek open source seperti [vuepress](https://v1.vuepress.vuejs.org) dapat membantu Anda membuat panduan manual dengan mudah.
 
  </p>
 </details>
 
 <br />
 
-## &rlm;2. 📢 أخبر العالم من حولك عن عملك الشاق
+## 2. 📢 Sebarkan usaha kerja kerasmu
 
 <br />
 
 <details>
-<summary>⭐ اجعل مشروعك موثوقاً به قبل نشره على وسائل التواصل الاجتماعي</summary>
+<summary>⭐ Buatlah proyekmu terpercaya sebelum mempublikasikannya ke media sosial</summary>
 <p>
 
-> سيتحقق معظم الزوار من عدد النجوم التي يمتلكها المشروع قبل التفكير في استخدامه. يجعل الحد الأدنى من النجوم مشروعك أكثر موثوقية من مشروع بدون نجوم. لهذا السبب يجب أن تطلب من الأشخاص الذين تعرفهم دعم مشروعك قبل إصدار إعلان عام على وسائل التواصل الاجتماعي.
+> Biasanya, pengunjung akan melihat banyaknya "Stars" yang proyek Anda punya sebelum mengambil keputusan. Setidaknya, beberapa "Stars" dapat membuat proyek Anda lebih dapat dipercaya ketimbang proyek yang memiliki 0 "Stars". Itulah mengapa Anda harus mengajak orang terdekat untuk membantu Anda.
 
 </p>
 </details>
 
 <details>
-<summary>↗️ أنشر المشروع على وسائل التواصل الاجتماعي و المنصات المخصصة</summary>
+<summary>↗️ Sebarkan proyekmu di media sosial dan media khusus</summary>
 <p>
 
-> أخبر العالم عن عملك الرائع! النشر على مواقع التواصل الاجتماعي والمنصات المتخصصة:
+> Beritahukan kepada dunia mengenai produkmu! Publikasikan ke salah satu dari yang dibawah:
 >
-> - &rlm;[Twitter](https://twitter.com)
+> - [Twitter](https://twitter.com)
 > - [Linkedin](https://www.linkedin.com/)
 > - [Facebook](https://www.facebook.com/)
 > - [Reddit](https://www.reddit.com/)
@@ -142,106 +141,106 @@
 </details>
 
 <details>
-<summary>📃 اكتب مقالات عن مشروعك</summary>
+<summary>📃 Tulis aritkel yang menyebutkan proyekmu</summary>
 <p>
 
-> اكتب مقالاً عن مشروعك. حول كيفية عملِه ، والمشكلات التي ظهرت لك أثناء الإنشاء ، وما إلى ذلك ، يمكنك نشره على المنصات التالية:
+> Tulis artikel tentang proyekmu. Tujuannya dapat menjadi bagaimana proyekmu bekerja, masalah apa yang didapat, dsb. Publikasikan ke media publikasi:
 >
-> - &rlm;[medium](https://medium.com/)
+> - [medium](https://medium.com/)
 > - [dev.to](https://dev.to/)
 
 </p>
 </details>
 
 <details>
-<summary>🎤 قدم مشروعك في المؤتمرات</summary>
+<summary>🎤 Presentasikan proyekmu di banyak pertemuan</summary>
 <p>
 
-> يعد تقديم مشروعك في المؤتمرات أو اللقاءات طريقة جيدة لتحسين ظهوره.
+> Dengan mempresentasikan proyekmu didepan umum, proyekmu akan dapat lebih banyak perhatian.
 
 </p>
 </details>
 
 <details>
-<summary>🎥 قم بتسجيل ونشر مقاطع فيديو تعرض مشروعك ، وكيف يعمل ، وما إلى ذلك</summary>
+<summary>🎥 Buatlah video yang mempresentasikan proyekmu, bagaimana ia bekerja, dsb.</summary>
 <p>
 
-> تسجيل مقطع فيديو ليس سهلاً. ومع ذلك ، من المحتمل أن تكون الطريقة الأكثر فاعلية لجعل مشروعك مشهورًا.
+> Merekam video bukanlah sesuatu yang mudah. Tapi, itu adalah metode yang paling efektif untuk membuat proyekmu terkenal.
 
 </p>
 </details>
 
 <details>
-<summary>🕐 اختر أفضل وقت للنشر على وسائل التواصل الاجتماعي</summary>
+<summary>🕐 Pilih waktu yang tepat untuk publikasi di media sosial</summary>
 <p>
 
-> لا تنشر خلال فترة الإجازات أو عطلات نهاية الأسبوع. عادةً ما يكون أفضل وقت للنشر على الشبكات الاجتماعية هو منتصف الأسبوع.
+> Jangan publikasikan ketika musim liburan atau akhir pekan. Biasanya, waktu yang tepat adalah ditengah minggu.
 
 </p>
 </details>
 
 <details>
-<summary>🗑 لا تزعج المنصات بترويجك</summary>
+<summary>🗑 Jangan membuat riuh media dengan promosimu</summary>
 <p>
 
-> لا تنشر مرتين على نفس المنصة. سيتم اعتباره عشوائيًا وقد يتسبب في دعاية سيئة لمشروعك.
+> Jangan mempublikasi dua kali ke media yang sama. Itu akan dideteksi sebagai spam dan mengurangi reputasi proyekmu.
 
 </p>
 </details>
 
 <br />
 
-## &rlm;3. 🤝 حافظ على المستخدمين
+## 3. 🤝 Pertahankan pengguna Anda
 
 <br />
 
 <details>
-<summary>🆕 حاول إصدار إصدارات جديدة من مشروعك بانتظام</summary>
+<summary>🆕 Berusahalah untuk merilis versi baru dari waktu ke waktu</summary>
 <p>
 
-> حافظ على مشروعك وقم بتحسينه بإصدارات جديدة وقم بإنشاء سجلات التغيير.
+> Jaga dan tingkatkan proyke Anda dengan versi baru dan riwayat pergantian.
 
 </p>
 </details>
 
 <details>
-<summary>❗ حافظ على مشروعك وراجع مشاكله وحلها</summary>
+<summary>❗ Jaga proyek Anda, proses isu-isu yang ada</summary>
 <p>
 
-> لا تدع القضايا المفتوحة دون رد. كن لطيفًا مع الأشخاص الذين استغرقوا وقتًا في فتح القضايا. 😉
+> Jangan biarkan satupun isu tanpa respon. Berbaik hatilah kepada orang yang membuka isu tersebut. 😉
 
 </p>
 </details>
 
 <details>
-<summary>🙏 ادعُ المستخدمين للمساهمة</summary>
+<summary>🙏 Undang pengguna untuk berkontribusi</summary>
 <p>
 
-> المشروع الصحي هو مشروع مع مجتمع ومساهمين. دع المستخدمين يعرفون أنك بحاجة إلى المساعدة من خلال وضع علامات على بعض المشكلات بعلامات `contribution welcome` أو `good first issue`. [إقرأ المزيد](https://help.github.com/en/articles/about-labels).
+> A healthy project is a project with a community and contributors. Let your users know that you need help by tagging some issues with `contribution welcome` or `good first issue` labels. [See github labels](https://help.github.com/en/articles/about-labels).
+> Proyek yang berkualitas adalah proyek dengan komunitas dan kontributor yang aktif. Jadikan penggunamu tahu bahwa kamu butuh bantuan dengan melabelkan isu-isu dengan label `contribution welcome` atau `good first issue`. [Lihat github labels](https://help.github.com/en/articles/about-labels).
 
 </p>
 </details>
 
 <details>
-<summary>🏆 كافئ المساهمين</summary>
+<summary>🏆 Hargai kontributor</summary>
 <p>
 
-> كن لطيفا مع الناس الذين ساعدوك! بعض المشاريع مفتوحة المصدر مثل [gatsby](https://github.com/gatsbyjs/gatsby) تكافئ المساهمين بأشياء جيدة.
-إذا كنت لا تستطيع تحمل ذلك ، فافعل منشورًا عامًا (على تويتر أو منصات أخرى) حول المساهمة واذكر المؤلف ([هنا مثال على الشكر العام](https://twitter.com/FranckAbgrall/status/1139470547492978688 )). افتح قسم "المساهمون" في المشروع README لشكرهم علنًا أو عرضهم في وثائق مشروعك أو موقع الويب الخاص بك. وهنا بعض الأمثلة:
+> Jadilah baik dengan orang-orang yang membantumu! Beberapa proyek seperti [gatsby](https://github.com/gatsbyjs/gatsby) memberikan hadiah keren kepada kontributor seperti kaos. Jika Anda tidak dapat mengikuti metode tersebut, Anda dapat memberikan kata terima kasih lewat media sosial ([ini contohnya](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Buka bagian `Contributors` di README untuk memberikan kata terima kasih atau tampilkan mereka di panduan manual proyekmu. Berikut beberapa contohnya:
 >
-> - &rlm;[vuepress (contributors README section)](https://github.com/vuejs/vuepress#code-contributors)
-> - [Rythm.js (random highlighted contributor on demo page)](https://okazari.github.io/Rythm.js/)
+> - [vuepress (bagian kontributor di README)](https://github.com/vuejs/vuepress#code-contributors)
+> - [Rythm.js (kontributor secara acak di tampilkan di halamn demo)](https://okazari.github.io/Rythm.js/)
 
 </p>
 </details>
 
 <details>
-<summary>💬 قم بإنشاء مجتمع أو غرفة دردشة للمشروع</summary>
+<summary>💬 Buatlah media komunikasi komunitas</summary>
 <p>
 
-> لا تعد مشكلات Github دائمًا أفضل طريقة للتواصل مع المستخدمين. إذا لزم الأمر ، يمكنك استخدام منصات الدردشة للمناقشة معهم:
+> GitHub Issues bukanlah yang terbaik dalam berkomunikasi dengan penggunamu. Jika perlu, Anda dapat menggunakan media komunikasi untuk berdiskusi dengan mereka:
 >
-> - &rlm;[Discord](https://discord.com)
+> - [Discord](https://discord.com)
 > - [Slack](https://slack.com)
 > - [Gitter](https://gitter.im/)
 
@@ -249,34 +248,34 @@
 </details>
 
 <details>
-<summary>🔙 إطلب آراء المستخدمين</summary>
+<summary>🔙 Tanyakan saran</summary>
 <p>
 
-> آراء المستخدمين هي أفضل طريقة لتحسين مشروعك. ربما لديهم ميزات وأفكار يمكن أن تجعل مشروعك أفضل.
+> Saran dari pengguna adalah jalan yang terbaik dalam memperbaiki proyek Anda. Mereka kemungkinan besar memiliki ide untuk fitur yang dapat meningkatkan kualitas proyek Anda.
 
 </p>
 </details>
 
 <details>
-<summary>❤️ أنشئ معرضًا لتظهر للمستخدمين ما صنعوه من مشروعك</summary>
+<summary>❤️ OBuka galeri studi kasus untuk memperlihatkan kreasi para pengguna menggunakan proyekmu</summary>
 <p>
 
-> سيثق الزوار في مشروعك إذا رأوا حالات استخدام وقصص نجاح ملموسة ، على سبيل المثال ، [the vuepress gallery](https://vuepress.gallery/).
+> Pendatang akan percaya dengan proyek Anda jika mreka melihat studi kasus yang lengkap dan cerita sukses, contohnya, [The Vuepress Gallery](https://vuepress.gallery/).
 
 </p>
 </details>
 
 <br />
 
-## &rlm;🙏 أظهر دعمك لنا
+## 🙏 Tunjukkan kepedulian Anda
 
-&rlm;⭐️ إذا كنت تحب هذه المقالة ، قم بنشرها و أعطِنا **نجمة**
+⭐️ repositori ini jika rangkuman ini membantumu!
 
 <br />
 
-## &rlm;❤️ المساهمين
+## ❤️ Para Kontributor
 
-شكراً لهؤلاء الأشخاص الرائعين:
+Terima kasih banyak kami berikan kepada:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -318,17 +317,11 @@
     <td align="center"><a href="https://github.com/Tazminia"><img src="https://avatars.githubusercontent.com/u/41241424?v=4?s=100" width="100px;" alt=""/><br /><sub><b>T. JEGHAM</b></sub></a><br /><a href="https://github.com/zenika-open-source/promote-open-source-project/pulls?q=is%3Apr+reviewed-by%3ATazminia" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/Tarektouati"><img src="https://avatars.githubusercontent.com/u/19335073?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tarek Touati</b></sub></a><br /><a href="https://github.com/zenika-open-source/promote-open-source-project/pulls?q=is%3Apr+reviewed-by%3ATarektouati" title="Reviewed Pull Requests">👀</a></td>
   </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/simonecorsi"><img src="https://avatars.githubusercontent.com/u/5617452?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Simone Corsi</b></sub></a><br /><a href="#translation-simonecorsi" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/atogue"><img src="https://avatars.githubusercontent.com/u/5642182?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anicet Togue</b></sub></a><br /><a href="https://github.com/zenika-open-source/promote-open-source-project/pulls?q=is%3Apr+reviewed-by%3Aatogue" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/krzysztof-juszcze-01b395118/"><img src="https://avatars.githubusercontent.com/u/17763895?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Krzysztof Juszcze</b></sub></a><br /><a href="https://github.com/zenika-open-source/promote-open-source-project/commits?author=Gerappa92" title="Documentation">📖</a></td>
-  </tr>
 </table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-    
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-</div>
+
+Proyek ini mengikuti spesifikasi [all-contributors](https://github.com/all-contributors/all-contributors). Kontribusi apapun akan kami sambut dengan senang hati!
