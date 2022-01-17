@@ -7,7 +7,6 @@
     <img alt="tweet" src="https://img.shields.io/twitter/url/https/twitter?label=Share%20on%20twitter&style=social" target="_blank" />
   </a>
 </p>
-
 <h1 align="center">Panduan promosi proyek Open source</h1>
 
 > Panduan sederhana ini merangkum langkah-langkah utama yang baik dilakukan untuk memasarkan proyek open source untuk hasil yang memuaskan. Anda dapat menekan setiap poin untuk penjelasan yang lebih lengkap.
@@ -141,10 +140,10 @@ Ada bahasa yang belum ditambahkan? Ingin ikut berkontribusi? [Yuk berkontribusi]
 </details>
 
 <details>
-<summary>📃 Tulis aritkel yang menyebutkan proyekmu</summary>
+<summary>📃 Tulis artikel yang menyebutkan proyekmu</summary>
 <p>
 
-> Tulis artikel tentang proyekmu. Tujuannya dapat menjadi bagaimana proyekmu bekerja, masalah apa yang didapat, dsb. Publikasikan ke media publikasi:
+> Tulis artikel tentang proyekmu. Isi artikel dapat menjelaskan mengenai _stack_ yang digunakan, bagaimana cara proyekmu bekerja, masalah apa yang anda temukan, dsb. Lalu publikasikan artikel ke media publikasi seperti:
 >
 > - [medium](https://medium.com/)
 > - [dev.to](https://dev.to/)
@@ -180,7 +179,7 @@ Ada bahasa yang belum ditambahkan? Ingin ikut berkontribusi? [Yuk berkontribusi]
 </details>
 
 <details>
-<summary>🗑 Jangan membuat riuh media dengan promosimu</summary>
+<summary>🗑 Jangan membuat spam di media sosial dengan promosimu</summary>
 <p>
 
 > Jangan mempublikasi dua kali ke media yang sama. Itu akan dideteksi sebagai spam dan mengurangi reputasi proyekmu.
@@ -198,13 +197,13 @@ Ada bahasa yang belum ditambahkan? Ingin ikut berkontribusi? [Yuk berkontribusi]
 <summary>🆕 Berusahalah untuk merilis versi baru dari waktu ke waktu</summary>
 <p>
 
-> Jaga dan tingkatkan proyke Anda dengan versi baru dan riwayat pergantian.
+> Jaga dan tingkatkan proyek Anda dengan versi baru dan riwayat pergantian.
 
 </p>
 </details>
 
 <details>
-<summary>❗ Jaga proyek Anda, proses isu-isu yang ada</summary>
+<summary>❗ Jaga proyek Anda, dan proses isu-isu yang ada</summary>
 <p>
 
 > Jangan biarkan satupun isu tanpa respon. Berbaik hatilah kepada orang yang membuka isu tersebut. 😉
@@ -216,8 +215,7 @@ Ada bahasa yang belum ditambahkan? Ingin ikut berkontribusi? [Yuk berkontribusi]
 <summary>🙏 Undang pengguna untuk berkontribusi</summary>
 <p>
 
-> A healthy project is a project with a community and contributors. Let your users know that you need help by tagging some issues with `contribution welcome` or `good first issue` labels. [See github labels](https://help.github.com/en/articles/about-labels).
-> Proyek yang berkualitas adalah proyek dengan komunitas dan kontributor yang aktif. Jadikan penggunamu tahu bahwa kamu butuh bantuan dengan melabelkan isu-isu dengan label `contribution welcome` atau `good first issue`. [Lihat github labels](https://help.github.com/en/articles/about-labels).
+> Proyek yang berkualitas adalah proyek dengan komunitas dan kontributor yang aktif. Jadikan penggunamu tahu bahwa anda butuh bantuan dengan melabelkan isu-isu dengan label `contribution welcome` atau `good first issue`. [Lihat github labels](https://help.github.com/en/articles/about-labels).
 
 </p>
 </details>
@@ -257,10 +255,10 @@ Ada bahasa yang belum ditambahkan? Ingin ikut berkontribusi? [Yuk berkontribusi]
 </details>
 
 <details>
-<summary>❤️ OBuka galeri studi kasus untuk memperlihatkan kreasi para pengguna menggunakan proyekmu</summary>
+<summary>❤️ Buka sebuah galeri studi kasus untuk memperlihatkan kreasi para pengguna menggunakan proyekmu</summary>
 <p>
 
-> Pendatang akan percaya dengan proyek Anda jika mreka melihat studi kasus yang lengkap dan cerita sukses, contohnya, [The Vuepress Gallery](https://vuepress.gallery/).
+> Pendatang akan percaya dengan proyek Anda jika mereka melihat studi kasus yang lengkap dan cerita sukses, contohnya, [The Vuepress Gallery](https://vuepress.gallery/).
 
 </p>
 </details>
