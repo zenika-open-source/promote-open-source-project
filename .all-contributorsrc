@@ -308,6 +308,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "RSurya99",
+      "name": "Rafli Surya P",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73375663?v=4",
+      "profile": "https://github.com/RSurya99",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
