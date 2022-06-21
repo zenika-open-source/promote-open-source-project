@@ -58,10 +58,10 @@
 </details>
 
 <details>
-<summary>💅 把您的README文檔寫得幹淨漂亮</summary>
+<summary>💅 把您的README文檔寫得乾淨漂亮</summary>
 <p>
 
-> 您的訪客們的第一件事就是閱讀您的 README 文檔，所以您得確保它幹淨漂亮、易於閱讀。[這些優秀的 README 文檔可以為您提供參考](https://github.com/matiassingers/awesome-readme)。
+> 您的訪客們的第一件事就是閱讀您的 README 文檔，所以您得確保它乾淨漂亮、易於閱讀。[這些優秀的 README 文檔可以為您提供參考](https://github.com/matiassingers/awesome-readme)。
 
 </p>
 </details>
@@ -97,10 +97,10 @@
 </details>
 
 <details>
-<summary>📘 創建一個幹淨整潔的結構化文檔</summary>
+<summary>📘 創建一個乾淨整潔的結構化文檔</summary>
 <p>
 
-> 一個優秀的文檔也許是最為重要的一步了。如果您的文檔比較小的話，您可以直接將它包含在 README 文檔裏。否則的話，您或許應該將您的文檔托管在一個獨立的網站上麵。一些開源項目比如 [vuepress](https://v1.vuepress.vuejs.org) 可以幫助您非常容易地創建幹淨整潔的文檔。
+> 一個優秀的文檔也許是最為重要的一步了。如果您的文檔比較小的話，您可以直接將它包含在 README 文檔裏。否則的話，您或許應該將您的文檔托管在一個獨立的網站上面。一些開源項目比如 [vuepress](https://v1.vuepress.vuejs.org) 可以幫助您非常容易地創建乾淨整潔的文檔。
 
  </p>
 </details>
@@ -183,7 +183,7 @@
 <summary>🗑 不要在平台上過度宣傳</summary>
 <p>
 
-> 不要在相同的平台上發布兩次。這將會被視為過度的宣傳，並且有可能為您的項目招致負麵宣傳。
+> 不要在相同的平台上發布兩次。這將會被視為過度的宣傳，並且有可能為您的項目招致負面宣傳。
 
 </p>
 </details>
@@ -228,7 +228,7 @@
 > 為那些幫助過您的人們鼓掌喝彩! 一些開源項目像是[gatsby](https://github.com/gatsbyjs/gatsby)會獎勵貢獻者們一些小禮物。如果您負擔不起，也可以在 twitter 或者其它平台上發布一封關於項目貢獻的公開感謝信，並且提及那些貢獻者們（[公開感謝信的示例](https://twitter.com/FranckAbgrall/status/1139470547492978688)）。在您的 README 文檔裏開設一個`貢獻者`欄，以此公開地感謝貢獻者們。或者您也可以在項目文檔或網站上展示您的貢獻者們。以下是一些示例：
 >
 > - [vuepress （在 README 中的貢獻者欄）](https://github.com/vuejs/vuepress#code-contributors)
-> - [Rythm.js （在展示頁麵上隨機顯示貢獻者）](https://okazari.github.io/Rythm.js/)
+> - [Rythm.js （在展示頁面上隨機顯示貢獻者）](https://okazari.github.io/Rythm.js/)
 
 </p>
 </details>
@@ -237,7 +237,7 @@
 <summary>💬 開設一個社區聊天平台</summary>
 <p>
 
-> Github 的 issue 並不總是和您的用戶溝通最好的地方。如果有需要的話，您可以使用一些聊天平台來和他們討論：
+> Github 的 issue 並不一定是和您的用戶溝通最好的地方。如果有需要的話，您可以使用一些聊天平台來和他們討論：
 >
 > - [Discord](https://discord.com)
 > - [Slack](https://slack.com)
