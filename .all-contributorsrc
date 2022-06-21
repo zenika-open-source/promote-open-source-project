@@ -317,6 +317,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "kurt-liao",
+      "name": "Kurt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32745146?v=4",
+      "profile": "https://github.com/kurt-liao",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
