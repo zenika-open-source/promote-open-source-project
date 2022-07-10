@@ -40,19 +40,19 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <br />
 
 <details>
-<summary>👌 Make sure your project is mature enough</summary>
+<summary>👌 Make sure that your project is mature enough</summary>
 <p>
 
-> Your project must be stable enough with minimum viable features in order to hook users.
+> Your project must be stable enough with the minimum viable features in order to hook users.
 
 </p>
 </details>
 
 <details>
-<summary>😎 Choose a cool name for your project</summary>
+<summary>😎 Choose a cool name for your cool project</summary>
 <p>
 
-> Choose a name users can easily remember.
+> Choose a name that users can easily remember.
 
 </p>
 </details>
@@ -61,16 +61,16 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>💅 Make your README pretty</summary>
 <p>
 
-> README is the first thing your visitors will see. Make it simple, pretty and easy to read. [Here is a list of beautiful READMEs](https://github.com/matiassingers/awesome-readme).
+> The README is the first thing your visitors will see. Make it simple, pretty and easy to read. [Here is a list of beautiful READMEs](https://github.com/matiassingers/awesome-readme).
 
 </p>
 </details>
 
 <details>
-<summary>💪 Highlight strong points of your project</summary>
+<summary>💪 Highlight the strong points of your project</summary>
 <p>
 
-> Identify your project strengths and make sure visitors see them first.
+> Identify your project's strengths and make sure visitors see them first.
 
 </p>
 </details>
@@ -79,7 +79,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>✨ Provide a demo of your project</summary>
 <p>
 
-> Visitors will want to quickly understand the purpose of your project, how it works and how to use it. Providing a demo is the best way to satisfy users. It could be:
+> Visitors will want to quickly understand the purpose of your project, how it works, and how to use it. Providing a demo is the best way to satisfy users. It could be:
 >
 > - An animated GIF demonstrating how your project works
 > - A link to a live demo
@@ -100,7 +100,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>📘 Create a clean and well structured documentation</summary>
 <p>
 
-> Creating a good documentation is probably the most important step. If you have a small documentation, you can include it within your README. Otherwise, you should probably host it in a separate website. Some open source projects like [vuepress](https://v1.vuepress.vuejs.org) can help you creating clean documentation in a simple way.
+> Creating a good documentation is probably the most important step. If you have a small documentation, you can include it within your README. Otherwise, you should probably host it in a separate website. Some open source projects like [vuepress](https://v1.vuepress.vuejs.org) can help you with creating a clean documentation in a simple way.
 
  </p>
 </details>
@@ -121,10 +121,10 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>↗️ Share the project on social media and specialized platforms</summary>
+<summary>↗️ Share your project on social media and specialized platforms</summary>
 <p>
 
-> Tell the World about your awesome work! Publish on social media and specialized platforms:
+> Tell the World about your awesome work! Publish it on social media and other specialized platforms:
 >
 > - [Twitter](https://twitter.com)
 > - [Linkedin](https://www.linkedin.com/)
@@ -144,7 +144,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>📃 Write articles that mention your project</summary>
 <p>
 
-> Write articles about your project. Purpose can be the technical stack you used, how your project works, problems you encountered, etc. Post to publishing platforms:
+> Write articles about your project. Purpose can be the technical stack you used, how your project works, problems you encountered, etc. Post it to publishing platforms:
 >
 > - [medium](https://medium.com/)
 > - [dev.to](https://dev.to/)
@@ -165,7 +165,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>🎥 Record and publish videos presenting your project, how it works, etc</summary>
 <p>
 
-> Recording a video is not an easy exercise. However it's probably the most efficient way to make your project famous.
+> Recording a video is not an easy exercise. However, it's probably the most efficient way to make your project famous.
 
 </p>
 </details>
@@ -174,7 +174,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>🕐 Choose the best time to publish on social media</summary>
 <p>
 
-> Don't publish during holidays period or weekends. Usually the best time to publish on social networks is mid-week.
+> Don't publish during holiday periods or weekends. The best time to publish on social networks is usually mid-week.
 
 </p>
 </details>
@@ -183,7 +183,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>🗑 Don't spam platforms with your promotion</summary>
 <p>
 
-> Don't publish twice on the same platform. It will be considered as spam and might cause bad publicity for your project.
+> Don't publish twice on the same platform. It will be considered as spam and it might cause bad publicity for your project.
 
 </p>
 </details>
@@ -207,7 +207,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>❗ Maintain your project, process opened issues</summary>
 <p>
 
-> Do not let opened issues without response. Be nice with people that took time to open issues. 😉
+> Do not let issues stay open without a single response. Be nice with people that took the time to open issues. 😉
 
 </p>
 </details>
