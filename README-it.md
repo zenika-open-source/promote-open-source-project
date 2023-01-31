@@ -189,7 +189,7 @@ Non trovi la tua lingua? Vuoi migliorare questi appunti? I vostri [contributi so
 </details>
 
 <details>
-<summary>🗑 Consenti ai volenterosi di aiutarti</summary>
+<summary>🔨 Consenti ai volenterosi di aiutarti</summary>
 <p>
 
 > Colleziona una serie di problemi semplici da risolvere per chi vuole cominciare a contribuire al tuo codice da zero.
