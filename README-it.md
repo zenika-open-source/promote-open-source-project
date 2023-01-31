@@ -188,6 +188,15 @@ Non trovi la tua lingua? Vuoi migliorare questi appunti? I vostri [contributi so
 </p>
 </details>
 
+<details>
+<summary>🗑 Consenti ai volenterosi di aiutarti</summary>
+<p>
+
+> Colleziona una serie di problemi semplici da risolvere per chi vuole cominciare a contribuire al tuo codice da zero.
+
+</p>
+</details>
+
 <br />
 
 ## 3. 🤝 Tieniti stretti gli utenti
