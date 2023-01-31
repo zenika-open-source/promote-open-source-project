@@ -188,6 +188,19 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </p>
 </details>
 
+
+<details>
+<summary>🔨 Allow the willing to help you</summary>
+
+> Publish a set of easy-to-solve issues for those who want to start contributing your code from scratch.
+
+<p>
+
+> Colleziona una serie di problemi semplici da risolvere per chi vuole cominciare a contribuire al tuo codice da zero.
+
+</p>
+</details>
+
 <br />
 
 ## 3. 🤝 Keep your users
