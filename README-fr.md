@@ -331,3 +331,5 @@ Merci à tous les formidables contributeurs:
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 Ce projet suit la spécification [all-contributors](https://github.com/all-contributors/all-contributors). Les contributions de tout type sont les bienvenues !
+
+![with love by zenika](https://img.shields.io/badge/With%20%E2%9D%A4%EF%B8%8F%20by-Zenika-b51432.svg?link=https://oss.zenika.com)
