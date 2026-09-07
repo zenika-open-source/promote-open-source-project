@@ -8,11 +8,11 @@
   </a>
 </p>
 
-<h1 align="center">Open source promotion cheat sheet</h1>
+<h1 align="center">오픈 소스 홍보 치트 시트</h1>
 
-> This cheat sheet summarizes important steps you should follow to promote your open source project in the best conditions. You can click items to expand and get more information from a topic.
+> 이 치트 시트는 최상의 조건으로 오픈 소스 프로젝트를 홍보하는 데 따라야 할 중요한 단계들에 대해 요약합니다. 각 항목을 클릭하여 더 많은 정보를 얻을 수 있습니다.
 
-List of available languages:
+사용 가능한 언어 목록:
 
 - &lrm;[العربية](./README-ar.md)
 - [English](./README.md)
@@ -32,100 +32,99 @@ List of available languages:
 - [简体中文](./README-zh-cn.md)
 - [繁體中文](./README-zh-tw.md)
 
-A language is missing? Want to improve this cheat sheet? [Contributions are welcome](./CONTRIBUTING.md)!
+언어가 누락되었나요? 이 치트 시트를 개선하고 싶으신가요? [기여를 환영합니다](./CONTRIBUTING.md)!
 
-[A PDF version of this cheat sheet is available here.](./pdf/cheat-sheet.pdf)
+[이 치트 시트의 PDF 버전은 여기를 클릭해서 확인하세요.](./pdf/cheat-sheet.pdf)
 
-## 1. 🎢 Preparation step
+## 1. 🎢 준비 단계
 
 <br />
 
 <details>
-<summary>👌 Make sure that your project is mature enough</summary>
+<summary>👌 프로젝트가 충분히 성숙한지 확인하세요</summary>
 <p>
 
-> Your project must be stable enough with the minimum viable features in order to hook users.
+> 프로젝트는 사용자를 끌어들일 수 있는 최소한의 기능들을 갖추고 충분히 안정적이어야 합니다.
 
 </p>
 </details>
 
 <details>
-<summary>😎 Choose a cool name for your cool project</summary>
+<summary>😎 훌륭한 프로젝트를 위한 멋진 프로젝트명을 지으세요</summary>
 <p>
 
-> Choose a name that users can easily remember.
+> 사용자가 쉽게 기억할 수 있는 이름을 선택하세요.
 
 </p>
 </details>
 
 <details>
-<summary>💅 Make your README pretty</summary>
+<summary>💅 README를 예쁘게 만드세요</summary>
 <p>
 
-> The README is the first thing your visitors will see. Make it simple, pretty and easy to read. [Here is a list of beautiful READMEs](https://github.com/matiassingers/awesome-readme).
+> 방문자가 볼 첫 번째 것이 README입니다. 간단하고 예쁘며 읽기 쉽게 만드세요. [여기서 멋진 README들을 참고하세요](https://github.com/matiassingers/awesome-readme).
 
 </p>
 </details>
 
 <details>
-<summary>💪 Highlight the strong points of your project</summary>
+<summary>💪 프로젝트의 강점을 어필하세요</summary>
 <p>
 
-> Identify your project's strengths and make sure visitors see them first.
+> 프로젝트의 강점을 파악하고 방문자가 바로 확인할 수 있도록 하세요.
 
 </p>
 </details>
 
 <details>
-<summary>✨ Provide a demo of your project</summary>
+<summary>✨ 프로젝트의 데모를 제공하세요</summary>
 <p>
 
-> Visitors will want to quickly understand the purpose of your project, how it works, and how to use it. Providing a demo is the best way to satisfy users. It could be:
+> 방문자는 프로젝트의 목적, 작동 방식 및 사용 방법을 빠르게 이해하고 싶어합니다. 데모를 제공하는 것이 사용자를 만족시키는 가장 좋은 방법입니다. 예를 들어:
 >
-> - An animated GIF demonstrating how your project works
-> - A link to a live demo
+> - 프로젝트 작동 방식을 보여주는 애니메이션 GIF
+> - 라이브 데모로의 링크
 
 </p>
 </details>
 
 <details>
-<summary>👌 Install/Usage must be super easy</summary>
+<summary>👌 설치/사용법은 매우 쉬워야 합니다</summary>
 <p>
 
-> You'll probably lose visitors if your project is not user-friendly.
+> 프로젝트가 사용자 친화적이지 않다면 방문자를 잃게 될 것입니다.
 
 </p>
 </details>
 
 <details>
-<summary>📘 Create a clean and well structured documentation</summary>
+<summary>📘 깔끔하고 잘 구조화된 문서를 만드세요</summary>
 <p>
 
-> Creating a good documentation is probably the most important step. If you have a small documentation, you can include it within your README. Otherwise, you should probably host it in a separate website. Some open source projects like [vuepress](https://v1.vuepress.vuejs.org) can help you with creating a clean documentation in a simple way.
+> 좋은 문서를 만드는 것은 아마도 가장 중요한 단계일 것입니다. 문서가 작다면 README 내에 포함시킬 수 있습니다. 그렇지 않다면 별도의 웹사이트에서 호스팅하는 것이 좋습니다. [vuepress](https://v1.vuepress.vuejs.org)와 같은 일부 오픈 소스 프로젝트는 깔끔한 문서를 간단하게 만드는 데 도움을 줄 수 있습니다.
 
  </p>
 </details>
 
 <br />
 
-## 2. 📢 Spread the word about your hard works
-
+## 2. 📢 당신이 열심히 작업한 것을 세상에 알리세요
 <br />
 
 <details>
-<summary>⭐ Make your project trustable before publishing it on social networks</summary>
+<summary>⭐ 프로젝트를 소셜 네트워크에 게시하기 전에 신뢰할 수 있게 만드세요</summary>
 <p>
 
-> Most visitors will check how many stars the project has before considering using it. A minimum amount of stars makes your project more trustable than a project with zero star. This is why you should ask people you know to support your project before doing a public announcement on social media.
+> 대부분의 방문자는 프로젝트를 사용하기 전에 프로젝트가 얻은 별의 수를 확인할 것입니다. 별이 최소한 있으면 별이 없는 프로젝트보다 더 신뢰할 수 있습니다. 이것이 바로 소셜 미디어에 홍보하기 전에 왜 지인들에게 프로젝트를 지원해 달라고 요청해야 하는지에 대한 이유입니다.
 
 </p>
 </details>
 
 <details>
-<summary>↗️ Share your project on social media and specialized platforms</summary>
+<summary>↗️ 프로젝트를 소셜 미디어와 전문 플랫폼에 공유하세요</summary>
 <p>
 
-> Tell the World about your awesome work! Publish it on social media and other specialized platforms:
+> 멋진 작업에 대해 세상에 알리세요! 소셜 미디어와 다른 전문 플랫폼에 게시하세요:
 >
 > - [Twitter](https://twitter.com)
 > - [Linkedin](https://www.linkedin.com/)
@@ -142,10 +141,10 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>📃 Write articles that mention your project</summary>
+<summary>📃 프로젝트에 대해 설명하는 기사를 작성하세요</summary>
 <p>
 
-> Write articles about your project. Purpose can be the technical stack you used, how your project works, problems you encountered, etc. Post it to publishing platforms:
+> 프로젝트에 대해 기사를 작성하세요. 목적은 사용한 기술 스택, 프로젝트의 작동 방식, 겪었던 문제 등일 수 있습니다. 발행 플랫폼에 게시하세요:
 >
 > - [medium](https://medium.com/)
 > - [dev.to](https://dev.to/)
@@ -154,79 +153,79 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>🎤 Present your project at conferences/meetups</summary>
+<summary>🎤 컨퍼런스/모임 등에서 프로젝트 발표하세요</summary>
 <p>
 
-> Presenting your project at conferences or meetups is a good way to improve its visibility.
+> 컨퍼런스나 모임에서 프로젝트를 발표하는 것은 가시성을 높이는 좋은 방법입니다.
 
 </p>
 </details>
 
 <details>
-<summary>🎥 Record and publish videos presenting your project, how it works, etc</summary>
+<summary>🎥 프로젝트, 작동 방식 등을 소개하는 동영상 녹화 및 게시</summary>
 <p>
 
-> Recording a video is not an easy exercise. However, it's probably the most efficient way to make your project famous.
+> 동영상을 녹화하는 것은 쉬운 일이 아닙니다. 그러나 프로젝트를 유명하게 만드는 가장 효과적인 방법이 될 수 있습니다.
 
 </p>
 </details>
 
 <details>
-<summary>🕐 Choose the best time to publish on social media</summary>
+<summary>🕐 소셜 미디어에 게시할 최적의 시간 선택을 찾으세요</summary>
 <p>
 
-> Don't publish during holiday periods or weekends. The best time to publish on social networks is usually mid-week.
+> 휴일이나 주말에 게시하지 마세요. 소셜 네트워크에 게시하기에 가장 좋은 시간은 일반적으로 주중입니다.
 
 </p>
 </details>
 
 <details>
-<summary>🗑 Don't spam platforms with your promotion</summary>
+<summary>🗑 잦은 홍보로 플랫폼을 스팸하지 마세요</summary>
 <p>
 
-> Don't publish twice on the same platform. It will be considered as spam and it might cause bad publicity for your project.
+> 같은 플랫폼에 두 번 이상 게시하지 마세요. 스팸으로 간주될 수 있고 프로젝트에 대한 나쁜 홍보를 유발할 수 있습니다.
 
 </p>
 </details>
 
 <br />
 
-## 3. 🤝 Keep your users
+## 3. 🤝 기존 사용자 유지
 
 <br />
 
 <details>
-<summary>🆕 Try to regularly release new versions of your project</summary>
+<summary>🆕 정기적으로 프로젝트의 새 버전을 출시하세요</summary>
 <p>
 
-> Maintain and improve your project with new releases and generate changelogs.
+> 새 릴리스로 프로젝트를 유지 및 개선하고 변경 로그를 생성하세요.
 
 </p>
 </details>
 
 <details>
-<summary>❗ Maintain your project, process opened issues</summary>
+<summary>❗ 프로젝트를 유지 관리하고 문제를 해결하세요</summary>
 <p>
 
-> Do not let issues stay open without a single response. Be nice with people that took the time to open issues. 😉
+> 이슈를 열어두고 단 한 번의 응답도 하지 않아서는 안 됩니다. 이슈를 열어 준 사람들에게 친절하게 응대하세요. 😉
 
 </p>
 </details>
 
 <details>
-<summary>🙏 Invite users to contribute</summary>
+<summary>🙏 사용자들에게 기여를 요청하세요</summary>
 <p>
 
-> A healthy project is a project with a community and contributors. Let your users know that you need help by tagging some issues with `contribution welcome` or `good first issue` labels. [See github labels](https://help.github.com/en/articles/about-labels).
+> 건강한 프로젝트는 커뮤니티와 기여자가 있는 프로젝트입니다. 'contribution welcome' 또는 'good first issue' 라벨이 있는 일부 이슈들로 사용자들에게 도움이 필요하다는 것을 알리세요. [github 라벨 보기](https://help.github.com/en/articles/about-labels).
 
 </p>
 </details>
 
 <details>
-<summary>🏆 Reward contributors</summary>
+<summary>🏆 기여자들에게 보상하세요</summary>
 <p>
 
-> Be nice with people that helped you! Some open source projects like [gatsby](https://github.com/gatsbyjs/gatsby) reward contributors with goodies. If you can't afford that, do a public post (on twitter or other platforms) about the contribution and mention the author ([here is an example of public thanks](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Open a `Contributors` section in your README to publicly thank them or showcase them on your project documentation or website. Here are some examples:
+> 도와준 사람들에게 친절하세요! gatsby와 같은 일부 오픈 소스 프로젝트는 [gatsby](https://github.com/gatsbyjs/gatsby) 기여자들에게 상품을 제공합니다. 그럴 여력이 없다면, 트위터나 다른 플랫폼들에 기여들에 대해 공개 게시물을 작성하고 기여자들을 언급하세요 ([공개 게시물을 통한 감사의 예시](https://twitter.com/FranckAbgrall/status/1139470547492978688)). README에 'Contributors' 섹션을 열어 공개적으로 감사하거나 프로젝트 문서나  웹사이트에 그들을 소개하세요. 몇 가지 예시들:
 >
 > - [vuepress (contributors README section)](https://github.com/vuejs/vuepress#code-contributors)
 > - [Rythm.js (random highlighted contributor on demo page)](https://okazari.github.io/Rythm.js/)
@@ -235,10 +234,10 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>💬 Open a community chat platform</summary>
+<summary>💬 커뮤니티 채팅 플랫폼을 열어두세요</summary>
 <p>
 
-> Github issues are not always the best way to communicate with your users. If necessary, you can use chat platforms to discuss with them:
+> Github 문제는 항상 사용자와의 커뮤니케이션에 최선의 방법이 아닐 수 있습니다. 필요한 경우 채팅 플랫폼을 사용하여 사용자와 대화할 수 있습니다:
 >
 > - [Discord](https://discord.com)
 > - [Slack](https://slack.com)
@@ -248,34 +247,34 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>🔙 Ask for feedback</summary>
+<summary>🔙 피드백을 요청하세요</summary>
 <p>
 
-> User feedback is the best way to improve your project. They probably have features and ideas that could make your project better.
+> 사용자 피드백은 프로젝트를 개선하는 가장 좋은 방법입니다. 아마도 프로젝트를 더 나아지게 할 수 있는 기능과 아이디어가 있을 것입니다.
 
 </p>
 </details>
 
 <details>
-<summary>❤️ Open a use case gallery to show what users built with your project</summary>
+<summary>❤️ 사용자가 프로젝트로 구축한 사용 사례 갤러리를 열어두세요</summary>
 <p>
 
-> Visitors will trust your project if they see concrete use cases and success stories, e.g., [the vuepress gallery](https://vuepress.gallery/).
+> 방문자는 구체적인 사용 사례와 성공 사례를 보면 프로젝트를 믿게 됩니다. 예를 들어, [vuepress gallery](https://vuepress.gallery/).
 
 </p>
 </details>
 
 <br />
 
-## 🙏 Show your support
+## 🙏 당신의 지지를 표시하세요
 
-⭐️ this repository if this cheat sheet helped you!
+⭐️ 이 치트 시트가 도움이 되었다면 이 저장소에 별을 달아주세요!
 
 <br />
 
-## ❤️ Contributors
+## ❤️ 기여자들
 
-Thanks go to these wonderful people:
+기여해주신 모든 멋진 분들께 감사를 표합니다:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -336,6 +335,6 @@ Thanks go to these wonderful people:
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+이 프로젝트는 [all-contributors](https://github.com/all-contributors/all-contributors) 사양을 따릅니다. 어떤 종류의 기여도 환영합니다!
 
 ![with love by zenika](https://img.shields.io/badge/With%20%E2%9D%A4%EF%B8%8F%20by-Zenika-b51432.svg?link=https://oss.zenika.com)
