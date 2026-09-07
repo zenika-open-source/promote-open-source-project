@@ -30,6 +30,7 @@
 - [Türkçe](./README-tr.md)
 - [简体中文](./README-zh-cn.md)
 - [繁體中文](./README-zh-tw.md)
+- [हिन्दी](./README-Hi.md)
 
 必要な言語がありますか? このチートシートを改善したいですか? [貢献は歓迎します](./CONTRIBUTING.md)!
 
@@ -325,6 +326,9 @@
     <td align="center"><a href="https://github.com/kurt-liao"><img src="https://avatars.githubusercontent.com/u/32745146?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kurt</b></sub></a><br /><a href="https://github.com/zenika-open-source/promote-open-source-project/commits?author=kurt-liao" title="Documentation">📖</a></td>
     <td align="center"><a href="https://youtube.com/channel/UCp7-e58oTMBArfCeiSooISA"><img src="https://avatars.githubusercontent.com/u/88363421?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JumperBot_</b></sub></a><br /><a href="https://github.com/zenika-open-source/promote-open-source-project/commits?author=JumperBot" title="Documentation">📖</a></td>
   </tr>
+  <tr>
+      <td align="center"><a href="https://github.com/AmeyKuradeAK"><img src="https://avatars.githubusercontent.com/u/69680874?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ammey Kuraaday</b></sub></a><br /><a href="#" title="Documentation">📖</a></td>
+    </tr>
 </table>
 
 <!-- markdownlint-restore -->

@@ -15,7 +15,8 @@
     "README-si.md",
     "README-tr.md",
     "README-zh-cn.md",
-    "README-zh-tw.md"
+    "README-zh-tw.md",
+    "README-Hi.md"
   ],
   "imageSize": 100,
   "commit": true,
@@ -332,6 +333,15 @@
       "name": "JumperBot_",
       "avatar_url": "https://avatars.githubusercontent.com/u/88363421?v=4",
       "profile": "https://youtube.com/channel/UCp7-e58oTMBArfCeiSooISA",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "AmeyKuradeAK",
+      "name": "Ammey Kuraaday",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69680874?v=4",
+      "profile": "https://github.com/AmeyKuradeAK",
       "contributions": [
         "doc"
       ]
