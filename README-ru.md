@@ -14,22 +14,22 @@
 
 Список доступных языков:
 
-- &lrm;[العربية](./README-ar.md)
-- [English](./README.md)
-- [Català](./README-ca.md)
-- [Deutsch](./README-de.md)
-- [Español](./README-es.md)
-- [پارسی](./README-fa.md)
-- [Français](./README-fr.md)
-- [Bahasa Indonesia](./README-id.md)
-- [Italiano](./README-it.md)
-- [日本語](./README-jp.md)
-- [Português](./README-pt.md)
-- [Русский](./README-ru.md)
-- [සිංහල](./README-si.md)
-- [Türkçe](./README-tr.md)
-- [简体中文](./README-zh-cn.md)
-- [繁體中文](./README-zh-tw.md)
+- &lrm;[🇦🇪 العربية](./README-ar.md)
+- [🏴 English](./README.md)
+- [🏴 Català](./README-ca.md)
+- [🇩🇪 Deutsch](./README-de.md)
+- [🇪🇸 Español](./README-es.md)
+- [🇮🇷 فارسی](./README-fa.md)
+- [🇫🇷 Français](./README-fr.md)
+- [🇮🇩 Bahasa Indonesia](./README-id.md)
+- [🇮🇹 Italiano](./README-it.md)
+- [🇯🇵 日本語](./README-jp.md)
+- [🇵🇹 Português](./README-pt.md)
+- [🇷🇺 Русский](./README-ru.md)
+- [🇱🇰 සිංහල](./README-si.md)
+- [🇹🇷 Türkçe](./README-tr.md)
+- [🇨🇳 简体中文](./README-zh-cn.md)
+- [🇹🇭 繁體中文](./README-zh-tw.md)
 
 Языка нет в списке? Хотите что-то исправить? [Ваше участие приветствуется](./CONTRIBUTING.md)!
 

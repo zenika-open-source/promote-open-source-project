@@ -15,22 +15,22 @@
 
 لیست سایر زبان های موجود:
 
-- [العربية](./README-ar.md)
-- [English](./README.md)
-- [Català](./README-ca.md)
-- [Deutsch](./README-de.md)
-- [Español](./README-es.md)
-- [پارسی](./README-fa.md)
-- [Français](./README-fr.md)
-- [Bahasa Indonesia](./README-id.md)
-- [Italiano](./README-it.md)
-- [日本語](./README-jp.md)
-- [Português](./README-pt.md)
-- [Русский](./README-ru.md)
-- [සිංහල](./README-si.md)
-- [Türkçe](./README-tr.md)
-- [简体中文](./README-zh-cn.md)
-- [繁體中文](./README-zh-tw.md)
+- &lrm;[🇦🇪 العربية](./README-ar.md)
+- [🏴 English](./README.md)
+- [🏴 Català](./README-ca.md)
+- [🇩🇪 Deutsch](./README-de.md)
+- [🇪🇸 Español](./README-es.md)
+- [🇮🇷 فارسی](./README-fa.md)
+- [🇫🇷 Français](./README-fr.md)
+- [🇮🇩 Bahasa Indonesia](./README-id.md)
+- [🇮🇹 Italiano](./README-it.md)
+- [🇯🇵 日本語](./README-jp.md)
+- [🇵🇹 Português](./README-pt.md)
+- [🇷🇺 Русский](./README-ru.md)
+- [🇱🇰 සිංහල](./README-si.md)
+- [🇹🇷 Türkçe](./README-tr.md)
+- [🇨🇳 简体中文](./README-zh-cn.md)
+- [🇹🇭 繁體中文](./README-zh-tw.md)
 
 A language is missing? Want to improve this cheat sheet? [Contributions are welcome](./CONTRIBUTING.md)!
 
@@ -77,7 +77,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 </details>
 
 <details>
-<summary>✨ یک دمو از برنامه خود نمایش دهید</summary>
+<summary>✨ یک پیش نمایش(دمو) از برنامه خود نمایش دهید</summary>
 <p>
 
 > ممکن است بازدیدکنندگان در بازدید اول نحوه کار و هدف برنامه را متوجه نشوند پس شما میتوانید از راه های زیر یک دمو از برنامه را در معرض نمایش قرار دهید
