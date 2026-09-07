@@ -188,6 +188,15 @@ Non trovi la tua lingua? Vuoi migliorare questi appunti? I vostri [contributi so
 </p>
 </details>
 
+<details>
+<summary>🔨 Consenti ai volenterosi di aiutarti</summary>
+<p>
+
+> Colleziona una serie di problemi semplici da risolvere per chi vuole cominciare a contribuire al tuo codice da zero.
+
+</p>
+</details>
+
 <br />
 
 ## 3. 🤝 Tieniti stretti gli utenti
@@ -324,6 +333,10 @@ Un grazie va a queste persone meravigliose:
     <td align="center"><a href="https://github.com/RSurya99"><img src="https://avatars.githubusercontent.com/u/73375663?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rafli Surya P</b></sub></a><br /><a href="https://github.com/zenika-open-source/promote-open-source-project/commits?author=RSurya99" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/kurt-liao"><img src="https://avatars.githubusercontent.com/u/32745146?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kurt</b></sub></a><br /><a href="https://github.com/zenika-open-source/promote-open-source-project/commits?author=kurt-liao" title="Documentation">📖</a></td>
     <td align="center"><a href="https://youtube.com/channel/UCp7-e58oTMBArfCeiSooISA"><img src="https://avatars.githubusercontent.com/u/88363421?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JumperBot_</b></sub></a><br /><a href="https://github.com/zenika-open-source/promote-open-source-project/commits?author=JumperBot" title="Documentation">📖</a></td>
+  </tr>
+<tr>
+    <td align="center"><a href="https://github.com/stefanocudini"><img src="https://avatars.githubusercontent.com/u/47107?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Stefano Cudini</b></sub></a><br /><a href="#translation-stefanocudini" title="Documentation">📖</a></td>
+    
   </tr>
 </table>
 
