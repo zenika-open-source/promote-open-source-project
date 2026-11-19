@@ -131,6 +131,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 > - [Facebook](https://www.facebook.com/)
 > - [Reddit](https://www.reddit.com/)
 > - [Dev.to](https://dev.to/)
+> - [daily.dev](https://daily.dev/)
 > - [Lobsters](https://lobste.rs/)
 > - [Hacker News](https://news.ycombinator.com/)
 > - [Product Hunt](https://www.producthunt.com/)
