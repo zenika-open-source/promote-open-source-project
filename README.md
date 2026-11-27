@@ -134,7 +134,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 > - [Lobsters](https://lobste.rs/)
 > - [Hacker News](https://news.ycombinator.com/)
 > - [Product Hunt](https://www.producthunt.com/)
-> - [Beta page](https://betapage.co/)
+> - [SaaSCity](https://saascity.io/)
 > - [Human Coders](https://news.humancoders.com/)
 
 </p>
